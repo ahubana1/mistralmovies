@@ -5,6 +5,10 @@ using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Movies_Mistral.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Movies_Mistral
 {
@@ -20,6 +24,14 @@ namespace Movies_Mistral
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContextPool<MoviesContext>
+                (options => {
+                    options.UseSqlServer(
+                    "Server=(localdb)\\mssqllocaldb;Database=Movies;Trusted_Connection=True;");
+                });
+
+            SeedData();
+
             services.AddControllersWithViews();
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
@@ -70,6 +82,33 @@ namespace Movies_Mistral
                     spa.UseAngularCliServer(npmScript: "start");
                 }
             });
+        }
+
+        public void SeedData() 
+        {
+            using (var context = new MoviesContext())
+            {
+                context.Database.EnsureCreated();
+
+                IEnumerable<Actor> actors = Seeder.SeederClass.SeedActors();
+                IEnumerable<Movie> movies = Seeder.SeederClass.SeedMovies(context);
+
+                foreach (var actor in actors)
+                {
+                    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
+                    if (testActor == null)
+                    {
+                        context.Actors.Add(actor);
+                    }
+                }
+
+                foreach (var movie in movies)
+                {
+                    context.Movies.Add(movie);
+                }
+
+                context.SaveChanges();
+            }
         }
     }
 }
