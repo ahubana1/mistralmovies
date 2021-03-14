@@ -105,21 +105,51 @@ namespace Movies_Mistral
             {
                 context.Database.EnsureCreated();
 
-                IEnumerable<Actor> actors = Seeder.SeederClass.SeedActors();
-                IEnumerable<Movie> movies = Seeder.SeederClass.SeedMovies(context);
+                //IEnumerable<Actor> actors = Seeder.SeederClass.SeedActors();
+                //IEnumerable<Movie> movies = Seeder.SeederClass.SeedMovies(context);
 
-                foreach (var actor in actors)
-                {
-                    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
-                    if (testActor == null)
-                    {
-                        context.Actors.Add(actor);
-                    }
-                }
+                //foreach (var actor in actors)
+                //{
+                //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
+                //    if (testActor == null)
+                //    {
+                //        context.Actors.Add(actor);
+                //    }
+                //}
 
-                foreach (var movie in movies)
+                //foreach (var movie in movies)
+                //{
+                //    context.Movies.Add(movie);
+                //}
+
+                var tvShows = new int[] { 1668, 1408, 1418, 2691, 1100, 48891, 1421, 1395, 1400, 1911, 1399 };
+                foreach (var showNum in tvShows)
                 {
-                    context.Movies.Add(movie);
+                    //IEnumerable<Actor> actorsFromShow = Seeder.SeederClass.SeedActorsFromShow(showNum);
+                    //IEnumerable<Episode> episodes = Seeder.SeederClass.SeedEpisodesFromShow(showNum, context);
+                    //IEnumerable<Season> seasons = Seeder.SeederClass.SeedSeasonsFromShow(showNum, context);
+                    Show show = Seeder.SeederClass.SeedShow(showNum, context);
+
+                    //foreach (var actor in actorsFromShow)
+                    //{
+                    //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
+                    //    if (testActor == null)
+                    //    {
+                    //        context.Actors.Add(actor);
+                    //    }
+                    //}
+
+                    //foreach (var episode in episodes)
+                    //{
+                    //    context.Episodes.Add(episode);
+                    //}
+
+                    //foreach (var season in seasons)
+                    //{
+                    //    context.Seasons.Add(season);
+                    //}
+
+                    context.Shows.Add(show);
                 }
 
                 context.SaveChanges();

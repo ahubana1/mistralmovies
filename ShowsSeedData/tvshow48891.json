@@ -1,0 +1,2887 @@
+{
+    "Id": 48891,
+    "Title": "Brooklyn Nine-Nine",
+    "Plot": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+    "Rating": 8.2,
+    "RatingCount": 1572,
+    "FirstAired": "2013-09-17",
+    "LastAired": "2020-04-23",
+    "PosterPath": "/dzj0oLZWe3qMgK4jlgdKWPVxxIx.jpg",
+    "Cast": [
+        "Andy Samberg",
+        "Melissa Fumero",
+        "Terry Crews",
+        "Joe Lo Truglio",
+        "Stephanie Beatriz",
+        "Andre Braugher"
+    ],
+    "Seasons": [
+        {
+            "Id": 55216,
+            "SeasonNumber": 0,
+            "Episodes": [
+                {
+                    "Id": 2297386,
+                    "EpisodeNumber": 2,
+                    "Title": "Detective Skills with Hitchcock and Scully: How to Stay Awake During a Stakeout",
+                    "Plot": "Detectives Hitchcock and Scully demonstrate how they stay awake during stakeouts.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2015-09-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 2297388,
+                    "EpisodeNumber": 3,
+                    "Title": "Detective Skills with Hitchcock and Scully: Processing the Perp",
+                    "Plot": "Detectives Hitchcock and Scully breakdown the steps of the booking process.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2015-09-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 2297385,
+                    "EpisodeNumber": 1,
+                    "Title": "Detective Skills with Hitchcock and Scully: Preparing for the Stakeout",
+                    "Plot": "Detectives Hitchcock and Scully give an inside look on how to prepare for a stakeout.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2015-08-30",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 55215,
+            "SeasonNumber": 1,
+            "Episodes": [
+                {
+                    "Id": 915553,
+                    "EpisodeNumber": 2,
+                    "Title": "The Tagger",
+                    "Plot": "When Jake is late for roll call, Captain Ray Holt assigns him to a graffiti case that Jake feels is below his level. However, when the culprit turns out to be the Deputy Commissioner’s son, the case becomes a major problem. Meanwhile, Gina’s psychic friend visits the precinct and gets inside Charles.",
+                    "Rating": 7.7,
+                    "RatingCount": 19,
+                    "AirDate": "2013-09-24",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 967880,
+                    "EpisodeNumber": 8,
+                    "Title": "Old School",
+                    "Plot": "Jake gets to spend the day with his hero, a former crime reporter; Terry and Charles work with Rosa on how she comes across on the witness stand.",
+                    "Rating": 9.3,
+                    "RatingCount": 6,
+                    "AirDate": "2013-11-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 970643,
+                    "EpisodeNumber": 14,
+                    "Title": "The Ebony Falcon",
+                    "Plot": "On his first task back in the field, Terry busts a steroid ring, and in doing so, takes cues from Jake on how to harness his emotions. Meanwhile, Amy and Rosa help solve a breaking-and-entering case at Gina's apartment.",
+                    "Rating": 8.3,
+                    "RatingCount": 6,
+                    "AirDate": "2014-01-21",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 915554,
+                    "EpisodeNumber": 3,
+                    "Title": "The Slump",
+                    "Plot": "When Jake starts accumulating unsolved cases, the other detectives worry his losing streak will rub off on them; Amy, Rosa and Gina run a program for at-risk youth; Boyle helps Sergeant Jeffords with a case.",
+                    "Rating": 7.6,
+                    "RatingCount": 16,
+                    "AirDate": "2013-10-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 967877,
+                    "EpisodeNumber": 7,
+                    "Title": "48 Hours",
+                    "Plot": "When Jake makes an arrest without a lot of proof, he only has 48 hours to collect evidence, or else the \"perp\" will be released. After his unsuccessful interrogation of the suspect, Jake forces his co-workers to spend their weekend helping him crack the case. So, while the team is stuck at the precinct, Charles judges a pie contest between Gina and Rosa, and Holt helps Terry look better in the eyes of his in-laws.",
+                    "Rating": 9.3,
+                    "RatingCount": 6,
+                    "AirDate": "2013-11-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 973086,
+                    "EpisodeNumber": 21,
+                    "Title": "Unsolvable",
+                    "Plot": "During a weekend off, Jake decides to tackle a cold case that everyone thinks is unsolvable; Amy plans a trip with Teddy (Kyle Bornheimer); Rosa and Gina share a secret with Charles.",
+                    "Rating": 8.4,
+                    "RatingCount": 8,
+                    "AirDate": "2014-03-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 968799,
+                    "EpisodeNumber": 11,
+                    "Title": "Christmas",
+                    "Plot": "When Holt starts getting death threats, Jake takes charge of his security; Amy tries to get a precinct Christmas photo; Terry gets his mojo back.",
+                    "Rating": 8,
+                    "RatingCount": 16,
+                    "AirDate": "2013-12-03",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 972341,
+                    "EpisodeNumber": 19,
+                    "Title": "Tactical Village",
+                    "Plot": "The precinct heads to Tactical Village Day, a mandatory training course in which all regional precincts compete. While there, Amy runs into Teddy, a fellow officer she used to date. Meanwhile, Holt becomes addicted to a game on his phone and Rosa is pissed at Charles for not inviting her to his wedding",
+                    "Rating": 7.9,
+                    "RatingCount": 7,
+                    "AirDate": "2014-03-04",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 972004,
+                    "EpisodeNumber": 18,
+                    "Title": "The Apartment",
+                    "Plot": "Jake’s crushing debt finally catches up to him, and he is in danger of losing his apartment, unless Gina can find a way to bail him out. Captain Holt and Sergeant Jeffords hold performance reviews for the entire precinct, and Rosa and Boyle have a run-in with one of the weekend squad officers.",
+                    "Rating": 9,
+                    "RatingCount": 6,
+                    "AirDate": "2014-02-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 968146,
+                    "EpisodeNumber": 6,
+                    "Title": "Halloween",
+                    "Plot": "It's Halloween night, a busy time of the year for any police precinct. Amy detests the holiday, and is not thrilled when she has to don a costume to go undercover on street patrol with Charles. Back at the precinct, Jake bets Captain Holt that he can steal his Medal of Valor before midnight, which results in him bringing out some costumes of his own.",
+                    "Rating": 8.4,
+                    "RatingCount": 16,
+                    "AirDate": "2013-10-22",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 915552,
+                    "EpisodeNumber": 4,
+                    "Title": "M.E. Time",
+                    "Plot": "Much to the team’s annoyance, Jake hits on an attractive medical examiner, Dr. Rossi at a crime scene and holds up the autopsy report. He learns his lesson when Dr. Rossi turns out to be more than he bargained for. Meanwhile, Amy’s purse-snatching case is stalled when the sketch artist is out sick, but she discovers that Sgt. Jeffords has hidden artistic talents.",
+                    "Rating": 8.7,
+                    "RatingCount": 6,
+                    "AirDate": "2013-10-08",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 915551,
+                    "EpisodeNumber": 1,
+                    "Title": "Pilot",
+                    "Plot": "Detective Jake Peralta is a talented, but carefree police detective at Brooklyn's 99th precinct who, along with his eclectic group of colleagues, are used to having a lax captain around the office. However, when tightly-wound Captain Ray Holt takes over, he is determined to make this dysfunctional group of detectives into the best precinct in Brooklyn.",
+                    "Rating": 7.8,
+                    "RatingCount": 23,
+                    "AirDate": "2013-09-17",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 972691,
+                    "EpisodeNumber": 20,
+                    "Title": "Fancy Brudgom",
+                    "Plot": "Charles asks Jake to be the best man at his wedding, a role that requires Jake to be supportive in important wedding decisions, ranging from cake tasting to floral arrangements. Meanwhile, Terry, Amy and Gina support each other as they start a new extreme diet and Holt helps Rosa make a sincere apology.",
+                    "Rating": 8.3,
+                    "RatingCount": 6,
+                    "AirDate": "2014-03-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 973302,
+                    "EpisodeNumber": 22,
+                    "Title": "Charges and Specs",
+                    "Plot": "Jake’s investigation of philanthropic civic leader Lucas Wint is shut down by Commissioner Podalski. Still determined to crack the case, Jake enlists Amy and a reluctant Captain Holt to help him uncover more evidence, even if it means facing suspension. Meanwhile, Charles is devastated over pre-marital problems with Vivian, and Gina knows just how to cheer him up.",
+                    "Rating": 9.1,
+                    "RatingCount": 7,
+                    "AirDate": "2014-03-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 970251,
+                    "EpisodeNumber": 12,
+                    "Title": "Pontiac Bandit",
+                    "Plot": "Jake is interested in one of Rosa's perps, Doug Judy, who has information about the \"Pontiac Bandit,\" a car thief whom Jake has been tracking for years. Meanwhile, the station tries to accommodate a scooter-bound Charles' every need when he returns to work, but he proves to be too much to handle. And Captain Holt struggles to find a home for two puppies.",
+                    "Rating": 9.5,
+                    "RatingCount": 6,
+                    "AirDate": "2014-01-07",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 971284,
+                    "EpisodeNumber": 16,
+                    "Title": "The Party",
+                    "Plot": "The officers in the precinct head over to Holt's house to celebrate his birthday, but they wind up making a poor impression on his husband.",
+                    "Rating": 8.4,
+                    "RatingCount": 6,
+                    "AirDate": "2014-02-04",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 967879,
+                    "EpisodeNumber": 9,
+                    "Title": "Sal's Pizza",
+                    "Plot": "When Sal's Pizza burns down, Jake goes out of his way to disprove the fire marshal's assumption that the owner set the fire; a computer virus exposes the precinct members' Internet browser histories.",
+                    "Rating": 8.3,
+                    "RatingCount": 6,
+                    "AirDate": "2013-11-19",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 915555,
+                    "EpisodeNumber": 5,
+                    "Title": "The Vulture",
+                    "Plot": "A detective from Major Crimes takes over Jake's nearly solved murder case and steals his thunder.",
+                    "Rating": 7.7,
+                    "RatingCount": 16,
+                    "AirDate": "2013-10-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 971479,
+                    "EpisodeNumber": 17,
+                    "Title": "Full Boyle",
+                    "Plot": "Detective Boyle's new romance has upped his swagger, but Jake intervenes before his colleague goes \"Full Boyle\" and gets too serious, too soon, with his girlfriend. Meanwhile, Rosa and Amy have trouble taking a costumed citizen crime-fighter seriously, and Captain Holt has a new opponent",
+                    "Rating": 9,
+                    "RatingCount": 6,
+                    "AirDate": "2014-02-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 968723,
+                    "EpisodeNumber": 10,
+                    "Title": "Thanksgiving",
+                    "Plot": "When Holt and Jake must leave Amy's Thanksgiving dinner to catch a perp, Boyle steps in to save the day.",
+                    "Rating": 9.2,
+                    "RatingCount": 6,
+                    "AirDate": "2013-11-26",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 970379,
+                    "EpisodeNumber": 13,
+                    "Title": "The Bet",
+                    "Plot": "Jake and Amy's ongoing bet about who can make more arrests comes to a close. Meanwhile, Charles receives the Medal of Valor for getting shot in the line of duty, but the pain medication he is taking causes him to reveal his true opinions about his colleagues.",
+                    "Rating": 9.7,
+                    "RatingCount": 6,
+                    "AirDate": "2014-01-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 970922,
+                    "EpisodeNumber": 15,
+                    "Title": "Operation: Broken Feather",
+                    "Plot": "Jake probes a series of hotel robberies with Amy, but is upset when he learns she may leave the precinct to work with the Vulture in the Special Crimes unit. Meanwhile, Holt and Jeffords try to make their workplace more efficient.",
+                    "Rating": 9,
+                    "RatingCount": 6,
+                    "AirDate": "2014-02-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 62379,
+            "SeasonNumber": 2,
+            "Episodes": [
+                {
+                    "Id": 1038357,
+                    "EpisodeNumber": 16,
+                    "Title": "The Wednesday Incident",
+                    "Plot": "When Jake notices that Holt has been acting moody, he teams up with Holt's husband to figure out what happened. Meanwhile, at the precinct, Charles tries to get a confession out of a geriatric suspect who pretends to be senile and adorable whenever Amy and Rosa are around.",
+                    "Rating": 7.5,
+                    "RatingCount": 13,
+                    "AirDate": "2015-02-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1022917,
+                    "EpisodeNumber": 12,
+                    "Title": "Beach House",
+                    "Plot": "The team is excited to spend the weekend at Charles' beach house for a detectives-only-getaway, until Jake ruins the fun by inviting Captain Holt. Meanwhile, Charles helps Rosa send romantic texts to her new boyfriend, and Gina tries to get Amy drunk, simply for her own enjoyment.",
+                    "Rating": 7.8,
+                    "RatingCount": 15,
+                    "AirDate": "2015-01-04",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1004770,
+                    "EpisodeNumber": 2,
+                    "Title": "Chocolate Milk",
+                    "Plot": "Holt is taken by surprise when his longtime nemesis, Deputy Chief Madeline Wuntch arrives for an inspection of his precinct. Meanwhile, Jake and Terry test the boundaries of “work friends” vs. “friend friends” as they investigate a stabbing at a hipster chocolate milk bar.",
+                    "Rating": 7.4,
+                    "RatingCount": 15,
+                    "AirDate": "2014-10-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1012950,
+                    "EpisodeNumber": 7,
+                    "Title": "Lockdown",
+                    "Plot": "The precinct goes into lockdown mode on Thanksgiving night, and Jake, who was left in charge, is confident in his ability to keep spirits high and avoid chaos. Amy is less confident, as things spiral out of control.",
+                    "Rating": 7.8,
+                    "RatingCount": 16,
+                    "AirDate": "2014-11-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1037113,
+                    "EpisodeNumber": 15,
+                    "Title": "Windbreaker City",
+                    "Plot": "Jake is heartbroken over Sophia but his spirits are lifted when the squad is invited to a Homeland Security terrorist training simulation. That is, until the agent in charge assigns them the lame role of playing hostages. Meanwhile, Gina administers a psychological exam to Holt, and Amy and Rosa compete for a day off from work.",
+                    "Rating": 8.2,
+                    "RatingCount": 15,
+                    "AirDate": "2015-02-08",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1054900,
+                    "EpisodeNumber": 23,
+                    "Title": "Johnny and Dora",
+                    "Plot": "Jake and Amy go undercover to catch Brooklyn’s most notorious identity thief, and the case brings them closer together – very close. Meanwhile, the entire precinct is caught off-guard when one of their own says goodbye to the Nine-Nine.",
+                    "Rating": 8.2,
+                    "RatingCount": 5,
+                    "AirDate": "2015-05-17",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1009811,
+                    "EpisodeNumber": 3,
+                    "Title": "The Jimmy Jab Games",
+                    "Plot": "The squad has time to kill when the arrival of the Serbian President’s motorcade to Brooklyn has been delayed. So, Jake launches “The Jimmy Jab Games,” an annual series of competitions in the precinct. Meanwhile, Terry and Holt take on a new drug task force approved by Holt’s nemesis, Deputy Chief Madeline Wuntch.",
+                    "Rating": 8,
+                    "RatingCount": 16,
+                    "AirDate": "2014-10-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1016956,
+                    "EpisodeNumber": 9,
+                    "Title": "The Road Trip",
+                    "Plot": "In an attempt to add a touch of romance to their work trip, Jake invites his girlfriend, Sophia, as well as Amy's boyfriend, Teddy, to join them at a B&B. Meanwhile, Rosa adamantly refuses to admit to Terry and Gina that she is sick, and Charles is eager to help Holt with his anniversary breakfast.",
+                    "Rating": 7.3,
+                    "RatingCount": 16,
+                    "AirDate": "2014-11-30",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1022916,
+                    "EpisodeNumber": 11,
+                    "Title": "Stakeout",
+                    "Plot": "Jake and Charles' bro-mance starts to crack when they volunteer for an eight-day stakeout in very close quarters. Meanwhile, Captain Holt's nephew, Marcus, comes to Brooklyn and captures Rosa's attention.",
+                    "Rating": 7.7,
+                    "RatingCount": 16,
+                    "AirDate": "2014-12-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1052898,
+                    "EpisodeNumber": 21,
+                    "Title": "Det. Dave Majors",
+                    "Plot": "Jake is excited to work a case with the best detective in the NYPD, Detective Majors, until Majors shares his intentions to ask Amy out on a date. Meanwhile, Charles and Gina try to convince Terry to stay at the Nine-Nine when he considers accepting an offer to work at a private security firm.",
+                    "Rating": 8.1,
+                    "RatingCount": 5,
+                    "AirDate": "2015-05-03",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1032003,
+                    "EpisodeNumber": 14,
+                    "Title": "Defense Rests",
+                    "Plot": "When Sophia's job gets in the way of her relationship with Jake, Jake tries to smooth things over with her boss. Meanwhile, Wuntch needs Holt's help for a job recommendation.",
+                    "Rating": 7.6,
+                    "RatingCount": 15,
+                    "AirDate": "2015-01-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1018187,
+                    "EpisodeNumber": 10,
+                    "Title": "The Pontiac Bandit Returns",
+                    "Plot": "\"The Pontiac Bandit,\" aka Doug Judy, is back in custody, after jamming up Jake and Rosa in his previous encounter with them. Meanwhile, Gina and Boyle are nervous that their parents might be getting too close, and Santiago makes Holt a Christmas gift against his wishes.",
+                    "Rating": 7.8,
+                    "RatingCount": 16,
+                    "AirDate": "2014-12-07",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1042433,
+                    "EpisodeNumber": 18,
+                    "Title": "Captain Peralta",
+                    "Plot": "Jake's mainly absentee father, Roger, comes to town to spend some time with his son. Jake can't wait to see him, but Charles is skeptical of Roger's intentions. Meanwhile, Holt tasks Amy, Terry, Gina and Rosa with an impossible brain teaser in exchange for Beyoncé tickets.",
+                    "Rating": 7.8,
+                    "RatingCount": 14,
+                    "AirDate": "2015-03-08",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1011853,
+                    "EpisodeNumber": 6,
+                    "Title": "Jake and Sophia",
+                    "Plot": "Jake hits it off with Sophia, a woman whom he meets at a bar, only to find out she is the defense attorney for a perp he is trying to put in jail. Meanwhile, Gina and Charles work to put their relationship behind them.",
+                    "Rating": 7.8,
+                    "RatingCount": 16,
+                    "AirDate": "2014-11-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1012043,
+                    "EpisodeNumber": 5,
+                    "Title": "The Mole",
+                    "Plot": "There's a mole in the precinct and Holt and Jake need to find out who it is before Deputy Chief Madeline Wuntch gets wind of it. Meanwhile, Terry and Rosa visit a \"silent\" disco to uncover new leads for their new drug task force.",
+                    "Rating": 8,
+                    "RatingCount": 16,
+                    "AirDate": "2014-11-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1053440,
+                    "EpisodeNumber": 22,
+                    "Title": "The Chopper",
+                    "Plot": "Holt is wary when Wuntch lets Jake work his dream case, worried that she is setting him up to fail. Back at the precinct, Amy, Rosa and Gina help Terry host a field trip for a local magnet school.",
+                    "Rating": 8.6,
+                    "RatingCount": 5,
+                    "AirDate": "2015-05-10",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1043567,
+                    "EpisodeNumber": 19,
+                    "Title": "Sabotage",
+                    "Plot": "After a streak of really bad luck, Jake thinks he's being sabotaged by an enemy. Holt assigns Amy and Rosa to investigate the truth. Meanwhile, Holt hurts Gina's feelings by calling her dance troupe a \"hobby,\" and Charles is stuck working a case with Scully and Hitchcock in Jake's absence.",
+                    "Rating": 8.7,
+                    "RatingCount": 6,
+                    "AirDate": "2015-03-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1022918,
+                    "EpisodeNumber": 13,
+                    "Title": "Payback",
+                    "Plot": "The squad decides it's high time Jake paid them back all the money he has owed them from over the years. Meanwhile, Amy and Holt team up to re-open the Brooklyn Broiler case.",
+                    "Rating": 7.8,
+                    "RatingCount": 14,
+                    "AirDate": "2015-01-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1041361,
+                    "EpisodeNumber": 17,
+                    "Title": "Boyle-Linetti Wedding",
+                    "Plot": "It's the day of Gina and Charles' parents' wedding, and the whole squad is given a job to fulfill for the ceremony. However, Jake and Amy get sidetracked chasing a criminal, and Terry struggles to officiate the wedding.",
+                    "Rating": 7.7,
+                    "RatingCount": 15,
+                    "AirDate": "2015-03-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1050494,
+                    "EpisodeNumber": 20,
+                    "Title": "AC/DC",
+                    "Plot": "After Jake injures himself on a case, Terry forces him take time off and rest -- something Jake doesn’t know how to do. Across town, Holt and Rosa try to avoid intimate conversation during a double-date with their significant others.",
+                    "Rating": 9.3,
+                    "RatingCount": 5,
+                    "AirDate": "2015-04-26",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1014440,
+                    "EpisodeNumber": 8,
+                    "Title": "USPIS",
+                    "Plot": "While attempting to catch a drug dealer, Jake and Charles reluctantly join forces with the nerdy lead investigator at the U.S. Postal Service, Jack Danger. Meanwhile, the rest of the team helps Amy quit smoking",
+                    "Rating": 7.4,
+                    "RatingCount": 16,
+                    "AirDate": "2014-11-23",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1010284,
+                    "EpisodeNumber": 4,
+                    "Title": "Halloween II",
+                    "Plot": "The Peralta/Holt annual Halloween bet continues when Jake challenges the Captain that he can steal his watch before midnight. Meanwhile, Gina is upset that her dance team, Floorgasm, kicks her off the squad and Terry confronts her about her bad attitude.",
+                    "Rating": 7.8,
+                    "RatingCount": 17,
+                    "AirDate": "2014-10-19",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1004769,
+                    "EpisodeNumber": 1,
+                    "Title": "Undercover",
+                    "Plot": "Jake’s undercover FBI operation ends in a successful sting, until he learns one mobster has gotten away. As Jake enlists Charles’ help to track him down, Holt tests the squad’s patience with practice drills.",
+                    "Rating": 7.3,
+                    "RatingCount": 16,
+                    "AirDate": "2014-09-28",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 69590,
+            "SeasonNumber": 3,
+            "Episodes": [
+                {
+                    "Id": 1097833,
+                    "EpisodeNumber": 2,
+                    "Title": "The Funeral",
+                    "Plot": "The Nine-Nine gets another personnel change that could put Jake and Amy’s budding relationship at risk. Meanwhile, Terry assists Holt with an important public relations matter, and Rosa and Gina try to convince Charles to rethink his affection for a fellow officer.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2015-10-04",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1131715,
+                    "EpisodeNumber": 6,
+                    "Title": "Into the Woods",
+                    "Plot": "Jake and Charles convince Terry to take a weekend camping trip as a much needed \"babymoon,\" but they soon realize it might not be the idealistic weekend for which they had hoped. Meanwhile back at the precinct, Holt gives Rosa some important relationship advice and Amy enlists Gina's help to prepare her for an important presentation.",
+                    "Rating": 7.2,
+                    "RatingCount": 12,
+                    "AirDate": "2015-11-08",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1110048,
+                    "EpisodeNumber": 4,
+                    "Title": "The Oolong Slayer",
+                    "Plot": "When investigating a serial killer, Jake enlists Holt’s help in an attempt to solve the case off the radar. At the precinct, Rosa and Amy are forced to deal with demands from an old adversary and Terry discovers a new obsession.",
+                    "Rating": 7.5,
+                    "RatingCount": 13,
+                    "AirDate": "2015-10-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1172728,
+                    "EpisodeNumber": 19,
+                    "Title": "Terry Kitties",
+                    "Plot": "In an attempt to prove to his old precinct that he’s not a joke, Terry enlists Jake’s help in solving a case from his past. Meanwhile, Adrian moves in with Charles, with mixed results, and Amy invites herself to a hyper-competitive training exercise with Holt and Rosa",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2016-03-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1152279,
+                    "EpisodeNumber": 12,
+                    "Title": "9 Days",
+                    "Plot": "When Captain Holt and Jake accidentally contract the mumps during an investigation, they decide to be quarantined together in hopes of still solving the case. Meanwhile, Rosa tries to help Boyle through a mourning process, and Terry is forced to clean up Hitchcock and Scully’s mess.",
+                    "Rating": 7.3,
+                    "RatingCount": 13,
+                    "AirDate": "2016-01-19",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1181841,
+                    "EpisodeNumber": 22,
+                    "Title": "Bureau",
+                    "Plot": "With Pimento’s life still in peril, Captain Holt calls on an old friend in the FBI to help with a seemingly impossible heist. Meanwhile Amy makes a breakthrough while undercover, and Terry and Gina discover an information leak in the Nine-Nine.",
+                    "Rating": 7.4,
+                    "RatingCount": 13,
+                    "AirDate": "2016-04-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1152278,
+                    "EpisodeNumber": 11,
+                    "Title": "Hostage Situation",
+                    "Plot": "Charles and Genevieve want to take their relationship to a new level, but his ex-wife, Eleanor, steamrolls their plans. Meanwhile, Amy asks Terry to write a recommendation letter with disastrous results, and Holt and Rosa enlist Gina’s help to solve a case.",
+                    "Rating": 7.5,
+                    "RatingCount": 13,
+                    "AirDate": "2016-01-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1163062,
+                    "EpisodeNumber": 16,
+                    "Title": "House Mouses",
+                    "Plot": "When Jake insults Hitchcock and Scully's work ethic in the precinct, they force their way into one of his cases in attempt to prove themselves. Meanwhile, Amy and Gina help Rosa conquer one of her biggest fears, and Holt and Boyle work a celebrity case.",
+                    "Rating": 7.3,
+                    "RatingCount": 12,
+                    "AirDate": "2016-02-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1174511,
+                    "EpisodeNumber": 20,
+                    "Title": "Paranoia",
+                    "Plot": "Rosa enlists Jake to help change Terry’s disapproving opinion about her fast-moving relationship with Adrian Pimento. But their love for each other is put on hold when Pimento thinks someone from his past is trying to kill him.",
+                    "Rating": 7.1,
+                    "RatingCount": 14,
+                    "AirDate": "2016-03-29",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1136866,
+                    "EpisodeNumber": 8,
+                    "Title": "Ava",
+                    "Plot": "Jake's in charge of entertaining Sharon while Terry and Rosa head off to learn about the Douglass Street murders, but Sharon's water breaks and crisis ensues at the precinct. Amy and Charles must process paperwork by hand due to an internet outage. Meanwhile, Holt is forced to confront his ex-boyfriend.",
+                    "Rating": 7.6,
+                    "RatingCount": 13,
+                    "AirDate": "2015-11-22",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1138484,
+                    "EpisodeNumber": 10,
+                    "Title": "Yippie Kayak",
+                    "Plot": "Jake, Charles and Gina are involved in a real-life “Die Hard” situation while off-duty on Christmas Eve, and Terry must leave his family celebration to try to save his squad. Meanwhile, Amy tries to prove she’s just as tough as Holt and Rosa.",
+                    "Rating": 7.7,
+                    "RatingCount": 13,
+                    "AirDate": "2015-12-13",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1161404,
+                    "EpisodeNumber": 14,
+                    "Title": "Karen Peralta",
+                    "Plot": "On his birthday, Jake brings Amy to meet his mother, but a surprise appearance by his dad throws a wrench in his special day. Meanwhile, Rosa and Charles struggle with a new mandate regarding body cams while on a stakeout with Terry, and Gina forgets to inform the precinct about an important plan of Holt’s.",
+                    "Rating": 7,
+                    "RatingCount": 13,
+                    "AirDate": "2016-02-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1166941,
+                    "EpisodeNumber": 18,
+                    "Title": "Cheddar",
+                    "Plot": "Holt allows Amy and Jake to house-sit for him while he visits Kevin in Paris, but mayhem ensues when Holt's beloved dog, Cheddar, goes missing under their watch. Meanwhile, a romantic fling between Adrian Pimento and Rosa disrupts Terry and the rest of the precinct.",
+                    "Rating": 6.8,
+                    "RatingCount": 13,
+                    "AirDate": "2016-03-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1136867,
+                    "EpisodeNumber": 9,
+                    "Title": "The Swedes",
+                    "Plot": "In an attempt to solve an international case, Jake and Rosa are forced to work with a pair of Swedish cops and things get very competitive, very quickly. Meanwhile, Amy and Terry offer to help Gina prepare for a big test and Holt enlists Charles to sub in as his squash partner for an annual tournament.",
+                    "Rating": 7.3,
+                    "RatingCount": 13,
+                    "AirDate": "2015-12-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1131716,
+                    "EpisodeNumber": 7,
+                    "Title": "The Mattress",
+                    "Plot": "Jake and Amy convince the Captain to let them work a case together involving a new street drug, but their new relationship gets in the way. Meanwhile, at the precinct, Charles panics when he realizes he’s damaged one of Holt’s prized possessions and Terry teaches Rosa a lesson in discipline.",
+                    "Rating": 7.3,
+                    "RatingCount": 12,
+                    "AirDate": "2015-11-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1181840,
+                    "EpisodeNumber": 21,
+                    "Title": "Maximum Security",
+                    "Plot": "In an attempt to get information on a criminal operation, Amy has to go undercover at a women’s prison and befriend one of the prisoners. Meanwhile back at the precinct, Holt and the team plan a fake funeral in an attempt to catch a hitman.",
+                    "Rating": 7.5,
+                    "RatingCount": 13,
+                    "AirDate": "2016-04-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1131714,
+                    "EpisodeNumber": 5,
+                    "Title": "Halloween III",
+                    "Plot": "The third installment of Captain Holt and Jake’s Halloween heist culminates with a tie-breaking competition to claim the title of “amazing detective slash genius.” This year, Jake and Holt split the squad into two teams to help them win.",
+                    "Rating": 8.1,
+                    "RatingCount": 14,
+                    "AirDate": "2015-10-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1107199,
+                    "EpisodeNumber": 3,
+                    "Title": "Boyle's Hunch",
+                    "Plot": "Jake thinks Boyle might have met his soulmate in Genevieve, an art gallery owner, and he tries to help set them up. Meanwhile, Rosa deals with inter-precinct theft and Holt seeks Amy’s help with an image campaign.",
+                    "Rating": 7.4,
+                    "RatingCount": 13,
+                    "AirDate": "2015-10-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1097832,
+                    "EpisodeNumber": 1,
+                    "Title": "New Captain",
+                    "Plot": "After Holt is transferred to the NYPD Department of Public Relations, the new captain's arrival causes the precinct to dissolve into chaos, despite Terry's best efforts to keep everyone on point. Meanwhile, Jake and Amy face the aftermath of their \"for reals\" kiss.",
+                    "Rating": 7.6,
+                    "RatingCount": 13,
+                    "AirDate": "2015-09-27",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1161405,
+                    "EpisodeNumber": 15,
+                    "Title": "The 9-8",
+                    "Plot": "The Nine-Nine host the detectives from the Nine-Eight, their neighboring precinct, reuniting Jake with his old partner.  Charles is immediately jealous and tries to reclaim his best friend status with Jake. Meanwhile, the rest of the precinct tries to be welcoming to the Nine-Eight, but it doesn’t go as well as they had planned.",
+                    "Rating": 7.3,
+                    "RatingCount": 13,
+                    "AirDate": "2016-02-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1161355,
+                    "EpisodeNumber": 13,
+                    "Title": "The Cruise",
+                    "Plot": "Jake and Amy are excited to go on their first real vacation together, but Amy’s perfectly planned cruise ship itinerary is thwarted when they discover an old adversary is on board with them. Meanwhile, Gina and Terry help Captain Holt survive a visit from his sister, Debbie, and Charles and Rosa vie for the same apartment.",
+                    "Rating": 6.9,
+                    "RatingCount": 13,
+                    "AirDate": "2016-01-26",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1166940,
+                    "EpisodeNumber": 17,
+                    "Title": "Adrian Pimento",
+                    "Plot": "When an unstable detective returns to the Nine-Nine after years undercover, Jake doesn't know what to make of him. Meanwhile, Charles' rebellious behavior pits him against the precinct's custodian, and Holt enlists Gina's help in directing a \"fun and informational\" video starring himself and Rosa.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2016-02-23",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1181842,
+                    "EpisodeNumber": 23,
+                    "Title": "Greg and Larry",
+                    "Plot": "After a surprising turn of events in the Nine-Nine’s attempt to track down Adrian Pimento’s hitman, the precinct drops everything when they suspect Holt is in danger.",
+                    "Rating": 7.5,
+                    "RatingCount": 5,
+                    "AirDate": "2016-04-19",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 78513,
+            "SeasonNumber": 4,
+            "Episodes": [
+                {
+                    "Id": 1225523,
+                    "EpisodeNumber": 4,
+                    "Title": "The Night Shift (I)",
+                    "Plot": "As Jake struggles with his first case back at the precinct, he encounters Jess Day, who is visiting New York, and enlists her to help him find his suspect. Meanwhile, Holt researches ways to increase office morale and Amy tries to figure out why Rosa keeps taking such long breaks.\n\nThe crossover continues on New Girl S06E04 Homecoming (II).",
+                    "Rating": 6.9,
+                    "RatingCount": 13,
+                    "AirDate": "2016-10-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1236798,
+                    "EpisodeNumber": 7,
+                    "Title": "Mr. Santiago",
+                    "Plot": "At Amy's intricately planned Thanksgiving dinner, Jake goes \"full Santiago\" (binder and all) in order to impress her father, a former cop. With Jake and Amy's focus elsewhere, Charles is left on turkey duty and Holt helps Pimento cope after learning he can no longer work for the NYPD.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2016-11-22",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1223128,
+                    "EpisodeNumber": 2,
+                    "Title": "Coral Palms, Part 2",
+                    "Plot": "Jake and Holt end up on the other side of the interrogation table after being caught plotting an attack on Figgis. Meanwhile, a questionable new captain takes over at the precinct.",
+                    "Rating": 7.4,
+                    "RatingCount": 13,
+                    "AirDate": "2016-09-27",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1236045,
+                    "EpisodeNumber": 6,
+                    "Title": "Monster in the Closet",
+                    "Plot": "Pimento and Rosa decide to pick up where they left off and get married, so the whole squad preps a perfect wedding under Amy’s careful direction. Pimento enlists Jake and Gina to hunt for his grandmother’s ruby earrings for Rosa to wear in the ceremony, but the universe has other plans for them.",
+                    "Rating": 8,
+                    "RatingCount": 4,
+                    "AirDate": "2016-11-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1241860,
+                    "EpisodeNumber": 10,
+                    "Title": "Captain Latvia",
+                    "Plot": "Charles enlists Jake's help in tracking down his son's favorite toy for Christmas, and the two find themselves accidentally facing off against a Latvian criminal ring as a result. Back at the precinct, the team gears up for their annual Christmas carol competition against their sworn enemy: the MTA.",
+                    "Rating": 7,
+                    "RatingCount": 12,
+                    "AirDate": "2016-12-13",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1228347,
+                    "EpisodeNumber": 5,
+                    "Title": "Halloween IV",
+                    "Plot": "It’s Halloween in the Nine-Nine, which can only mean one thing: heist time. This year, the squad members pull out all the stops in their quest to win the new defending title of “Ultimate Detective Slash Genius.” Lines are drawn and plans are made, but there can only be one reigning champion.",
+                    "Rating": 7.8,
+                    "RatingCount": 13,
+                    "AirDate": "2016-10-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1206222,
+                    "EpisodeNumber": 1,
+                    "Title": "Coral Palms, Part 1",
+                    "Plot": "Jake and Holt continue their new lives in Florida under the Witness Protection Program while Jimmy remains at large, but their identities may be revealed after a video of the pair goes viral.",
+                    "Rating": 7.3,
+                    "RatingCount": 12,
+                    "AirDate": "2016-09-20",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1313832,
+                    "EpisodeNumber": 21,
+                    "Title": "The Bank Job",
+                    "Plot": "As Jake and Rosa continue their search for a bank-robbing operation with Lieutenant Hawkins, they realize there's more to her team than meets the eye. After discovering a dangerous secret, they call for back-up from Holt and Pimento. Meanwhile, Boyle objects to Gina's new boyfriend.",
+                    "Rating": 8,
+                    "RatingCount": 5,
+                    "AirDate": "2017-05-23",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1309428,
+                    "EpisodeNumber": 19,
+                    "Title": "Your Honor",
+                    "Plot": "Captain Holt's mom seeks support from the precinct after her house is robbed. Meanwhile, Terry, Rosa and Boyle remodel the breakroom and Amy teaches Gina how to change her own car tire.",
+                    "Rating": 7.8,
+                    "RatingCount": 8,
+                    "AirDate": "2017-05-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1308198,
+                    "EpisodeNumber": 17,
+                    "Title": "Cop-Con",
+                    "Plot": "The precinct packs up and heads to the Tri-State Police Officers' annual Cop-Con, which is usually the Nine-Nine's excuse for a big annual party. But the squad's fun is threatened this year when Holt asks them to be on their best behavior.",
+                    "Rating": 7,
+                    "RatingCount": 4,
+                    "AirDate": "2017-05-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1300491,
+                    "EpisodeNumber": 15,
+                    "Title": "The Last Ride",
+                    "Plot": "In what could be their last case as partners, Jake and Charles go to great extremes to apprehend a local bike thief. Terry shockingly isn't in the lead for \"Mr. Nine-Nine\" (the detective who has solved the most cases), leaving Rosa determined to boost his ego. Meanwhile, Amy spends some precious time with Holt.",
+                    "Rating": 7.2,
+                    "RatingCount": 4,
+                    "AirDate": "2017-04-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1241859,
+                    "EpisodeNumber": 9,
+                    "Title": "The Overmining",
+                    "Plot": "Captain \"CJ\" is having major problems with a big case, and Jake and Holt find the motivation to help him out. Inside the precinct, war ensues when Terry enforces a green initiative and tells Gina to get rid of her precious space heater, while Rosa and Boyle take a break from the night shift to visit a foot massage parlor.",
+                    "Rating": 7.3,
+                    "RatingCount": 12,
+                    "AirDate": "2016-12-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1223833,
+                    "EpisodeNumber": 3,
+                    "Title": "Coral Palms, Part 3",
+                    "Plot": "The team makes a road trip to Florida to try to help Jake and Holt take down Figgis. With an unforeseen injury and yet another interruption by Sheriff Reynolds, the plan doesn’t follow through quite like they all had hoped. In the midst of the chaos, Jake and Amy share an awkward reunion.",
+                    "Rating": 7,
+                    "RatingCount": 4,
+                    "AirDate": "2016-10-04",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1308199,
+                    "EpisodeNumber": 18,
+                    "Title": "Chasing Amy",
+                    "Plot": "Amy suddenly vanishes hours before taking the Sergeant Exam at Cop-Con, and it's up to Jake and Rosa to find her before it's too late",
+                    "Rating": 7.1,
+                    "RatingCount": 7,
+                    "AirDate": "2017-05-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1303163,
+                    "EpisodeNumber": 16,
+                    "Title": "Moo Moo",
+                    "Plot": "Sergeant Jeffords is stopped by a fellow police officer while off-duty in his own neighborhood. When the incident escalates, Terry wants to file an official complaint against him, but Captain Holt has other ideas. Manwehile, Jake and Amy get a glimpse into the difficulties of parenthood and answer some tough questions when they babysit Terry's kids.",
+                    "Rating": 9.3,
+                    "RatingCount": 3,
+                    "AirDate": "2017-05-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1247262,
+                    "EpisodeNumber": 11,
+                    "Title": "The Fugitive, Part 1",
+                    "Plot": "A mass escape of convicts from a prison van in the streets of Brooklyn sends the entire squad on a manhunt. The only key witness? Former NFL running back Marshawn Lynch. Meanwhile, Jake and Amy place a bet on who can bring in the most escaped convicts - and the loser has to move into the winner's apartment.",
+                    "Rating": 9,
+                    "RatingCount": 4,
+                    "AirDate": "2017-01-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1298152,
+                    "EpisodeNumber": 14,
+                    "Title": "Serve & Protect",
+                    "Plot": "Terry's ex replaces Teddy in evaluating the precinct, but Jake and Rosa are distracted by a burglary case that occurred on the set of one of their favorite detective TV shows.",
+                    "Rating": 7,
+                    "RatingCount": 4,
+                    "AirDate": "2017-04-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1309429,
+                    "EpisodeNumber": 20,
+                    "Title": "The Slaughterhouse",
+                    "Plot": "Jake and Rosa try to earn the respect of their idol, Lieutenant Melanie Hawkins. Meanwhile Charles, Terry and Gina test different parenting methods to resolve a conflict between Scully and Hitchcock.",
+                    "Rating": 7.4,
+                    "RatingCount": 8,
+                    "AirDate": "2017-05-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1313833,
+                    "EpisodeNumber": 22,
+                    "Title": "Crime & Punishment",
+                    "Plot": "When Jake and Rosa are framed for a crime they didn't commit, it's up to the Nine-Nine to find a way to bust them out.",
+                    "Rating": 7.8,
+                    "RatingCount": 5,
+                    "AirDate": "2017-05-23",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1258300,
+                    "EpisodeNumber": 13,
+                    "Title": "The Audit",
+                    "Plot": "With the crime rate lowered, Brooklyn will be shutting down one of its precincts - permanently. The Nine-Nine is confident they will be evaluated fairly, until the official auditor turns out to be Amy's ex-boyfriend. The whole squad then must band together to try to save the precinct.",
+                    "Rating": 8,
+                    "RatingCount": 4,
+                    "AirDate": "2017-04-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1249785,
+                    "EpisodeNumber": 12,
+                    "Title": "The Fugitive, Part 2",
+                    "Plot": "With only one fugitive still on the loose, Jake enlists a surprising ally.",
+                    "Rating": 7.8,
+                    "RatingCount": 9,
+                    "AirDate": "2017-01-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1231128,
+                    "EpisodeNumber": 8,
+                    "Title": "Skyfire Cycle",
+                    "Plot": "When famous author DC Parlov receives death threats, Jake and Terry take the case, so that Terry can meet his lifelong hero. Back at the precinct, Gina forces her way into the Boyle clan of cousins in an attempt to choose the location of the annual Boyle family vacation. Meanwhile, Holt's anger peaks when Amy chooses Kevin's side in their argument about a math puzzle.",
+                    "Rating": 7.7,
+                    "RatingCount": 13,
+                    "AirDate": "2016-11-29",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 91751,
+            "SeasonNumber": 5,
+            "Episodes": [
+                {
+                    "Id": 1449288,
+                    "EpisodeNumber": 13,
+                    "Title": "The Negotiation",
+                    "Plot": "Jake is called upon to negotiate a hostage situation with a jewel thief, only to discover that the culprit seems to be a familiar face. Amy and Gina help Charles with the high demands of his new food truck, and Holt panics when a member of the Police Commissioner selection committee decides to interview Hitchcock about Holt.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2018-03-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1400206,
+                    "EpisodeNumber": 11,
+                    "Title": "The Favor",
+                    "Plot": "When Seamus Murphy returns to redeem the favor Holt owes him, the precinct searches for a loophole that will allow Holt to uphold his end of the bargain without breaking the law.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2017-12-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1394740,
+                    "EpisodeNumber": 9,
+                    "Title": "99",
+                    "Plot": "While the entire precinct attends a funeral in LA, Holt learns that he is in the running to become Chief Commissioner of the NYPD - his dream job. But after missing their flight back to New York, Jake must devise a variety of ways to get Holt back in time for the interview.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2017-12-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1469581,
+                    "EpisodeNumber": 20,
+                    "Title": "Show Me Going",
+                    "Plot": "When Rosa responds to an active shooter alert, the rest of the squad is forced to stay back, desperately fearing for her safety. Feeling helpless, Jake frantically brainstorms ways to offer his assistance, Terry faces an existential crisis and Gina and Amy try to make themselves useful by fixing Rosa's broken toilet.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2018-05-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1384133,
+                    "EpisodeNumber": 6,
+                    "Title": "The Venue",
+                    "Plot": "The always unwelcome Vulture pops back into Jake and Amy's lives, threatening to swoop in and take something important away from them. Meanwhile, Boyle and Rosa must track down \"Sergeant Peanut Butter,\" the kidnapped NYPD horse that Charles envies, and Holt challenges Terry to be less image-conscious.",
+                    "Rating": 5.7,
+                    "RatingCount": 3,
+                    "AirDate": "2017-11-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1473136,
+                    "EpisodeNumber": 21,
+                    "Title": "White Whale",
+                    "Plot": "Rosa and Amy team up to take down their \"white whale\" suspect - a ruthless killer who has managed to elude them for seven years - while Terry helps Jake tackle his wedding planning chores. Then, Captain Holt and his rival, Olivia Crawford, try to convince each other to step down in the campaign for Commissioner.",
+                    "Rating": 7.7,
+                    "RatingCount": 6,
+                    "AirDate": "2018-05-13",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1371839,
+                    "EpisodeNumber": 3,
+                    "Title": "Kicks",
+                    "Plot": "Now that he's officially back at the precinct and desperate to solve a real case, Jake finds a loophole to get out of his temporarily designated desk duty. Unfortunately, that loophole rests on his ability to pass an official evaluation performed by Holt. While Charles provides Jake with moral support, Terry and Amy help Rosa, who believes Pimento may be cheating on her.",
+                    "Rating": 7.4,
+                    "RatingCount": 8,
+                    "AirDate": "2017-10-10",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1452849,
+                    "EpisodeNumber": 14,
+                    "Title": "The Box",
+                    "Plot": "Jake embarks on an all-night long interrogation in order to elicit a confession out of a suspect. But when Captain Holt skips the opera in order to stay back and help, the two cops clash over how to get him to talk.",
+                    "Rating": 8.7,
+                    "RatingCount": 3,
+                    "AirDate": "2018-04-01",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1448957,
+                    "EpisodeNumber": 12,
+                    "Title": "Safe House",
+                    "Plot": "After Seamus threatens Kevin, Holt devises an elaborate plan to hide him in a safe house, with Jake as his guard. Kevin is miserable as the 99 works overtime to find Seamus and take him down.",
+                    "Rating": 7.8,
+                    "RatingCount": 4,
+                    "AirDate": "2018-03-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1353983,
+                    "EpisodeNumber": 1,
+                    "Title": "The Big House Pt.1",
+                    "Plot": "Jake and Rosa assimilate to their new lives behind bars, but both are coping in very different ways. Jake bonds with his cellmate, Caleb, and is forced to join a prison gang led by notorious inmate Romero, in order to gain his protection. Meanwhile, in the women's prison, Rosa puts Holt and Terry to the test by having them complete outrageous favors for her. Back in the precinct, Amy and Charles are doing all they can to exonerate their colleagues.",
+                    "Rating": 7.9,
+                    "RatingCount": 9,
+                    "AirDate": "2017-09-26",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1454570,
+                    "EpisodeNumber": 15,
+                    "Title": "The Puzzle Master",
+                    "Plot": "Jake surprises Amy with an investigation into a string of arsons connected to her favorite crossword puzzle author, Vin Stermley. Meanwhile, Gina helps Holt jazz up his Commissioner candidate speech, and Terry, Rosa, Hitchcock and Scully argue over who is most deserving of the new detective car.",
+                    "Rating": 6.7,
+                    "RatingCount": 6,
+                    "AirDate": "2018-04-08",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1460060,
+                    "EpisodeNumber": 17,
+                    "Title": "DFW",
+                    "Plot": "Jake invites his newly discovered half-sister to stay with him in New York, but when he and Amy realize she’s a bit of a nightmare, they must find a way to get her back home to Dallas.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2018-04-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1462494,
+                    "EpisodeNumber": 19,
+                    "Title": "Bachelor/ette Party",
+                    "Plot": "Charles plans an elaborate scavenger hunt for Jake's bachelor party, but the day goes awry when the guys decide to take some short cuts instead. Meanwhile, Amy's bachelorette party escalates when the ladies realize she previously slept with a member of her soon-to-be wedding band.",
+                    "Rating": 6.8,
+                    "RatingCount": 6,
+                    "AirDate": "2018-04-29",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1400205,
+                    "EpisodeNumber": 10,
+                    "Title": "Game Night",
+                    "Plot": "Rosa begs Jake to help her break some big news to her parents, but her plan is thrown off when they wrongly assume the two are dating.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2017-12-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1387093,
+                    "EpisodeNumber": 7,
+                    "Title": "Two Turkeys",
+                    "Plot": "Jake and Amy attempt to get their parents to bond over Thanksgiving dinner; When Holt's Thanksgiving pie is stolen from his office, he searches for the culprit.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2017-11-21",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1374428,
+                    "EpisodeNumber": 4,
+                    "Title": "HalloVeen",
+                    "Plot": "The Nine-Nine embarks on its fifth annual Halloween Heist and, as usual, everybody has a plan and no one is safe. Relationships and friendships are tested as the title \"Amazing Human Slash Genius\" must be snagged by midnight, leaving everyone pitted against each other.",
+                    "Rating": 9.2,
+                    "RatingCount": 5,
+                    "AirDate": "2017-10-17",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1462045,
+                    "EpisodeNumber": 18,
+                    "Title": "Gray Star Mutual",
+                    "Plot": "When a fire destroys Charles' food truck, Pimento unexpectedly shows up to the scene as the insurance agent. Meanwhile, Rosa helps Amy to see that it’s okay to get excited about picking her wedding dress, and Gina and Terry coach Holt in the art of social media.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2018-04-22",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1477935,
+                    "EpisodeNumber": 22,
+                    "Title": "Jake & Amy",
+                    "Plot": "Jake and Amy's wedding day is majorly threatened, and Charles and the whole squad rush to help save it. Amidst the chaos, Holt hesitates to open the email that will indicate if he has won his campaign for Commissioner, despite Gina's encouragement. Meanwhile, Terry gently pushes Rosa towards a potential love interest.",
+                    "Rating": 8.2,
+                    "RatingCount": 4,
+                    "AirDate": "2018-05-20",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1460059,
+                    "EpisodeNumber": 16,
+                    "Title": "NutriBoom",
+                    "Plot": "Jake and Charles realize that they’ve been suckered into the cult-like NutriBoom pyramid scheme, and must find a way to sever their contracts.",
+                    "Rating": 6,
+                    "RatingCount": 3,
+                    "AirDate": "2018-04-15",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1387881,
+                    "EpisodeNumber": 8,
+                    "Title": "Return to Skyfire",
+                    "Plot": "When Terry's favorite author, DC Parlov, returns to the precinct because his latest manuscript was stolen, Terry and Jake convince Rosa to go undercover with them at a fantasy fiction convention to find the culprit. As drama ensues between Parlov and another writer, Terry admits that he's been writing a book of his own. Back at the precinct, Holt, Amy and Charles take a forensics course, but Charles' big mouth gets him in trouble.",
+                    "Rating": 6,
+                    "RatingCount": 6,
+                    "AirDate": "2017-11-28",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1368191,
+                    "EpisodeNumber": 2,
+                    "Title": "The Big House Pt.2",
+                    "Plot": "When the warden asks Jake to investigate Romero's drug smuggling operation, Jake and Caleb find themselves caught between the loyalty Jake has sworn to both of them. Meanwhile, Amy is offered a deal by a local mobster who claims he can prove that Hawkins is guilty, but Holt and the rest of the gang think they have a safer plan.",
+                    "Rating": 7.9,
+                    "RatingCount": 8,
+                    "AirDate": "2017-10-03",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                },
+                {
+                    "Id": 1379527,
+                    "EpisodeNumber": 5,
+                    "Title": "Bad Beat",
+                    "Plot": "To track down the infamous arms dealer Dan \"Daniel\" Valdano, Jake and Terry go undercover at an illegal gambling club, but when Holt gets involved to coach the two in the art of poker, his addiction resurfaces. Meanwhile, Boyle buys a food truck that was formerly used in a brutal string of murders without telling his investor, Amy, and Hitchcock and Scully challenge Rosa to a \"Butt-lympics.\"",
+                    "Rating": 7.5,
+                    "RatingCount": 4,
+                    "AirDate": "2017-11-07",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller",
+                        "Chelsea Peretti"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 114567,
+            "SeasonNumber": 6,
+            "Episodes": [
+                {
+                    "Id": 1782131,
+                    "EpisodeNumber": 17,
+                    "Title": "Sicko (1)",
+                    "Plot": "Jake and Charles investigate a dangerous serial killer. Holt continues to spar with his rival, Commissioner Kelly. Terry finds out about whether or not he has passed the lieutenant's exam.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2019-05-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1664108,
+                    "EpisodeNumber": 3,
+                    "Title": "The Tattler",
+                    "Plot": "Jake and Gina attend their 20th high school reunion. Back at the Nine-Nine, Charles helps Rosa with her love life.",
+                    "Rating": 7.3,
+                    "RatingCount": 7,
+                    "AirDate": "2019-01-24",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1782132,
+                    "EpisodeNumber": 18,
+                    "Title": "Suicide Squad (2)",
+                    "Plot": "Desperate circumstances call for desperate measures, as Jake, Holt, Amy, Terry, Rosa and Charles must ally themselves with old enemies.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2019-05-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1682690,
+                    "EpisodeNumber": 6,
+                    "Title": "The Crime Scene",
+                    "Plot": "Jake and Rosa must deal with a mother in mourning as they work and rework a crime scene in order to solve a difficult murder case with confusing evidence.",
+                    "Rating": 7.6,
+                    "RatingCount": 5,
+                    "AirDate": "2019-02-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1705433,
+                    "EpisodeNumber": 11,
+                    "Title": "The Therapist",
+                    "Plot": "Charles brings Jake into a case when a therapist reports one of his patients missing.",
+                    "Rating": 7,
+                    "RatingCount": 5,
+                    "AirDate": "2019-03-21",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1645240,
+                    "EpisodeNumber": 1,
+                    "Title": "Honeymoon",
+                    "Plot": "Jake and Amy go on their honeymoon. Capt. Holt finds out whether he is the new commissioner of the NYPD.",
+                    "Rating": 7.2,
+                    "RatingCount": 8,
+                    "AirDate": "2019-01-10",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1730442,
+                    "EpisodeNumber": 10,
+                    "Title": "Gintars",
+                    "Plot": "A visitor from Latvia causes Charles and Jake to investigate Nikolaj's family. Holt and Amy bring in famed forensic scientist Dr. Yee to help close a case for Rosa.",
+                    "Rating": 6.6,
+                    "RatingCount": 5,
+                    "AirDate": "2019-03-14",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1711115,
+                    "EpisodeNumber": 8,
+                    "Title": "He Said, She Said",
+                    "Plot": "Jake and Amy investigate a difficult \"he said, she said\" case. Holt becomes suspicious after learning his lifelong arch nemesis died in a prison transport accident.",
+                    "Rating": 7,
+                    "RatingCount": 5,
+                    "AirDate": "2019-02-28",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1738279,
+                    "EpisodeNumber": 12,
+                    "Title": "Casecation",
+                    "Plot": "Work is so busy for Jake and Amy that they end up celebrating their anniversary while standing guard over a comatose patient in the hospital.",
+                    "Rating": 6.8,
+                    "RatingCount": 5,
+                    "AirDate": "2019-04-11",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1677231,
+                    "EpisodeNumber": 4,
+                    "Title": "Four Movements",
+                    "Plot": "Gina spends time with each member of the squad.",
+                    "Rating": 7,
+                    "RatingCount": 5,
+                    "AirDate": "2019-01-31",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1782130,
+                    "EpisodeNumber": 16,
+                    "Title": "Cinco de Mayo",
+                    "Plot": "In order to distract Terry from the stress of his upcoming lieutenant's exam, Jake, Holt and the squad decide to hold the annual Halloween Heist on a new date, Cinco de Mayo.",
+                    "Rating": 8.8,
+                    "RatingCount": 4,
+                    "AirDate": "2019-05-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1645241,
+                    "EpisodeNumber": 2,
+                    "Title": "Hitchcock & Scully",
+                    "Plot": "Jake and Charles investigate a case of Hitchcock and Scully's from the 1980s. Meanwhile, Amy's uniformed officers and Terry's detectives fight over limited resources.",
+                    "Rating": 7.7,
+                    "RatingCount": 6,
+                    "AirDate": "2019-01-17",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1682689,
+                    "EpisodeNumber": 5,
+                    "Title": "A Tale of Two Bandits",
+                    "Plot": "Terry believes the Pontiac Bandit is stealing cars again, but Jake is convinced his friend wouldn't do that. The rest of the squad fight to keep Shaw's a police bar after some firemen stake their claim to it.",
+                    "Rating": 7.4,
+                    "RatingCount": 5,
+                    "AirDate": "2019-02-07",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1697317,
+                    "EpisodeNumber": 7,
+                    "Title": "The Honeypot",
+                    "Plot": "Jake and Holt clash over the merits of a new hire in the 99th precinct. Terry, Amy, Rosa and Charles try to do something about the cluttered bullpen.",
+                    "Rating": 7.6,
+                    "RatingCount": 5,
+                    "AirDate": "2019-02-21",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1705434,
+                    "EpisodeNumber": 9,
+                    "Title": "The Golden Child",
+                    "Plot": "Jake helps Amy navigate the complicated relationship she has with her brother, David. Charles introduces some drama into an undercover mission involving Terry and Holt.",
+                    "Rating": 7.7,
+                    "RatingCount": 6,
+                    "AirDate": "2019-03-07",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1762637,
+                    "EpisodeNumber": 15,
+                    "Title": "Return of the King",
+                    "Plot": "When Gina returns to the Nine-Nine, Jake and Terry get drawn into her life. Holt learns that Charles’s son, Nikolaj, may be a genius. Rosa copes with an injury.",
+                    "Rating": 6,
+                    "RatingCount": 3,
+                    "AirDate": "2019-05-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1753960,
+                    "EpisodeNumber": 14,
+                    "Title": "Ticking Clocks",
+                    "Plot": "Jake and the squad must track down a hacker who has infiltrated the Nine-Nine's servers; Rosa deals with relationship issues; Hitchcock and Scully attempt to cook the perfect lasagna.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2019-04-25",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                },
+                {
+                    "Id": 1745726,
+                    "EpisodeNumber": 13,
+                    "Title": "The Bimbo",
+                    "Plot": "Holt and Jake investigate a case at Kevin's university. Back at the precinct, Terry and Amy take the squad out for lunch.",
+                    "Rating": 7.4,
+                    "RatingCount": 5,
+                    "AirDate": "2019-04-18",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher",
+                        "Dirk Blocker",
+                        "Joel McKinnon Miller"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 135509,
+            "SeasonNumber": 7,
+            "Episodes": [
+                {
+                    "Id": 2202960,
+                    "EpisodeNumber": 11,
+                    "Title": "Valloweaster",
+                    "Plot": "The squad competes in an effort to determine who is the greatest human/genius.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-04-09",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2052439,
+                    "EpisodeNumber": 2,
+                    "Title": "Captain Kim",
+                    "Plot": "A new captain at the Nine-Nine attempts to ingratiate herself with Jake and the squad by inviting them over to her house for a dinner party.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-02-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2187202,
+                    "EpisodeNumber": 9,
+                    "Title": "Dillman",
+                    "Plot": "When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-03-26",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 1979187,
+                    "EpisodeNumber": 1,
+                    "Title": "Manhunter",
+                    "Plot": "Jake leads a manhunt after an assassination attempt on a city councilor as Holt adjusts to his new position as a uniformed officer.",
+                    "Rating": 9.3,
+                    "RatingCount": 3,
+                    "AirDate": "2020-02-06",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2169651,
+                    "EpisodeNumber": 6,
+                    "Title": "Trying",
+                    "Plot": "Jake and Amy work an uncrackable case while Holt adjusts to a new beat. Hitchcock looks for the love of his life.",
+                    "Rating": 8.5,
+                    "RatingCount": 2,
+                    "AirDate": "2020-03-05",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2195425,
+                    "EpisodeNumber": 10,
+                    "Title": "Admiral Peralta",
+                    "Plot": "Jake and his father deal with unsettled family business while Amy and Rosa work a high-profile case and Terry wants to join the NYPD band.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-04-02",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2162222,
+                    "EpisodeNumber": 5,
+                    "Title": "Debbie",
+                    "Plot": "When cocaine and weapons are stolen from the evidence lock-up, the squad must investigate the Nine-Nine itself.",
+                    "Rating": 8.5,
+                    "RatingCount": 2,
+                    "AirDate": "2020-02-27",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2218581,
+                    "EpisodeNumber": 13,
+                    "Title": "Lights Out",
+                    "Plot": "The entire squad is on high alert when a massive blackout hits Brooklyn.",
+                    "Rating": 9.5,
+                    "RatingCount": 2,
+                    "AirDate": "2020-04-23",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2162221,
+                    "EpisodeNumber": 4,
+                    "Title": "The Jimmy Jab Games II",
+                    "Plot": "Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-02-20",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2182203,
+                    "EpisodeNumber": 8,
+                    "Title": "The Takeback",
+                    "Plot": "Doug Judy is back, and this time, things between him and Jake are personal. Meanwhile, Amy and Charles try to find the perfect new vending machine for the Nine-Nine.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2020-03-19",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2176218,
+                    "EpisodeNumber": 7,
+                    "Title": "Ding Dong",
+                    "Plot": "Captain Holt deals with a personal loss. Jake must decide whether to take Terry or Charles to an exclusive event.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2020-03-12",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2209188,
+                    "EpisodeNumber": 12,
+                    "Title": "Ransom",
+                    "Plot": "Holt asks for Jake's help in a case that is exceptionally meaningful to him. Charles and Terry work together on a side business.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-04-16",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                },
+                {
+                    "Id": 2065558,
+                    "EpisodeNumber": 3,
+                    "Title": "Pimemento",
+                    "Plot": "Adrian Pimento shows up unexpectedly to seek Jake and Charles’ help after claiming someone is trying to kill him while the rest of the squad endures a workplace conflict seminar.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2020-02-13",
+                    "Cast": [
+                        "Andy Samberg",
+                        "Melissa Fumero",
+                        "Terry Crews",
+                        "Joe Lo Truglio",
+                        "Stephanie Beatriz",
+                        "Andre Braugher"
+                    ]
+                }
+            ]
+        }
+    ]
+}

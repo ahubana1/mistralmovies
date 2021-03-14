@@ -1,0 +1,2877 @@
+{
+    "Id": 1395,
+    "Title": "Gossip Girl",
+    "Plot": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+    "Rating": 8.4,
+    "RatingCount": 1216,
+    "FirstAired": "2007-09-19",
+    "LastAired": "2012-12-17",
+    "PosterPath": "/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg",
+    "Cast": [
+        "Blake Lively",
+        "Leighton Meester",
+        "Penn Badgley",
+        "Chace Crawford",
+        "Ed Westwick",
+        "Kelly Rutherford",
+        "Matthew Settle",
+        "Kaylee DeFer",
+        "Kristen Bell"
+    ],
+    "Seasons": [
+        {
+            "Id": 3557,
+            "SeasonNumber": 0,
+            "Episodes": [
+                {
+                    "Id": 61952,
+                    "EpisodeNumber": 4,
+                    "Title": "Chasing Dorota Episode 3",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61948,
+                    "EpisodeNumber": 2,
+                    "Title": "Chasing Dorota Episode 1",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61947,
+                    "EpisodeNumber": 3,
+                    "Title": "Chasing Dorota Episode 2",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61950,
+                    "EpisodeNumber": 6,
+                    "Title": "Chasing Dorota Episode 5",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61953,
+                    "EpisodeNumber": 10,
+                    "Title": "A Gossip Girl Fabulous Affair",
+                    "Plot": "Throwing a Party Gossip Girl-Style.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61957,
+                    "EpisodeNumber": 13,
+                    "Title": "Gag Reel (Season 4)",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61954,
+                    "EpisodeNumber": 11,
+                    "Title": "Gag Reel (Season 2)",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61946,
+                    "EpisodeNumber": 1,
+                    "Title": "Gossip Girl Revealed",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2008-01-29",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61951,
+                    "EpisodeNumber": 7,
+                    "Title": "Chasing Dorota Episode 6",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61962,
+                    "EpisodeNumber": 17,
+                    "Title": "Gag Reel (Season 5)",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61956,
+                    "EpisodeNumber": 8,
+                    "Title": "Faces Behind The Design",
+                    "Plot": "A season 2 DVD special feature.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61958,
+                    "EpisodeNumber": 12,
+                    "Title": "Exposing Gossip Girl Making Episode 418",
+                    "Plot": "How did this special episode of \"Gossip Girl\" come together? Listen to the crew explain the various aspects that went into producing this episode.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61961,
+                    "EpisodeNumber": 16,
+                    "Title": "Inside the Gossip Girl Wardrobe Closet",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61955,
+                    "EpisodeNumber": 9,
+                    "Title": "Gag Reel (Season 3)",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61949,
+                    "EpisodeNumber": 5,
+                    "Title": "Chasing Dorota Episode 4",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61959,
+                    "EpisodeNumber": 18,
+                    "Title": "Special Retrospective (Season 6)",
+                    "Plot": "The Series Finale begins with the stars and executive producers bidding farewell to the Upper East Side in a look back at the show’s many unforgettable moments.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2012-12-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 61960,
+                    "EpisodeNumber": 15,
+                    "Title": "Gossip Girl Turns 100",
+                    "Plot": "",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3558,
+            "SeasonNumber": 1,
+            "Episodes": [
+                {
+                    "Id": 61973,
+                    "EpisodeNumber": 11,
+                    "Title": "Roman Holiday",
+                    "Plot": "Blair's father, Harold, comes home for the holidays with an unexpected guest. Blair cannot hide her disappointment and makes a plan to get rid of Roman forever. Jenny and Vanessa help Serena get the best Christmas present ever for Dan, who has a surprise of his own for Serena. Rufus refuses to remain the understanding husband any longer after Alison's former lover sends a letter to the house.",
+                    "Rating": 7,
+                    "RatingCount": 4,
+                    "AirDate": "2007-12-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61979,
+                    "EpisodeNumber": 17,
+                    "Title": "Woman on the Verge",
+                    "Plot": "After Georgina reveals the true reason Serena left Manhattan, Serena goes back into her old habits. Her friends Blair, Nate, and Chuck, in order to help her, have to put their differences aside. Meanwhile, Rufus is excited when his band is invited to perform at a Rolling Stone-sponsored concert, but Lily is the last person on earth he expects to see at the performance, especially since her wedding rehearsal dinner is the same night.",
+                    "Rating": 7.4,
+                    "RatingCount": 5,
+                    "AirDate": "2008-05-12",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61971,
+                    "EpisodeNumber": 9,
+                    "Title": "Blair Waldorf Must Pie!",
+                    "Plot": "Dan invites Serena and her family to spend the holiday with his family, creating an uncomfortable situation for Rufus and Lily. The children are unaware of their complicated romantic past.  Meanwhile, Blair's freaks out when she learns that her father isn't coming home for Thanksgiving. Nate spends the holiday with his family, but their awkward dinner quickly goes from bad to worse.",
+                    "Rating": 6.2,
+                    "RatingCount": 4,
+                    "AirDate": "2007-11-28",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61970,
+                    "EpisodeNumber": 8,
+                    "Title": "Seventeen Candles",
+                    "Plot": "Blair is feeling heartbroken and guilty by the current state of her relationship with Nate and her recent indiscretion. But she manages to put on a happy face for her 17th birthday party and attempts to hide her feelings from her friends. Hoping that Serena and Vanessa can bond, Dan takes Vanessa to Blair's birthday party. Jenny brings her mother home as a surprise, but Rufus isn't ready to forgive and forget. Finally, Nate's parents ask him to make a huge sacrifice to save his father's business.",
+                    "Rating": 6.5,
+                    "RatingCount": 4,
+                    "AirDate": "2007-11-14",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61965,
+                    "EpisodeNumber": 3,
+                    "Title": "Poison Ivy",
+                    "Plot": "It's Ivy week for the Upper East Side teens of Constance Billiard and St. Jude's and the visiting representatives' arrival brings more than just college applications. Cut-throat rivalry is at its sharpest this week as the students compete for prestigious positions. Blair discovers a shocking but juicy secret about Serena and plots to drop the bomb at the best possible moment. Dan is sure that landing the coveted usher position with the Dartmouth rep will either make or break his future at the school. Unfortunately, it's Nate who nabs the position, despite total disinterest in the school. Meanwhile, Jenny gets closer to Serena's younger brother Eric and Rufus asks Lily for a favor.",
+                    "Rating": 6.8,
+                    "RatingCount": 4,
+                    "AirDate": "2007-10-03",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61977,
+                    "EpisodeNumber": 15,
+                    "Title": "Desperately Seeking Serena",
+                    "Plot": "Serena's world descends into chaos when a former friend, the evil Georgina Sparks returns to town. Nate connects with the last person he expected, Vanessa. Blair hatches a plan to sabotage her biggest rival, Nelly Yuki. Meanwhile Serena goes out with Georgina, but things get so bad that Serena thinks someone spiked her non-alcoholic drink. Jenny develops a crush on a dog-walker, Asher Hornsby, who might be her ticket to permanent popularity.",
+                    "Rating": 7.2,
+                    "RatingCount": 5,
+                    "AirDate": "2008-04-28",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61968,
+                    "EpisodeNumber": 6,
+                    "Title": "The Handmaiden's Tale",
+                    "Plot": "Dan finds himself between two girls when his childhood friend, Vanessa, returns to N.Y. and declares her feelings for him, just as he and Serena are trying to figure out what they mean to each other. At the masked ball, Blair sends Nate on a scavenger hunt, but Nate is distracted by his feelings for Serena. Although Blair said that outsiders were not welcome to the party, a disguised Jenny and Dan sneak into the ball. Finally, Lily asks Rufus to accompany her to an Eleanor Waldorf event only to make Bart Bass jealous.",
+                    "Rating": 7.5,
+                    "RatingCount": 4,
+                    "AirDate": "2007-10-24",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61963,
+                    "EpisodeNumber": 1,
+                    "Title": "Pilot",
+                    "Plot": "\"It girl\" Serena van der Woodsen has returned to Manhattan after a mysterious and self-imposed exile to boarding school. Serena's best friend, Blair Waldorf, has conflicted feelings about her friend's return since she has enjoyed being the Queen Bee during Serena's absence and might not be ready to relinquish her new position on the social ladder, not to mention the fact that she has always suspected there may be unspoken feelings between Serena and her longtime boyfriend, Nate.",
+                    "Rating": 6.2,
+                    "RatingCount": 5,
+                    "AirDate": "2007-09-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61972,
+                    "EpisodeNumber": 10,
+                    "Title": "Hi, Society",
+                    "Plot": "Serena's grandmother announces that Serena has to go to Debutante Ball. However, Dan is not what CeCe wants as an escort for Serena, and she makes her opinion heard loud and clear, causing a rift between Serena and Dan. Although they are officially broken up, Nate asks Blair to go to the ball with him. A jealous Nate begins to suspect that Blair is seeing someone else. Jenny finds herself having to make the decision of either attending her mother's  art opening or following her dreams to the Debutante Ball, even though her parents don't want her to go.",
+                    "Rating": 6.8,
+                    "RatingCount": 4,
+                    "AirDate": "2007-12-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61969,
+                    "EpisodeNumber": 7,
+                    "Title": "Victor, Victrola",
+                    "Plot": "Serena and Dan finally accept that they are crazy about each other, despite that they come from polar opposite worlds. Chuck thinks of investing in a club trying to make his father Bart Bass proud of him. Nate confronts his father, about the drugs he found in his house but he denies having a problem. Jenny discovers a secret that her parents have been keeping from her. Finally, Blair is devastated by Nate's actions when Jenny reveals that Nate kissed her by accident thinking she was Serena.",
+                    "Rating": 6.5,
+                    "RatingCount": 4,
+                    "AirDate": "2007-11-07",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61980,
+                    "EpisodeNumber": 18,
+                    "Title": "Much 'I Do' About Nothing",
+                    "Plot": "Blair takes matters into her own hands to help Serena with the manipulative and evil Georgina Sparks. Lily, while keeping Rufus in her mind, prepares for her wedding with Bart Bass that is designed to be the Upper East Side's social event of the year. Serena finally tells Dan the whole truth about her past and they try to work things out after Dan has cheated on her, but will it be too late? An unexpected guest shows up at Lily and Bart's wedding. Georgina is sent somewhere where she can do no harm. Blair plans to go somewhere with Chuck.",
+                    "Rating": 7.4,
+                    "RatingCount": 5,
+                    "AirDate": "2008-05-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61967,
+                    "EpisodeNumber": 5,
+                    "Title": "Dare Devil",
+                    "Plot": "It's their first official date and Dan tries to impress Serena with an elaborate plan for the date, but fails to understand that Serena is happier with beer than champagne. That same night Jenny is invited to the infamous Blair Waldorf sleepover and finds herself in a high stakes game of  \"Truth or Dare\". Meanwhile, Lily finds out that Erik is missing from the treatment center, and she finds herself seeking help from her ex-boyfriend, Rufus.",
+                    "Rating": 7.2,
+                    "RatingCount": 4,
+                    "AirDate": "2007-10-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61966,
+                    "EpisodeNumber": 4,
+                    "Title": "Bad News Blair",
+                    "Plot": "Blair gets excited when her mother, Eleanor, chooses her to be the new face of her clothing line. However, Blair's happiness turns quickly into feelings of betrayal and jealousy when Serena takes her spotlight and Blair finds herself back in Serena's shadow. Meanwhile, Serena and Dan remember once again that they come from two very different worlds. Also, Nate and Chuck do a boys weekend to blow off steam after Ivy Week ends.",
+                    "Rating": 6.8,
+                    "RatingCount": 4,
+                    "AirDate": "2007-10-10",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61976,
+                    "EpisodeNumber": 14,
+                    "Title": "The Blair Bitch Project",
+                    "Plot": "Having been recently dethroned as Queen Bee, Blair returns to school with the support of Serena to find she is still on the outs with her old friends.  Dan visits his mother over spring break, and when he returns, Jenny is on the verge of becoming a full-fledged member of the A-List crowd. Jenny must go to dangerous and even illegal lengths to fit in. Serena struggles to adjust to living with Chuck, and receives disturbing packages from an unknown sender.",
+                    "Rating": 6.5,
+                    "RatingCount": 4,
+                    "AirDate": "2008-04-21",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61974,
+                    "EpisodeNumber": 12,
+                    "Title": "School Lies",
+                    "Plot": "Serena, Blair, Nate, Chuck and their class break into the school swimming pool for a night of fun, but when someone nearly dies, the school threatens to expel the person responsible for the break-in. Everyone agrees to not say anything, but this creates major problems between Serena and Dan. Vanessa, while working on a documentary project about private schools, accidentally captures Blair and Chuck discussing their affair. Lily tries to tell Rufus how she really feels about him.",
+                    "Rating": 7,
+                    "RatingCount": 5,
+                    "AirDate": "2008-01-02",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61978,
+                    "EpisodeNumber": 16,
+                    "Title": "All About My Brother",
+                    "Plot": "Georgina informs Serena that she can reveal a deep dark secret from Serena's past, but no one is prepared for what Georgina does next. Blair and Jenny's power struggle continues when each of them start spreading scandalous rumors about each other on Gossip Girl. Dan sees Jenny's new beau, Asher, cheating on her, but Jenny won't listen to him. Rufus goes to Lily for advice on how to handle Jenny's new behavior. Serena tries to confront Georgina, but she leaves before Serena has a chance. After this, Serena says that she and Georgina are not friends.",
+                    "Rating": 6.7,
+                    "RatingCount": 5,
+                    "AirDate": "2008-05-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61975,
+                    "EpisodeNumber": 13,
+                    "Title": "The Thin Line Between Chuck and Nate",
+                    "Plot": "Gossip Girl reports that Serena van der Woodsen was seen buying pregnancy tests. Of course, on the Upper East Side, the truth is often even juicier and more scandalous than the gossip. Nate finds out about Blair and Chuck's affair. And when everyone else finds out what happened Blair's life comes crashing down. Meanwhile, Dan struggles to tell Serena those three special words.",
+                    "Rating": 7.2,
+                    "RatingCount": 4,
+                    "AirDate": "2008-01-09",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                },
+                {
+                    "Id": 61964,
+                    "EpisodeNumber": 2,
+                    "Title": "The Wild Brunch",
+                    "Plot": "It's the day right after the Kiss on the Lips party and Serena receives a cold reception from her former best friend Blair. Blair reveals that she knows that Serena and Nate slept together, before Serena mysteriously went to boarding school. Then Serena decides to take Dan to Chuck's fundraiser brunch at The Palace. Meanwhile little Jenny asks Blair for advice, and Blair realizes that she maybe gains something by allowing Jenny into her inner circle.",
+                    "Rating": 6.8,
+                    "RatingCount": 4,
+                    "AirDate": "2007-09-26",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3559,
+            "SeasonNumber": 2,
+            "Episodes": [
+                {
+                    "Id": 61987,
+                    "EpisodeNumber": 7,
+                    "Title": "Chuck in Real Life",
+                    "Plot": "Vanessa uses the scandalous picture of Catherine and Marcus to blackmail Blair into being a nicer person, so Blair seeks revenge by enticing Chuck to seduce Vanessa. Lily and Bart throw an extravagant housewarming party and expect their children to make them proud in front of the attending press, but a rebellious Serena isn't ready to play by their rules. Meanwhile, Dan and Jenny discover a big secret that Nate has been keeping from his friends.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-10-20",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61986,
+                    "EpisodeNumber": 6,
+                    "Title": "New Haven Can Wait",
+                    "Plot": "After Blair and Serena get into a catfight, Serena decides to get even with Blair, who has always dreamed of attending Yale, by ditching her plans to visit Brown, and instead accepting the Dean of Yale's personal invitation to visit the school. After discovering that none of his recommendation letters for Yale were ever submitted, Dan frantically tries to figure out a way to salvage his chances of getting into the school. While on the Yale campus, Chuck is kidnapped by a group of Skull and Bones members and Nate hooks up with a co-ed.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2008-10-13",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62002,
+                    "EpisodeNumber": 22,
+                    "Title": "Southern Gentlemen Prefer Blondes",
+                    "Plot": "Georgina returns to the Upper East Side but it's not the same Georgina we all knew, she's changed. Chuck and Nate's relationship is at a crossroads because of their mutual interest in Blair. Serena's relationship with Gabriel gets more complicated.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2009-04-27",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61981,
+                    "EpisodeNumber": 1,
+                    "Title": "Summer Kind of Wonderful",
+                    "Plot": "As the summer draws to a close in the Hamptons, Serena and Nate have everyone fooled into thinking they are a couple to cover up the fact that Nate has been hooking up with a married, older woman. Blair returns from abroad with a hot guy on her arm, making a very jealous Chuck question his decision to leave Blair stranded at the heliport. Dan has spent the summer assisting a famous author. While interning for Eleanor Waldorf's company, Jenny sneaks an invite to a much-coveted Hamptons' White Party at which Eric introduces her to socialite Tinsley Mortimer.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-09-01",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61998,
+                    "EpisodeNumber": 18,
+                    "Title": "The Age of Dissonance",
+                    "Plot": "The Constance Billard and St. Jude seniors have the production of \"The Age of Innocence\". Serena has a crush on the play's director, Julian, and enlists Vanessa's knowledge of theater to help her get the guy's attention. Blair receives bad news about her future that leads her on a witch hunt for the person responsible. Dan and Rachel agree to stay away from each other in the aftermath of being discovered as more than teacher and student, but find it impossible to keep that promise. Chuck find help on an unlikely friend, Carter Baizen.",
+                    "Rating": 8.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-03-16",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61988,
+                    "EpisodeNumber": 8,
+                    "Title": "Pret-a-Poor J",
+                    "Plot": "Jenny has a new young model friend, named Agnes, who encourages Jenny to explore her wild side, and also to confront Eleanor Waldorf who is planning to steal Jenny's designs in order to pass them off as her own. Meanwhile, Serena and Dan attend Rufus' latest art opening as friends, but then Serena meets an artist, named Aaron Rose, and the evening gets a little uncomfortable for Dan. Elsewhere, Blair attempts to seduce Chuck, but he proves to be tougher than she ever imagined. Also, Jenny begins to have a mutual feelings with Nate as he's staying with her, Dan, and Rufus while searching for a place to live. ",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2008-10-27",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61991,
+                    "EpisodeNumber": 11,
+                    "Title": "The Magnificent Archibalds",
+                    "Plot": "It's Thanksgiving time and Blair is offended when her Mom's new man hijacks her Thanksgiving traditions. Lily attempts to strengthen the frail bond between Rufus and Jenny. Eric discovers a secret about Bart. Vanessa and Chuck help Nate deal with his father.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2008-11-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61994,
+                    "EpisodeNumber": 14,
+                    "Title": "In the Realm of the Basses",
+                    "Plot": "Because Chuck is MIA since his father's funeral, his Uncle Jack arrives on the Upper East Side to find and help him. Trying to forget her last conversation with Chuck, Blair focuses on being accepted into the most prestigious ladies club in the city, Colony Club. Jenny returns to Constance Billard and immediately takes on Penelope and her posse of mean girls, but no one is going down without a valiant Gossip Girl-worthy fight.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-01-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61993,
+                    "EpisodeNumber": 13,
+                    "Title": "O Brother, Where Bart Thou?",
+                    "Plot": "The entire Upper East Side of Manhattan is rocked when Bart Bass dies suddenly in a limo accident. Serena and Eric take the news very calmly while Lily has a troubling time despite her mother, Cece's, awkward attempts to comfort her. Chuck begins to blame Lily for his father's death and threatens to reveal a secret that Bart found on her before his accident. Meanwhile, Blair's mother, Eleanor, prepares for her latest marriage to Aaron's father Cyrus.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-12-08",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62004,
+                    "EpisodeNumber": 23,
+                    "Title": "The Wrath of Con",
+                    "Plot": "Blair puts pressure on Georgina to making amends for her past bad behavior by helping her in an evil plan. The rivalry between Nate and Chuck over Blair reaches a boiling point. Lily makes a secret plan to help Rufus with Dan's college tuition.",
+                    "Rating": 6,
+                    "RatingCount": 3,
+                    "AirDate": "2009-05-04",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61989,
+                    "EpisodeNumber": 9,
+                    "Title": "There Might be Blood",
+                    "Plot": "Serena invites Aaron to a charity event, but soon uncovers a secret Aaron has been keeping from her. Thinking it will help her get into Yale, Blair agrees to babysit the 15-year-old daughter of a Yale donor, but her plan quickly backfires. Meanwhile, Jenny and Agnes plan a fashion show.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-11-03",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61990,
+                    "EpisodeNumber": 10,
+                    "Title": "Bonfire of the Vanity",
+                    "Plot": "Blair sets out on a mission to break up her mother and Cyrus Rose, her new man. Jenny moves in with Agnes as the two continue with their plans for their own fashion line. As Serena continues to fall for Aaron, she learns something that may derail their relationship forever while Dan interviews Bart Bass for an article for New York Magazine.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2008-11-10",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62000,
+                    "EpisodeNumber": 20,
+                    "Title": "Remains of the J",
+                    "Plot": "Serena throws Jenny a sixteenth birthday party, but things spin out of control when Poppy Lifton turns the party into the social event of the season. Vanessa agrees to help Chuck in a plan concerning Blair and Nate. Meanwhile, Rufus searches for a way to cover Dan's tuition when he learns he will not receive financial aid to go to Yale.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2009-03-30",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62001,
+                    "EpisodeNumber": 21,
+                    "Title": "Seder Anything",
+                    "Plot": "Serena returns from her trip to Spain with Poppy and Gabriel. Blair makes a secret deal with Nate's grandfather. Dan takes a job to earn money for college.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2009-04-20",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62003,
+                    "EpisodeNumber": 24,
+                    "Title": "Valley Girls",
+                    "Plot": "In a flashback to the 80s, 17-year-old Lily Rhodes gets kicked out of boarding school and runs away to Los Angeles, reconnecting with her parents, Rick and Cece, and sister, Carol. Back in present day, Blair and Nate attend prom together, but the evening doesn't turn out exactly as planned and Chuck and Serena have a little something to do with that. Serena and Lily don't see eye-to-eye over Serena's recent run-in with the law.",
+                    "Rating": 8.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-05-11",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61992,
+                    "EpisodeNumber": 12,
+                    "Title": "It's a Wonderful Lie",
+                    "Plot": "Serena, Blair, Nate, Chuck and their class break into the school swimming pool for a night of fun, but when someone nearly dies, the school threatens to expel the person responsible for the break-in. Everyone agrees to not say anything, but this creates major problems between Serena and Dan. Vanessa, while working on a documentary project about private schools, accidentally captures Blair and Chuck discussing their affair. Lily tries to tell Rufus how she really feels about him.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-12-01",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61984,
+                    "EpisodeNumber": 4,
+                    "Title": "The Ex-Files",
+                    "Plot": "Blair and her minions decide to befriend the new girl, Amanda, in order to sabotage her possible new relationship with Dan. Vanessa discovers a scandalous secret about Catherine and enlists Blair's scheming expertise to use the information to help Nate. Meanwhile, Lily finds herself drawn back to her ex, Rufus, once again.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-09-22",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61985,
+                    "EpisodeNumber": 5,
+                    "Title": "The Serena Also Rises",
+                    "Plot": "In the midst of Fashion Week, a furious Blair learns that her mother, Eleanor, at the suggestion of her protege Jenny, has given Serena and her new socialite friend, Poppy Lifton, front row seats to the Eleanor Waldorf show. Hurt once again by Serena's popularity and her mother's betrayal, Blair decides to sabotage the show. Meanwhile, Dan starts hanging out with Chuck, but a walk on the dark side always has its risks and Dan learns that the hard way. Lily learns a secret that her new husband, Bart, has been keeping from her.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-09-29",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 62005,
+                    "EpisodeNumber": 25,
+                    "Title": "The Goodbye Gossip Girl",
+                    "Plot": "Gossip Girl decides to liven things up at the Constance Billard and St. Jude’s graduation by sending out a shocking and damaging email blast in the midst of the commencement ceremony, stirring Serena to come up with a plan of attack. The Mean Girls challenge Jenny to throw her hat in the ring to succeed Blair as Queen Bee next year. Lily and Rufus struggle to repair their relationship after Lily’s betrayal. As for the cliffhangers, Blair and Chuck finally… and Serena is shocked by… and Georgina decides to… and Dan, Nate, and Vanessa unknowingly…. Jenny and Eric do something they might end up regretting.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-05-18",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61997,
+                    "EpisodeNumber": 17,
+                    "Title": "Carrnal Knowledge",
+                    "Plot": "Blair comes up with a devious plan to take down her new teacher, Rachel. Chuck has no recollection of what happened to him when he wakes up in a hotel. Nate and Vanessa try to help Chuck fill in the missing pieces of his night. Meanwhile Dan and Serena try to keep their relationship together as Rufus and Lily grow even closer.",
+                    "Rating": 6.2,
+                    "RatingCount": 4,
+                    "AirDate": "2009-02-02",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61982,
+                    "EpisodeNumber": 2,
+                    "Title": "Never Been Marcused",
+                    "Plot": "Blair is over the moon that she is dating royalty and has every intention of becoming a royal herself, but a scheming Chuck has other plans for Blair and her new love, Marcus, when he introduces Blair to Marcus' stepmother who happens to be Catherine. Meanwhile, Nate learns the downside to having an affair with Catherine when he keeps getting caught in his lies and learns his family has gone bankrupt due to his father jumping bail.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-09-08",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61996,
+                    "EpisodeNumber": 16,
+                    "Title": "You've Got Yale",
+                    "Plot": "The students are stressed out as they find out who was accepted and who didn't make the cut for early admission to Yale. Meanwhile, Serena bonds with Rachel, her Shakespeare teacher, who is unaware of what Blair has in store for her following receiving her first B; Chuck finds an unlikely ally in his feud with Jack; and Nate and Vanessa have a romantic evening together.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2009-01-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61983,
+                    "EpisodeNumber": 3,
+                    "Title": "The Dark Night",
+                    "Plot": "In a humorous twist, Blair questions the lack of passion in her relationship with Marcus, while at the same time Chuck appears to have lost his \"passion\" for any woman other than Blair. Meanwhile, Nate struggles between his feelings for Vanessa and his more-complicated-by-the-day relationship with Catherine. Jenny risks losing her internship when Eleanor catches Jenny critiquing one of the Eleanor Waldorf designs.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2008-09-15",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61995,
+                    "EpisodeNumber": 15,
+                    "Title": "Gone with the Will",
+                    "Plot": "Chuck, Jack and Lily come together for the reading of the will which reveals what will come of the Bass empire. Rufus and Lily's relationship is put on hold as Rufus searches for the child he never knew he had. Meanwhile, Dan does some digging of his own and uncovers Rufus and Lily's secret, putting him in an awkward position.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2009-01-12",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 61999,
+                    "EpisodeNumber": 19,
+                    "Title": "The Grandfather",
+                    "Plot": "Devastated by the turn her life has taken, Blair opts for a wild lifestyle instead of her perfect Waldorf life, causing Chuck and Serena to become concerned. Vanessa tries to convince Nate that he needs to move on after his mother's family, the Vanderbilts, abandoned him and his mother. Trying to be honest with each other, Lily and Rufus both put together their lists of past relationships.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-03-23",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3560,
+            "SeasonNumber": 3,
+            "Episodes": [
+                {
+                    "Id": 201784,
+                    "EpisodeNumber": 2,
+                    "Title": "The Freshmen",
+                    "Plot": "Blair, determined to have her Queen status at college, starts her first day at NYU along with Dan and Vanessa. However, Georgina, who was assigned as Blair's roommate, sets out to ensure that she does not retain her title. Serena gets ready to move into her dorm at Brown, but has a fight with Chuck before hand. This leads her to search out Chuck's enemy, Carter, to help her get even with him. Meanwhile, Nate and Bree's relationship continues to grow despite the tension their relationship could cause between their families.",
+                    "Rating": 6.8,
+                    "RatingCount": 4,
+                    "AirDate": "2009-09-21",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201785,
+                    "EpisodeNumber": 3,
+                    "Title": "The Lost Boy",
+                    "Plot": "Blair and Chuck face-off when the both set their sights on an item up for bid at Sotheby's. Serena begins to think that Carter may have returned to his old habits, Georgina becomes interested in Dan, and Vanessa thinks that something is wrong with Scott.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-09-28",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201789,
+                    "EpisodeNumber": 7,
+                    "Title": "How to Succeed in Bassness",
+                    "Plot": "In need of publicity for his new hotel, Chuck decides to move up his club’s opening and enlists Serena’s help to get the word out to her celebrity clients. Feeling left out of the planning, Blair attempts to win Chuck’s approval by secretly helping him with a problem concerning opening night. Dan is unnerved when he finally watches one of Olivia’s infamous sex scenes with co-star and real-life boyfriend at the time, Patrick Robinson. Jenny is forced to choose between her relationship with Eric and her new role as Queen Bee. Rufus gets Lily into the Halloween spirit.",
+                    "Rating": 5.2,
+                    "RatingCount": 4,
+                    "AirDate": "2009-10-26",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201800,
+                    "EpisodeNumber": 13,
+                    "Title": "The Hurt Locket",
+                    "Plot": "Nate and Serena decide to explore the boundaries of their friendship. Blair suspects that Chuck is having problems forgetting about the woman he saw at his father’s grave. Jenny agrees to accompany Damien to a State Dinner but is unaware that he needs her help with a drug exchange. Vanessa and Dan attempt to move past the awkwardness of Dan’s confession of love. Rufus returns from a ski trip and tries his best to avoid Lily.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2010-03-08",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201792,
+                    "EpisodeNumber": 10,
+                    "Title": "The Last Days of Disco Stick",
+                    "Plot": "Hoping to impress the elitist theater kids at NYU, Blair sets her sights on landing a private concert with the hottest musical performer of the year, Lady Gaga. Dan and Olivia sign up to write and star in a school play, based on an idea by Blair and directed by Vanessa. With Blair out of the picture, Serena turns to Nate to help her get through a difficult situation. As a favor to Chuck, Jenny agrees to hang out with Damien, the son of an ambassador who is staying at Chuck's hotel, but the experience proves to be a lot more intriguing than she expected.",
+                    "Rating": 5.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-11-16",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201791,
+                    "EpisodeNumber": 9,
+                    "Title": "They Shoot Humphreys, Don't They?",
+                    "Plot": "Jenny wants to be the Queen Bee of not only Constance but of all the Upper East Side, as she lands the hottest escort for the Cotillion. Meanwhile Dan and Vanessa try to convince Olivia to stay in NY by showing her the \"true college experience\". Leighton Meester's new single \"Somebody to Love\" is featured in the episode, along with performance from Plastiscines.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-11-09",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201804,
+                    "EpisodeNumber": 20,
+                    "Title": "It's a Dad, Dad, Dad, Dad World",
+                    "Plot": "Will's return to the Upper East Side continues to stir up problems for Serena, Lily and his long-standing rival, Rufus. Serena and Jenny's relationship is strained as a result of Jenny's deception. Blair spends time on the Columbia campus and realizes where she truly belongs.... Dan learns that Vanessa has been keeping yet another secret from him.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-05-03",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201793,
+                    "EpisodeNumber": 14,
+                    "Title": "The Lady Vanished",
+                    "Plot": "Rufus and Lily grow suspect of Jenny’s relationship with Damien. Chuck learns more about the woman who may or may not be his mother. Dan and Vanessa struggle through the awkwardness of dating other people.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-03-15",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201786,
+                    "EpisodeNumber": 4,
+                    "Title": "Dan De Fleurette",
+                    "Plot": "During the first day of school at Constance Billard, Jenny takes her place as the new Queen Bee. However, Blair gets in her way. Lily returns home to find that things are not as they were when she left them with Rufus. At NYU, Olivia Burke, an actress, enrolls and is assigned to be Vanessa's roommate.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-10-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201802,
+                    "EpisodeNumber": 11,
+                    "Title": "The Treasure of Serena Madre",
+                    "Plot": "It wouldn’t be Thanksgiving on the Upper East Side if there wasn’t a serving or two of some major drama for the holiday. Blair suspects her mom has been keeping a big secret from her, but it turns out to be something else entirely. Vanessa is supposed to spend Thanksgiving with her parents, but has a fight with her mom and shows up on Dan’s doorstep. Rufus learns that Lily has been lying to him about her mother, Cece. Chuck tells Nate that he has some potentially damaging information about one of their friends. Jenny learns that Eric was behind her very public embarrassment at Cotillion and can’t pass up a chance to get even. Serena is put in a very awkward position when her mother invites Trip and Maureen to join them for Thanksgiving dinner.",
+                    "Rating": 7,
+                    "RatingCount": 4,
+                    "AirDate": "2009-11-30",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201803,
+                    "EpisodeNumber": 22,
+                    "Title": "Last Tango, Then Paris",
+                    "Plot": "Blair must decide whether to meet Chuck at the top of the Empire State Building or risk losing their future together. A Gossip Girl gossip bomb involving Dan explodes Serena and Nate's relationship. Dorota and Vanya welcome their baby. Jenny hits rock bottom. Georgina returns to the Upper East Side...and she has an agenda.",
+                    "Rating": 6,
+                    "RatingCount": 3,
+                    "AirDate": "2010-05-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201783,
+                    "EpisodeNumber": 1,
+                    "Title": "Reversals of Fortune",
+                    "Plot": "As summer draws to an end, Blair and Chuck continue to adjust to being in a relationship with one another. Serena returns from Europe with new secrets to hide and a new relationship with Carter Baizen. Nate also returns from vacationing and brings home a mysterious girl, Bree Buckley. Meanwhile, Rufus, Dan and Jenny spend the summer in the Hamptons and learn to adjust to the van der Woodsen's glamorous lifestyle",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-09-14",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201788,
+                    "EpisodeNumber": 6,
+                    "Title": "Enough About Eve",
+                    "Plot": "Vanessa, hoping to finally win her mother Gabriela’s approval, desperately vies with Blair for the honor of delivering the freshman toast at NYU, but at what price? Dan invites Olivia to meet Rufus and Lily, which leads to all sorts of problems for the new couple. Serena and Nate team up to help Carter Baizen.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-10-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201795,
+                    "EpisodeNumber": 16,
+                    "Title": "The Empire Strikes Jack",
+                    "Plot": "Chuck finds himself once again at odds with his uncle, Jack Bass. Eleanor puts Blair in charge of making sure her latest fashion show is a huge success with an important client. Rufus attempts to get Jenny back on track by volunteering to have her help with Eleanor’s fashion show, but the opportunity takes a big turn for the worse when Jenny learns that Agnes will be one of the models.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-03-29",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201797,
+                    "EpisodeNumber": 18,
+                    "Title": "The Unblairable Lightness of Being",
+                    "Plot": "Chuck offers to throw a wedding for a very pregnant Dorota who insists that she and Vanya have a traditional wedding before her parents arrive from Poland and find their daughter pregnant and without a husband.. Dorota asks Blair and Chuck to be part of the ceremony and walk her down the aisle. Serena tells Nate she is having breakfast with the Humphreys when in reality she’s secretly meeting up with Carter Baizen. Rufus discovers that Lily has been lying to him about her whereabouts.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-04-12",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201798,
+                    "EpisodeNumber": 19,
+                    "Title": "Dr. Estrangeloved",
+                    "Plot": "When Lily’s ex-husband, Dr. William van der Woodsen, shows up unexpectedly in Manhattan, Serena finally gets the reunion she has so desperately wanted with her father, but the circumstances turn out to be far from ideal. When Serena and Nate continue to have relationship issues, a scheming Jenny is more than happy to be a shoulder for Nate to lean on... Meanwhile, Dan finds out that he didn’t get accepted into the Tisch writing program and Vanessa admits she may have been somewhat responsible.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-04-26",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201799,
+                    "EpisodeNumber": 21,
+                    "Title": "Ex-Husbands and Wives",
+                    "Plot": "When things get tense between Rufus and Will, Serena chooses to stand behind her father, while at the Rufus is made to feel like an outsider in his own family. Meanwhile, Jenny deliberately shares information with Will that may ultimately destroy Lily and Rufus' marriage. After many failed attempts, Chuck makes one last grand gesture to reconcile with Blair, hoping she will finally accept the fact that they are destined to be together.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-05-10",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201796,
+                    "EpisodeNumber": 17,
+                    "Title": "Inglourious Bassterds",
+                    "Plot": "Chuck and Blair are faced with the most difficult decision they have ever faced as a couple. Serena plans a surprise birthday party for Nate, but Jenny does her best to sabotage Serenas’s efforts. Dan and Vanessa’s new relationship hits a bump in the road.",
+                    "Rating": 6.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-04-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201790,
+                    "EpisodeNumber": 8,
+                    "Title": "The Grandfather: Part II",
+                    "Plot": "Olivia says something she regrets during her appearance on Jimmy Fallon’s talkshow and tries to keep Dan from finding out. With election day around the corner, Nate suspects his grandfather will stop at nothing to get Trip elected to congress. In the midst of another feud with Serena, Blair befriends a new “it” girl and takes her to an election night party at Chuck’s hotel, hoping to make Serena jealous.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2009-11-02",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201787,
+                    "EpisodeNumber": 5,
+                    "Title": "Rufus Getting Married",
+                    "Plot": "Lily and Rufus decide to move up their wedding to the next day, but will someone or something come between them before they become man and wife? Chuck discovers a secret that Carter has been keeping from Serena. Dan and Vanessa are pulled into one of Georgina’s schemes. Blair is suspect of Bree and shares her concerns with Nate.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2009-10-12",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201801,
+                    "EpisodeNumber": 12,
+                    "Title": "The Debarted",
+                    "Plot": "On the anniversary of Bart Bass’ death, Chuck wrestles with an issue from the past and a serious car accident rocks the Upper East Side. Dan and Vanessa attempt to navigate their newly complicated friendship. When Jenny is accused of beating up one of her classmates, Eric is faced with a tough dilemma.",
+                    "Rating": 5.8,
+                    "RatingCount": 4,
+                    "AirDate": "2009-12-07",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201794,
+                    "EpisodeNumber": 15,
+                    "Title": "The Sixteen Year Old Virgin",
+                    "Plot": "Despite being grounded, Jenny continues to see Damien who tells Jenny that he wants to have sex with her. Lily tells Rufus the big secret she has been keeping from him even though she knows it's a huge risk. Dan and Vanessa explore a new stage of their friendship. Chuck is forced to make an extremely difficult decision about his hotel.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-03-22",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3561,
+            "SeasonNumber": 4,
+            "Episodes": [
+                {
+                    "Id": 201815,
+                    "EpisodeNumber": 17,
+                    "Title": "Empire of the Son",
+                    "Plot": "Ben’s mother comes to town, forcing issues to the surface between Ben and Serena. Russell Thorpe is determined to destroy Chuck’s family legacy, but he risks alienating his daughter, Raina, in the process. Billy Baldwin returns as William van der Woodsen, Lily’s ex-husband and Serena and Eric’s father.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2011-02-28",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 954151,
+                    "EpisodeNumber": 19,
+                    "Title": "Petty in Pink",
+                    "Plot": "Serena enlists Charlie to go undercover Gossip Girl-style to determine why Dan and Blair are spending so much time together, and what role an unexpected visitor is playing in their lives. With Nate’s help, Raina decides to go on a search for her long-lost mother. Chuck’s hopes about his legacy are dashed with the reveal of devastating information from the past.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2011-04-25",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201831,
+                    "EpisodeNumber": 20,
+                    "Title": "The Princesses and the Frog",
+                    "Plot": "Blair’s dreams appear to be coming true, but Serena threatens to jeopardize it all by dredging up Blair’s past. Charlie befriends Vanessa, who may or may not have a hidden agenda. Nate is torn between his relationship with Raina and a truth he must keep hidden out of loyalty to Chuck.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2011-05-02",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201830,
+                    "EpisodeNumber": 22,
+                    "Title": "The Wrong Goodbye",
+                    "Plot": "The episode continues from the early events of the Constance Alumni event. Georgina Sparks turns up at the event looking for trouble. Serena and Vanessa reluctantly join forces to find Dan and Charlie, who does not take Dan's rejection of her well. Blair must make a choice between the men in her life when her life is in danger by Russell.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2011-05-16",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201807,
+                    "EpisodeNumber": 8,
+                    "Title": "Juliet Doesn’t Live Here Anymore",
+                    "Plot": "Chuck and Blair decide it’s in both their best interests to put the past behind them and end their vindictive games. Nate confronts Juliet after discovering a secret she has been keeping from everyone. Dan and Nate realize they both still have feelings for Serena.",
+                    "Rating": 8.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-11-08",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201812,
+                    "EpisodeNumber": 15,
+                    "Title": "It-Girl Happened One Night",
+                    "Plot": "With Russell Thorpe poised for a takeover attempt of Bass Industries, Chuck makes one last-ditch effort to save his family’s company. Blair is given a challenging assignment at W Magazine with the promise of a possible promotion. Serena struggles with her feelings for Ben.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2011-02-14",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201828,
+                    "EpisodeNumber": 4,
+                    "Title": "Touch of Eva",
+                    "Plot": "Nate suspects that Juliet is keeping a big secret from him and decides to confront her. Blair schemes to undermine Chuck's newfound happiness. Dan finds himself torn between his feelings for Serena and Vanessa.",
+                    "Rating": 6.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-10-04",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201808,
+                    "EpisodeNumber": 9,
+                    "Title": "The Witches of Bushwick",
+                    "Plot": "Chuck hosts a \"Saints and Sinners\" masquerade party at the Empire Hotel. At the party, Dan and Nate don't know what to make of Serena's strange behavior and mixed messages. Blair sets her sights on becoming the new face of Anne Archibald's foundation for girls, but Anne is concerned that Blair's friendship with Chuck Bass may be problematic.",
+                    "Rating": 8.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-11-15",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201829,
+                    "EpisodeNumber": 11,
+                    "Title": "The Townie",
+                    "Plot": "Blair and Dan join forces to find Juliet. Serena expounds her boarding school experiences to her therapist and discovers the truth behind Juliet's vendetta against her. Meanwhile Chuck suspects Lily has not told him the full truth. ",
+                    "Rating": 8.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-12-06",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201826,
+                    "EpisodeNumber": 6,
+                    "Title": "Easy J",
+                    "Plot": "Although Blair made it perfectly clear that Little J was no longer welcome in Manhattan after what happened with Chuck, Jenny is tempted by a once-in-a-lifetime opportunity to meet Tim Gunn, which could be a game changer for her future. Meanwhile, Serena discovers something about her new boyfriend, Colin, that may put an end to their relationship just as it was getting good.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-10-25",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201810,
+                    "EpisodeNumber": 13,
+                    "Title": "Damien Darko",
+                    "Plot": "Blair is ecstatic to land an internship at W Magazine, but the thrill quickly fades when she finds out that Dan has secured one of the coveted positions as well. Chuck may have finally met his match with Russell Thorpe – and his daughter Raina – back on the Upper East Side. Nate receives alarming news about his father’s business prospects.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2011-01-31",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201825,
+                    "EpisodeNumber": 2,
+                    "Title": "Double Identity",
+                    "Plot": "Living out a real-life fairytale in Paris, Blair is pursued by a handsome young man, Louis, who she suspects is a member of Monaco's royal family. A very concerned Lily asks Serena to help her find Chuck, who hasn't been heard from or seen in months. Meanwhile, Chuck Bass is as we've never seen him before, adjusting to a fresh start in Paris with a mysterious new woman, Eva, at his side. Juliet offers to help Nate win Serena back, suggesting that reigniting Dan and Vanessa's romance may just be the trick to remove Dan from the Dan-Serena-Nate love triangle.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-09-20",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201805,
+                    "EpisodeNumber": 10,
+                    "Title": "Gaslit",
+                    "Plot": "Chuck, Serena, Blair, Dan, Jenny and Eric find themselves faced with a crisis when a member of one of their families is hospitalized. Meanwhile, Nate attempts to help his parents, The Captain and Anne, put their complicated past behind them and reconcile.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-11-29",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201813,
+                    "EpisodeNumber": 16,
+                    "Title": "While You Weren't Sleeping",
+                    "Plot": "It wouldn’t be a proper Upper East Side party without some major Gossip Girl drama, and for Eric’s 18th birthday celebration there is plenty to go around. Blair decides to speed up the time table on her career path to becoming a powerful woman.... but ultimately stretches herself too thin. Serena is forced to choose between her family and Ben. Chuck and Lily’s relationship remains icy in the aftermath of Lily’s betrayal.",
+                    "Rating": 8.3,
+                    "RatingCount": 3,
+                    "AirDate": "2011-02-21",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201811,
+                    "EpisodeNumber": 12,
+                    "Title": "The Kids Are Not All Right",
+                    "Plot": "A former associate of Chuck’s father, Russell Thorpe – along with his daughter Raina – returns to Manhattan with some unfinished business for our Upper East Siders. Serena and Chuck join forces against Lily. Blair realizes that her mother, Eleanor, may be her key to becoming a future CEO. Nate worries that his father, The Captain, is having a little too much fun and not taking his parole seriously.",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2011-01-24",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201824,
+                    "EpisodeNumber": 1,
+                    "Title": "Belles de Jour",
+                    "Plot": "Blair and Serena spent their summer living it up in the belly of the beast: Paris, France. But where there's Paris there's bound to be boutique, Balenciaga, and of course, boy trouble. Unaware of Chuck's shooting in Prague, Blair struggles to forget him; things take a turn, however, when Chuck mysteriously shows up in Paris with a foreign stunning blonde at his arm. Meanwhile Serena contemplates which of her long-time beaus could be the one for her: Dan or Nate? Even on the Upper East Side drama erupts as Dan figures out the baby mama drama with Georgina, and Nate realizes something about himself when he meets fellow Columbia student, the intriguing Juliet.",
+                    "Rating": 7.3,
+                    "RatingCount": 3,
+                    "AirDate": "2010-09-13",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201832,
+                    "EpisodeNumber": 5,
+                    "Title": "Goodbye, Columbia",
+                    "Plot": "An anonymous Gossip Girl blast starts a very damaging rumor about one of Columbia's new students, Serena. On her path to greatness, Blair decides to take a class with a powerful businesswoman, Martha, who is guest-lecturing at Columbia, but a mysterious fellow student thwarts her plans to secure the prized position as Martha's assistant.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-10-11",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201820,
+                    "EpisodeNumber": 21,
+                    "Title": "Shattered Bass",
+                    "Plot": "Charlie is finally starting to feel less like a fish-out-of-water with Serena and her friends, but complications present themselves when Charlie is invited to attend the Constance Billard alumni fundraiser. On the road to \"happily ever after\" Blair finds herself torn between the men in her life. Jack Bass return to the Upper East Side sets off a chain of events that could end up destroying Chuck and those closest to him.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2011-05-09",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201806,
+                    "EpisodeNumber": 7,
+                    "Title": "War at the Roses",
+                    "Plot": "Blair is caught off-guard – and not in a good way – by a surprise guest at her birthday party. Having had enough of Chuck and Blair’s games, Serena and Nate decide to plan an intervention.",
+                    "Rating": 7.7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-11-01",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201822,
+                    "EpisodeNumber": 18,
+                    "Title": "The Kids Stay in the Picture",
+                    "Plot": "As Lily awaits the consequences of her decision, William van der Woodsen, CeCe and Lily’s sister, Carol, come into town to support her and be part of a Taschen photo shoot on “modern royalty” in which the Rhodes family is participating. Unbeknownst to Carol, who has always chosen to keep her daughter Charlie far away from the Upper East Side, Charlie has followed her to New York to meet Serena and the rest of the family. Blair has an epiphany about her future, and grapples with the knowledge of whom she’s destined to be with.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2011-04-18",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201827,
+                    "EpisodeNumber": 3,
+                    "Title": "The Undergraduates",
+                    "Plot": "On her first day at Columbia, Blair attempts to gain membership into an ultra-exclusive social club, Hamilton House .... but she’s in for a few big surprises. Serena begins to suspect that Juliet is intentionally sabotaging Serena’s life and that it may have something to do with Nate. Rufus is worried about Dan and decides to take matters into his own hands.",
+                    "Rating": 7,
+                    "RatingCount": 3,
+                    "AirDate": "2010-09-27",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                },
+                {
+                    "Id": 201809,
+                    "EpisodeNumber": 14,
+                    "Title": "Panic Roommate",
+                    "Plot": "Blair enlists Nate’s help to win over her high-strung boss, Epperly, at W Magazine. Damien stirs up more drama on the Upper East Side. Chuck finds himself torn between business and pleasure. Florence and the Machine performs an acoustic version of “Cosmic Love.”",
+                    "Rating": 8,
+                    "RatingCount": 3,
+                    "AirDate": "2011-02-07",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kristen Bell",
+                        "Taylor Momsen",
+                        "Jessica Szohr"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3562,
+            "SeasonNumber": 5,
+            "Episodes": [
+                {
+                    "Id": 201866,
+                    "EpisodeNumber": 22,
+                    "Title": "Raiders of the Lost Art",
+                    "Plot": "Chuck, Nate, Blair, Serena and Lola team up to uncover what they think is an explosive secret between Diana and Jack. Meanwhile, Dan is offered a prestigious fellowship in Rome for the summer.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-04-30",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201862,
+                    "EpisodeNumber": 21,
+                    "Title": "Despicable B",
+                    "Plot": "Blair feels like her Upper East Side status might be slipping away and devises a plan to assure that doesn’t happen. Meanwhile, Lily throws a family gathering – including William, Carol and Lola – in an attempt to prove the van der Woodsen family is as united as ever. Finally, Nate digs into Diana’s past and is surprised by what he discovers.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-04-23",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201867,
+                    "EpisodeNumber": 23,
+                    "Title": "The Fugitives",
+                    "Plot": "Blair enlists Serena to be her stand-in at an important meeting when Blair finds herself needing to be in two places at the same time. Meanwhile, Ivy and Lola team up to help Chuck with a personal vendetta, and Nate makes a decision about the future with Diana Payne.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-05-07",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201865,
+                    "EpisodeNumber": 24,
+                    "Title": "The Return of the Ring",
+                    "Plot": "When Gossip Girl goes after Blair as she’s never done before, Serena admits she may have unintentionally played an important role in Blair’s latest nightmare. Meanwhile, Nate invites Lola to move in with him, and Lily must make a big decision about the future of her marriage. Finally, by episode’s end, Blair will make a choice between the two men in her life…will it be Chuck or will it be Dan?",
+                    "Rating": 5.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-05-14",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201846,
+                    "EpisodeNumber": 9,
+                    "Title": "Rhodes To Perdition",
+                    "Plot": "Lily, Charlie and Serena eagerly anticipate the Studio 54 party being thrown in CeCe’s honor. Nate takes on a new role at the Spectator, but his first big story turns out to be about someone he knows all too well. Blair turns to an unlikely person for help.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2011-11-28",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201863,
+                    "EpisodeNumber": 19,
+                    "Title": "It Girl, Interrupted",
+                    "Plot": "Serena decides she is ready to relinquish the spotlight and sets out to make a reluctant Lola the next “It Girl” of the Upper East Side, starting with modeling at a Kiki de Montparnasse lingerie show. Meanwhile, Chuck reaches out to Blair or advice about his past, and Diana Payne’s return to The Spectator starts a power struggle with Nate.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-04-09",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201836,
+                    "EpisodeNumber": 4,
+                    "Title": "Memoirs of an Invisible Dan",
+                    "Plot": "After much deliberation, Dan decides to gather Serena, Blair, Nate, Chuck, Rufus  and Lily to reveal the truth about his book in the hope that they will support him at his book party. Meanwhile, Blair and Louis hit a crises point after Louis reads Dan's book. Diana learns incriminating information about one of Nate's friends and uses it to her advantage.",
+                    "Rating": 6,
+                    "RatingCount": 3,
+                    "AirDate": "2011-10-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201855,
+                    "EpisodeNumber": 12,
+                    "Title": "Father and the Bride",
+                    "Plot": "Blair prepares to celebrate her upcoming royal wedding with a bachelorette party, but others scheme behind her back to make this a night to remember. After discovering the truth behind Chuck and Blair’s car accident, Nate joins forces with a surprising ally to gather the evidence. Serena and Dan pretend to be dating again to protect someone close to them.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2012-01-23",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201837,
+                    "EpisodeNumber": 3,
+                    "Title": "The Jewel of Denial",
+                    "Plot": "Nate must decide whether to cross moral lines at Diana’s request. Dan has figured out who is publishing his book, and seeks help to stop it, but he ends up in the spotlight anyway. Chuck helps Dan come to terms with his fate, just as Dan continues to try to help Chuck break through his emotional block. Serena and Charlie return to the Upper East Side from California.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2011-10-10",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201851,
+                    "EpisodeNumber": 10,
+                    "Title": "Riding In Town Cars With Boys",
+                    "Plot": "Lily  throws Charlie a party to officially introduce her to New York society. Meanwhile, Charlie’s ex-boyfriend, Max, throws a wrench into Charlie’s future as an Upper East Side princess. Dan decides it may be time to tell Blair the truth about his feelings for her.",
+                    "Rating": 8.5,
+                    "RatingCount": 2,
+                    "AirDate": "2011-12-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201850,
+                    "EpisodeNumber": 11,
+                    "Title": "The End of The Affair?",
+                    "Plot": "Blair's flashbacks reveal the fallout of her and Chuck's car accident, which Nate realizes may have been caused by foul play. Meanwhile, Lily gets a private eye to locate Charlie; and Vera Wang makes an appearance at Blair's bridal-dress fitting.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2012-01-16",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201861,
+                    "EpisodeNumber": 18,
+                    "Title": "Con-Heir",
+                    "Plot": "Chuck invites Jack to town to thank him for saving his life, but finds the trip doesn’t go exactly as planned. Blair and Dan attempt to consummate their new relationship -- but unexpected roadblocks get in their way. Meanwhile, Ivy finds an unlikely ally in William in her quest to be accepted on the Upper East Side, and Nate is hopeful a new investor will save his newspaper.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-04-02",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201835,
+                    "EpisodeNumber": 5,
+                    "Title": "The Fasting and the Furious",
+                    "Plot": "In the midst of celebrating Yom Kippur with family and friends, Blair and Louis find themselves in a power struggle with Louis' family. Serena's boss puts Serena in the awkward position of choosing between her new job and her relationship with Dan. Diana prepares to debut the New York Spectator, but an unfortunate last-minute surprise delays the launch and Diana expects Nate to do whatever it takes to save the day.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2011-10-24",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201860,
+                    "EpisodeNumber": 17,
+                    "Title": "The Princess Dowry",
+                    "Plot": "Blair thinks Cyrus may have found a potential loophole in her prenup. Chuck and Georgina partner up in a scheme, but it has an unpredictable outcome.. Meanwhile, a family crisis brings William van der Woodsen back to the Upper East Side.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-02-27",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201834,
+                    "EpisodeNumber": 2,
+                    "Title": "Beauty and the Feast",
+                    "Plot": "Nate reconnects unexpectedly with Diana, who offers him an exciting opportunity. Serena forces Charlie to decide which world she wants to embrace. Dan seeks out Chuck’s help to stop the publication of his book, but discovers it is Chuck who needs the help. Blair’s future sister-in-law, Beatrice, arrives from Monaco, but her motives with Blair may be more than just to get acquainted.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2011-10-03",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201864,
+                    "EpisodeNumber": 20,
+                    "Title": "Salon of the Dead",
+                    "Plot": "To celebrate their official coming out as a couple, Blair and Dan host a glamorous British-themed Salon, including guests Julian Tepper and Jenna Gribbon Lola lands the audition of a lifetime, but Gossip Girl may have other plans for the Upper East Side’s latest It Girl. Meanwhile, Lily and Rufus  disagree over the best way to handle the Ivy situation, and Serena and Diana face-off over secrets they both would prefer remain secrets.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-04-16",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201833,
+                    "EpisodeNumber": 1,
+                    "Title": "Yes, Then Zero",
+                    "Plot": "Serena loves her new job in Hollywood, but makes a costly misstep when she tries to impress her boss. Chuck and Nate arrive in Los Angeles as the last stop of their Lost Summer trip, joining Serena at a glamorous Hollywood Hills party, where Nate meets a sexy older woman. Blair and Louis return from Monaco and begin planning their royal wedding, but when Louis refuses to stand up to his family and support Blair’s choices, his weakness threatens their relationship. A magazine is planning to run an excerpt of Dan’s book until an unlikely ally steps in to help him kill the story.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2011-09-26",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201849,
+                    "EpisodeNumber": 8,
+                    "Title": "All The Pretty Sources",
+                    "Plot": "Serena is hard at work planning a dream bridal shower for Blair, but it should come as no surprise that Serena has to plant some false information about the shower in order to keep Blair from finding out all the details. Chuck and Dan decide to spend the day together to distract themselves from the fact that they didn’t make the invite list for Blair’s shower. Nate and Serena find a silver bullet in Diana’s war against Gossip Girl, but struggle about whether to use it or not.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2011-11-21",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201844,
+                    "EpisodeNumber": 7,
+                    "Title": "The Big Sleep No More",
+                    "Plot": "Several of our favorite Upper East Siders attend a performance of Punchdrunk’s provocative theater experience, “Sleep No More,” which translates to masks, anonymity and some surprising romantic twists by the end of the evening. Meanwhile, Diana sets her sights on Serena in her quest to ruin Gossip Girl. Dan is out on his book tour, but things aren’t exactly as they appear to his friends and family.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2011-11-14",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201858,
+                    "EpisodeNumber": 16,
+                    "Title": "Cross Rhodes",
+                    "Plot": "Dan feels honored when he learns that Upright Citizen’s Brigade is performing excerpts from his book, Inside. Blair tries to prove Serena’s suspicions wrong in order to save their friendship.. On her way out of town, Ivy ends up on a collision course with the van der Woodsens.",
+                    "Rating": 7.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-02-20",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201859,
+                    "EpisodeNumber": 15,
+                    "Title": "Crazy, Cupid, Love",
+                    "Plot": "It’s Valentine’s Day on the Upper East Side and Blair can’t resist playing cupid for someone she loves. Georgina is intent on stirring up more drama, so she decides to crash Nate’s Valentine’s Day party. Meanwhile, Serena is shocked by something she witnesses at the party.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2012-02-13",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201857,
+                    "EpisodeNumber": 13,
+                    "Title": "G.G.",
+                    "Plot": "The much-anticipated 100th episode will open with a musical dream sequence featuring Serena, Blair and all the men in their lives. Also, while Chuck wrestles with the reality that Blair is about to walk down the aisle with Prince Louis, the return of Georgina Sparks might make the royal affair a royal disaster.",
+                    "Rating": 5.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-01-30",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201856,
+                    "EpisodeNumber": 14,
+                    "Title": "The Backup Dan",
+                    "Plot": "Blair must make a difficult decision about her future, the consequences of which could hurt those she loves most. Serena  takes the blame for an incident with Gossip Girl in order to protect someone she loves.. Georgina smells the scent of scandal and decides to follow its trail.",
+                    "Rating": 7.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-02-06",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201840,
+                    "EpisodeNumber": 6,
+                    "Title": "I Am Number Nine",
+                    "Plot": "Blair makes all of her former minions and Charlie compete to secure the coveted bridesmaid spots in her upcoming royal wedding. Nate is tired of keeping his relationship with Diana a secret, so he decides to use Charlie to make Diana jealous. Serena's boss is determined to acquire the film rights to Dan's book, so Serena must put her personal feelings about Dan and the book aside in order to close the deal.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2011-11-07",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3563,
+            "SeasonNumber": 6,
+            "Episodes": [
+                {
+                    "Id": 201881,
+                    "EpisodeNumber": 8,
+                    "Title": "It's Really Complicated",
+                    "Plot": "Serena and Dan decide to throw their first Thanksgiving together, inviting only their closest friends, but everyone seems to have their own agenda for attending. Feeling defeated by his father, Chuck begins a downward spiral, leaving Blair to find a solution to his problems. Meanwhile, Dan has written his latest exposé, but he must make a tough decision whether to publish it, knowing it could destroy a close friendship.",
+                    "Rating": 6.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-12-03",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201882,
+                    "EpisodeNumber": 10,
+                    "Title": "New York, I Love You XOXO",
+                    "Plot": "In a fashionable farewell to remember, our favorite Upper East Siders join forces for one last soiree, and the shocking identity of Gossip Girl is finally revealed.",
+                    "Rating": 9,
+                    "RatingCount": 3,
+                    "AirDate": "2012-12-17",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201878,
+                    "EpisodeNumber": 6,
+                    "Title": "Where the Vile Things Are",
+                    "Plot": "Serena volunteers to help Dan find a new place to live but their time together brings up unexpected emotions.",
+                    "Rating": 7.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-11-19",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201875,
+                    "EpisodeNumber": 2,
+                    "Title": "High Infidelity",
+                    "Plot": "Trying to prove herself in adult society, Serena hosts the Central Park Conservancy’s big gala, of which she is now the newest Board Member, and she and Nate both learn something shocking about their significant others. Blair prepares to debut her new fashion line, but a rival from her past holds the key to her future. With the help of Georgina, Dan lands some meetings with publishers, but he must decide if he is willing to sacrifice his integrity in order to get his work published. Meanwhile, Chuck tries to persuade Amira to help him look into his father’s past, even if it means jeopardizing Lily and Bart’s relationship.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-10-15",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201877,
+                    "EpisodeNumber": 5,
+                    "Title": "Monstrous Ball",
+                    "Plot": "After Eleanor gives Blair an ultimatum, Blair is even more determined to remedy Waldorf Designs’ problems by making a splash with a dress at the upcoming Cotillion, but a shocking revelation at the ball affects everyone. Serena becomes worried about Steven’s attitude toward her, but after some investigating she discovers the surprising reason why. Chuck finds an unlikely ally as he tries to drive a wedge between Bart and Lily’s relationship to help expose his father’s secret. Meanwhile, Dan publishes another article, but the effect is just the opposite of what he was hoping for.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2012-11-12",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201885,
+                    "EpisodeNumber": 9,
+                    "Title": "The Revengers",
+                    "Plot": "After a run-in with an increasingly paranoid Bart, Blair grows alarmingly concerned for Chuck’s safety. However, feeling confident that his father will never hurt him, Chuck makes a deal that could change his life. Wanting to make things better for Chuck, Blair devises a plan with the help of Serena, Georgina and Sage to try and get what they need out of Bart. Meanwhile, Nate's financial dilemma finally lands him in a place that he never thought he would be.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2012-12-10",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201873,
+                    "EpisodeNumber": 3,
+                    "Title": "Dirty Rotten Scandals",
+                    "Plot": "Feeling the pressure to make her first Waldorf Designs fashion show a success, Blair must rely on help from an unlikely source, but some unexpected scheming causes a scandal on the runway. Serena discovers that befriending Steven’s daughter Sage is trickier than she thought, especially when she is forced to put her issues with Blair aside to make Sage happy. Nate publishes Dan’s first serialized article causing a stir and producing a serious threat. Meanwhile, Chuck begins to look into the clue that Amira left behind, which may help uncover what Bart is hiding.",
+                    "Rating": 5.5,
+                    "RatingCount": 2,
+                    "AirDate": "2012-10-22",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201868,
+                    "EpisodeNumber": 1,
+                    "Title": "Gone Maybe Gone",
+                    "Plot": "After a brief encounter abroad, Chuck and Blair make a promise to each other about their relationship, which leaves them once again apart. Dan, with some help from an unlikely ally, Georgina, is writing a scathing tell-all book that can only mean trouble. As the sole head of The Spectator, Nate is making his own decisions and is ready to go up against Gossip Girl. As word spreads that Serena is missing, the gang bands together to find her and are shocked by what they find.",
+                    "Rating": 6,
+                    "RatingCount": 2,
+                    "AirDate": "2012-10-08",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201879,
+                    "EpisodeNumber": 7,
+                    "Title": "Save the Last Chance",
+                    "Plot": "Serena and Dan realize that they need to make amends with the people they have wronged. Chuck’s search for evidence of his father’s illegal activities leads him to a showdown with Bart.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2012-11-26",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                },
+                {
+                    "Id": 201872,
+                    "EpisodeNumber": 4,
+                    "Title": "Portrait of a Lady Alexander",
+                    "Plot": "Chuck’s continued investigation into his father’s dealings leads him to an unlikely event with Manhattan’s elite, where he hopes to find the one person who can tell him the truth about Bart. Serena and Steven decide to reveal their romantic histories so they aren’t surprised by anything, but neither was prepared for what they uncovered. With The Spectator in jeopardy after Dan decided to publish elsewhere, Nate must make a difficult decision to keep it in business. Meanwhile, Georgina pushes Dan to choose a worthy person to date to boost his image, but he finds himself drawn in a different direction.",
+                    "Rating": 7,
+                    "RatingCount": 2,
+                    "AirDate": "2012-11-05",
+                    "Cast": [
+                        "Blake Lively",
+                        "Leighton Meester",
+                        "Penn Badgley",
+                        "Chace Crawford",
+                        "Ed Westwick",
+                        "Kelly Rutherford",
+                        "Matthew Settle",
+                        "Kaylee DeFer",
+                        "Kristen Bell"
+                    ]
+                }
+            ]
+        }
+    ]
+}

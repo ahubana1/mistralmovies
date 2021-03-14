@@ -1,0 +1,2938 @@
+{
+    "Id": 1408,
+    "Title": "House",
+    "Plot": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "Rating": 8.6,
+    "RatingCount": 3298,
+    "FirstAired": "2004-11-16",
+    "LastAired": "2012-05-21",
+    "PosterPath": "/lkvhReTBZ2Ksl0Dl5Oplsf6UYkF.jpg",
+    "Cast": [
+        "Hugh Laurie",
+        "Omar Epps",
+        "Robert Sean Leonard",
+        "Jesse Spencer",
+        "Peter Jacobson",
+        "Odette Annable",
+        "Charlyne Yi"
+    ],
+    "Seasons": [
+        {
+            "Id": 3682,
+            "SeasonNumber": 0,
+            "Episodes": [
+                {
+                    "Id": 63919,
+                    "EpisodeNumber": 5,
+                    "Title": "Swan Song",
+                    "Plot": "A one-hour retrospective special that will look back at this groundbreaking, seminal series and feature interviews with the series' stars and producers, special original content and other surprises.",
+                    "Rating": 9,
+                    "RatingCount": 2,
+                    "AirDate": "2012-05-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63916,
+                    "EpisodeNumber": 2,
+                    "Title": "An Evening With House",
+                    "Plot": "An evening with the cast and creators of House.\n\nHeld at The Achademy of Television Arts and Science",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63918,
+                    "EpisodeNumber": 4,
+                    "Title": "Get Happy",
+                    "Plot": "In season 7 episode 15 (\"Bombshells\"), there were dream sequences as part of a scene. They did a musical number for one, and \"Get Happy\" is that music video.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "2011-03-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63917,
+                    "EpisodeNumber": 3,
+                    "Title": "An Insider's Guide",
+                    "Plot": "An inside look into the filming and production of House.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63915,
+                    "EpisodeNumber": 1,
+                    "Title": "Unaired Pilot",
+                    "Plot": "This episode included 4 minutes of scenes which were edited out from the version that aired on November 16, 2004. It was released in limited number in magazines, etc. to introduce the program to the viewing audience. A web site was set up by FOX so that viewers could log on and give their opinions of the program.",
+                    "Rating": 0,
+                    "RatingCount": 0,
+                    "AirDate": "",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3674,
+            "SeasonNumber": 1,
+            "Episodes": [
+                {
+                    "Id": 63752,
+                    "EpisodeNumber": 15,
+                    "Title": "Mob Rules",
+                    "Plot": "Just before mobster Joey Arnello spills the beans in federal court and enters witness protection, he collapses. Is he faking? A court order instructs House to find out - and fast. House and his team struggle to diagnose and cure Joey while Joey's brother Bill tries to slow things down and keep Joey from testifying.\n\nMeanwhile, Cuddy struggles to convince Vogler that House is an essential part of the hospital. With Joey mysteriously slipping in and out of a coma, and House's job on the line, House makes an exception to his own policy and gets to know his patient.",
+                    "Rating": 7.2,
+                    "RatingCount": 17,
+                    "AirDate": "2005-03-22",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63753,
+                    "EpisodeNumber": 16,
+                    "Title": "Heavy",
+                    "Plot": "When an obese 10-year-old girl presents with a heart attack, House and  his team investigate. At first thinking it's an adverse reaction to diet  pills, they ultimately uncover a much more deadly source of her  illness.\n\nMeanwhile, under pressure from hospital management, House tries  to figure out which of his team to fire. But once he makes a decision,  Vogler doesn't accept it and demands he pick someone else, leading House  to suspect one of his team members is giving inside information to  Vogler.",
+                    "Rating": 8,
+                    "RatingCount": 16,
+                    "AirDate": "2005-03-29",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63748,
+                    "EpisodeNumber": 11,
+                    "Title": "Detox",
+                    "Plot": "While trying to figure out why a young patient won't stop bleeding, House takes Cuddy's challenge and goes off Vicodin for a week in exchange for no clinic duty for a month. If House and his team can't determine the source of his patient's blood loss, the 16-year-old car accident victim will die in a matter of days. As House's withdrawal symptoms become more and more severe, his directives for his patient are more harsh and risky than usual, forcing Foreman and Cameron to fear he may not be thinking clearly enough to save the patient's life.",
+                    "Rating": 8.2,
+                    "RatingCount": 19,
+                    "AirDate": "2005-02-15",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63751,
+                    "EpisodeNumber": 14,
+                    "Title": "Control",
+                    "Plot": "Princeton-Plainsboro Teaching Hospital is turned upside-down when billionaire entrepreneur Edward Vogler buys his way into becoming Chairman of the Board. Vogler intends to use the hospital as a new biotech venture, meaning they no longer require the financially draining services of one Dr. Gregory House.\n\nMeanwhile, a powerful young woman who seemingly has it all - perfect life, perfect body, perfect job - becomes inexplicably paralyzed. Upon discovering her deadly secret, House finds himself fighting for her life even though it means risking his job and his medical license.",
+                    "Rating": 7.7,
+                    "RatingCount": 17,
+                    "AirDate": "2005-03-15",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63754,
+                    "EpisodeNumber": 17,
+                    "Title": "Role Model",
+                    "Plot": "At a high-level campaign fundraiser, up-and-coming Senator Tom Wright becomes violently ill. Vogler pushes House to take Wright's case and also dangles a new  incentive in front of him: deliver a speech on behalf of Vogler's  pharmaceutical company, and save his whole team. While the Senator's  symptoms and tests point to AIDS, a condition which would squash his  White House dreams forever, House and the team dig for different  answers.\n\nMeanwhile, House gives the speech, but it's not exactly what  Vogler had in mind.",
+                    "Rating": 7.6,
+                    "RatingCount": 17,
+                    "AirDate": "2005-04-12",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63747,
+                    "EpisodeNumber": 10,
+                    "Title": "Histories",
+                    "Plot": "Dr. Foreman believes an uncooperative homeless woman is faking seizures  to get a meal ticket at the teaching hospital. But her homelessness  strikes a personal chord with Dr. Wilson and he grows determined to keep  her from falling between the cracks. Her worsening symptoms prove to be  a complex mystery for House and his team, but the mystery of her  identity and medical history may hold the answers to saving her life.  Just as the team suspects she has contagious meningitis, the woman goes  missing, only to be Tasered by the police, who bring her back. But House  deduces the Taser may have proven yet another diagnosis, with dire  results.",
+                    "Rating": 8.4,
+                    "RatingCount": 19,
+                    "AirDate": "2005-02-08",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63745,
+                    "EpisodeNumber": 8,
+                    "Title": "Poison",
+                    "Plot": "When a high school student falls victim to a mysterious but lethal  poisoning, House and his team jump in to find out what is killing the  teen. Given a low heart rate and a clean tox screen, House sends Cameron  and Chase to the teen's home to find the hot new drug House is sure  he's taking. They don't find any drugs, but think they've come up with  the answers, until a second unrelated student is admitted with identical  symptoms. With the boys' lives hanging in the balance, House and the  team have to connect the dots - fast. Meanwhile, an 82-year-old patient  has become enamored with House while he helps her figure out the basis  of her renewed fascination with her sexual feelings.",
+                    "Rating": 7.6,
+                    "RatingCount": 19,
+                    "AirDate": "2005-01-25",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63746,
+                    "EpisodeNumber": 9,
+                    "Title": "DNR",
+                    "Plot": "Legendary jazz musician John Henry Giles is checked into the hospital and when he's told he's dying from ALS, he signs a DNR to avoid a slow death. House disagrees with the diagnosis and goes against everyone's wishes when he violates the DNR to save Giles' life. The decision lands House in court, drives Foreman to consider taking another job, and results in Giles' paralysis worsening. But when the patient inexplicably starts getting better, the team has to figure out the mystery in reverse and find out why his condition is improving.",
+                    "Rating": 7.9,
+                    "RatingCount": 18,
+                    "AirDate": "2005-02-01",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63739,
+                    "EpisodeNumber": 2,
+                    "Title": "Paternity",
+                    "Plot": "When a teenage lacrosse player is stricken with an unidentifiable brain disease, Dr. House and the team hustle to give his parents answers. Chase breaks the bad news, the kid has MS, but the boy's night-terror hallucinations disprove the diagnosis and send House and his team back to square one. As the boy's health deteriorates. House's side-bet on the paternity of the patient infuriates Dr. Cuddy and the teenager's parents, but may just pay off in spades.",
+                    "Rating": 7.3,
+                    "RatingCount": 22,
+                    "AirDate": "2004-11-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63757,
+                    "EpisodeNumber": 20,
+                    "Title": "Love Hurts",
+                    "Plot": "While Princeton-Plainsboro Hospital is rife with rumor and speculation  about House's imminent date with Cameron, House apparently scares a meek  clinic patient into having a stroke. The team must navigate their way  through the patient's odd proclivities, overbearing \"friend\" and  reluctant parents in order to stop the strokes and try to save the guy's  life.\n\nAll the while, Wilson, Cuddy and the team offer House dating  advice and lay odds on the outcome.",
+                    "Rating": 7.6,
+                    "RatingCount": 16,
+                    "AirDate": "2005-05-10",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63750,
+                    "EpisodeNumber": 13,
+                    "Title": "Cursed",
+                    "Plot": "A 12-year-old boy believes he's cursed after a Ouija board tells him  he's going to die. His father, a major financial supporter of the  hospital, makes escalating demands of House and the team as they try to  diagnose the boy's pneumonia-like symptoms and incongruous rash. Tension  intensifies when House invites Chase's estranged father, a renowned  doctor visiting from Australia, into their circle of diagnosticians -  much to Chase's discomfort - and House is intrigued by Chase's lack of  relationship with his father. When the boy's diagnosis becomes more  evident, the young patient is forced to face the idea that his father  may not be everything he believes.",
+                    "Rating": 7.4,
+                    "RatingCount": 18,
+                    "AirDate": "2005-03-01",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63755,
+                    "EpisodeNumber": 18,
+                    "Title": "Babies & Bathwater",
+                    "Plot": "While House and his team scramble to discover what's causing brain and  kidney dysfunction in a pregnant woman, Vogler  is on the warpath to get House fired. House diagnoses his pregnant  patient's illness, but now she and her husband struggle with an  emotional and heartbreaking choice: to save her life, or that of her  unborn child.\n\nMeanwhile, Vogler sets up a board meeting to get rid of  House, but when Wilson objects, Vogler lashes out against him and shocks  Cuddy and the rest of the board with his decision. Finally, Cuddy takes  a stand against Vogler (will she be next?).",
+                    "Rating": 8,
+                    "RatingCount": 17,
+                    "AirDate": "2005-04-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63744,
+                    "EpisodeNumber": 7,
+                    "Title": "Fidelity",
+                    "Plot": "When young wife Elyse falls ill with a rare disease she can't possibly have, Dr. Cameron is very interested in the case - so much so that her interest convinces House to take the case, and the team struggles to save her and appease her very attentive husband, Ed. After Dr. House and Dr. Wilson treat a woman at the clinic with new breast implants, the idea that House's new patient Elyse may have breast cancer is raised as a possible diagnosis. But that diagnosis fails to be the answer when Elyse lapses into a coma after starting treatment. House starts to suspect Elyse has contracted a rare sexually transmitted disease, but when Ed and Elyse are questioned individually, they each deny having an affair. To save their patient's life, the team has to acknowledge that House is right: everybody lies.",
+                    "Rating": 7.5,
+                    "RatingCount": 18,
+                    "AirDate": "2004-12-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63738,
+                    "EpisodeNumber": 1,
+                    "Title": "Pilot",
+                    "Plot": "Dr. Gregory House, a brilliant diagnostician but devoid of bedside  manner, and his elite team of young medical experts rush to save the  life of a kindergarten teacher who started  speaking gibberish and passed out in front of her class.",
+                    "Rating": 7.5,
+                    "RatingCount": 26,
+                    "AirDate": "2004-11-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63743,
+                    "EpisodeNumber": 6,
+                    "Title": "The Socratic Method",
+                    "Plot": "When it appears that Lucy Palermo, a schizophrenic mom with deadly deep vein thrombosis, is lying about her alcohol intake, Dr. House is the lone voice of reason. Under the scrutiny of her hyper-vigilant teenage son, House takes Lucy off all her medication and secretly sends Foreman and Chase to search her apartment for clues. An anonymous call to Social Services makes House question whether Lucy is really schizophrenic, and causes Lucy's son, Lucas, to blame Dr. House for making the call. Wading through Lucy's altered reality to get to the truth and save her life, House discovers it isn't mom who's keeping the secrets and reality isn't always what it seems.",
+                    "Rating": 8,
+                    "RatingCount": 19,
+                    "AirDate": "2004-12-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63741,
+                    "EpisodeNumber": 4,
+                    "Title": "Maternity",
+                    "Plot": "Dr. House exasperates his boss, Dr. Lisa Cuddy, when he suggests that two sick newborn babies in one hospital add up to an epidemic. Even more frightening is the fact he may be right. As more babies are quarantined and the maternity ward is shut down, Cuddy power-scrubs the hospital and House spars with Dr. Cameron and his team of specialists over his plan to possibly sacrifice one sick baby for the good of the others.",
+                    "Rating": 7.3,
+                    "RatingCount": 20,
+                    "AirDate": "2004-12-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63758,
+                    "EpisodeNumber": 21,
+                    "Title": "Three Stories",
+                    "Plot": "House's ex-girlfriend Stacy Warner returns - not  to be with House, but to get his help for her ailing husband. While  House decides whether or not to take the case, Cuddy instructs him to  substitute for a sick professor and present a lecture to a class of  medical students. As he weaves the stories of three patients who all present with a similar symptom, House  gives a lecture the students will never forget. In the end, they come  out with a broader understanding of diagnostics and House's team comes  out with a greater understanding of him.",
+                    "Rating": 9.3,
+                    "RatingCount": 24,
+                    "AirDate": "2005-05-17",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63742,
+                    "EpisodeNumber": 5,
+                    "Title": "Damned If You Do",
+                    "Plot": "When a nun comes into the clinic with swollen arms, rash and bleeding in her palms, Dr. House's diagnosis is a bad allergy, not stigmata. However, when he gives her a shot of medication, she has a heart attack, and whether he gave her the correct amount of medicine comes into question. As the the nun's case unfolds, the team has to deal with questions regarding their own calling, faith and whether or not they can trust the direction in which their mentor is leading them.",
+                    "Rating": 7.3,
+                    "RatingCount": 20,
+                    "AirDate": "2004-12-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63756,
+                    "EpisodeNumber": 19,
+                    "Title": "Kids",
+                    "Plot": "While a meningitis scare overwhelms the resources and staff of  Princeton-Plainsboro Teaching Hospital, House zeros in on a single  patient: a 12-year-old whose symptoms are similar to, but not quite  right for, meningitis. Cuddy gives them an hour to crack the case before  pulling their medical manpower to treat the countless patients taking  over the waiting rooms, but when they discover something quite  unexpected, House, Foreman and Chase must devise ingenious ways and  locations to treat the girl's delicate condition amid the chaos.\n\nMeanwhile, House asks Cameron to come back to her job now that Vogler is  gone, but she's got a surprising requirement.",
+                    "Rating": 7.6,
+                    "RatingCount": 16,
+                    "AirDate": "2005-05-03",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63749,
+                    "EpisodeNumber": 12,
+                    "Title": "Sports Medicine",
+                    "Plot": "A severely broken arm reveals a bizarre case of bone loss and ends the  comeback plans of major league pitcher Hank Wiggen. House suspects Hank - with a history of drug abuse - is lying  about using steroids, as his condition worsens. When Hank's kidneys  start to fail, his wife offers to donate hers, but she would have to  abort her early pregnancy. Forced into an impossible solution, and  admitting failure as an addict, Hank tries to take his own life. House  and his team must isolate and fix the problem soon if this pitcher's  life, as well his career, can be saved.",
+                    "Rating": 7.6,
+                    "RatingCount": 17,
+                    "AirDate": "2005-02-22",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63759,
+                    "EpisodeNumber": 22,
+                    "Title": "Honeymoon",
+                    "Plot": "House insists he can handle things when Stacy,  the woman he once loved, asks him to diagnose Mark, the man she married.  When Mark's tests come back normal yet symptoms show that his brain is  dying, the puzzle may be one that even House can't solve.\n\nWhile Wilson  worries about House's emotional well-being, the team is blown away by  his over-the-top demands. As House struggles to put his emotions aside  and solve the case, Cuddy adds to his dilemma and offers Stacy a reason  to stay.",
+                    "Rating": 7.5,
+                    "RatingCount": 17,
+                    "AirDate": "2005-05-24",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63740,
+                    "EpisodeNumber": 3,
+                    "Title": "Occam's Razor",
+                    "Plot": "When a college student collapses after a bout of raucous sex with his girlfriend, Dr. House and his team scramble to figure out why. He's got too many symptoms to add up to just one disease and soon his immune system is so perilously compromised a simple cold could kill him. As his condition deteriorates quickly, House needs to think - and get more Vicodin. But when Wilson nags House about his nasty pill habit it proves extremely useful to House, just not in the way Wilson intended.",
+                    "Rating": 7.2,
+                    "RatingCount": 20,
+                    "AirDate": "2004-11-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3675,
+            "SeasonNumber": 2,
+            "Episodes": [
+                {
+                    "Id": 63767,
+                    "EpisodeNumber": 8,
+                    "Title": "The Mistake",
+                    "Plot": "House and Chase find themselves in a serious situation after a young mother with stomach pains dies. Months later, Stacy counsels Chase prior to his disciplinary hearing, and must determine whether Chase made a mistake that ultimately led to the patient's death. She soon realizes he is holding something back.",
+                    "Rating": 7.3,
+                    "RatingCount": 13,
+                    "AirDate": "2005-11-29",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63777,
+                    "EpisodeNumber": 18,
+                    "Title": "Sleeping Dogs Lie",
+                    "Plot": "House has to work fast when a woman comes in with a life-threatening case of insomnia. Meanwhile Cameron is angry at Foreman for stealing an article she worked on.",
+                    "Rating": 7.6,
+                    "RatingCount": 12,
+                    "AirDate": "2006-04-18",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63773,
+                    "EpisodeNumber": 14,
+                    "Title": "Sex Kills",
+                    "Plot": "House takes the case of a man who experienced a seizure but wasn't aware it happened. When the man suffers a heart attack and needs a heart transplant, the team races to diagnose a dead woman's illness so they can harvest her heart to save their living patient.",
+                    "Rating": 7.6,
+                    "RatingCount": 14,
+                    "AirDate": "2006-03-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63771,
+                    "EpisodeNumber": 12,
+                    "Title": "Distractions",
+                    "Plot": "While a severely burned teenager is admitted and his blood tests come back with strange results, House makes himself the guinea pig in his own unofficial tests of a new drug designed to treat migraines to prove a former medical school colleague is wrong about the drug.",
+                    "Rating": 7.4,
+                    "RatingCount": 13,
+                    "AirDate": "2006-02-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63768,
+                    "EpisodeNumber": 9,
+                    "Title": "Deception",
+                    "Plot": "With Foreman as House's supervisor, the team must figure out if a woman who cried wolf  too many times is really ill.",
+                    "Rating": 7.5,
+                    "RatingCount": 14,
+                    "AirDate": "2005-12-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63764,
+                    "EpisodeNumber": 5,
+                    "Title": "Daddy's Boy",
+                    "Plot": "When recent college graduate Carnell drops at a graduation party from  internal shocks, he is rushed to Princeton Plainsboro Hospital. With his  father Ken at his bedside, it becomes apparent the two have not been  truthful with each other in their lives and their major trust issues  affect how the medical team gets the information it needs to help solve  Carnell's case. Carnell soon develops other symptoms, and House's team  suspects it might be from a Spring Break trip out of the country, but  have to dig deeper to get all the information. Meanwhile, House has his  own issues with his father and is trying unsuccessfully to get out of a  dinner engagement with his parents when they arrive in town.",
+                    "Rating": 7,
+                    "RatingCount": 15,
+                    "AirDate": "2005-11-08",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63776,
+                    "EpisodeNumber": 17,
+                    "Title": "All In",
+                    "Plot": "When a six-year-old boy is brought in with the same symptoms as another patient who died years ago under House's care, House believes the cases are identical and he can predict the course of the boy's illness. Meanwhile, the clinic hosts a poker night to benefit the oncology department.",
+                    "Rating": 7.7,
+                    "RatingCount": 13,
+                    "AirDate": "2006-04-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63762,
+                    "EpisodeNumber": 3,
+                    "Title": "Humpty Dumpty",
+                    "Plot": "When Cuddy's handyman Alfredo, a young Latino and the sole provider for  his family, falls from her roof and develops strange darkened pinkies,  Cuddy joins the team in trying to figure out what's wrong with him.  Despite everything the team tries, the whole hand becomes infected. As  Cuddy struggles with worry and guilt, House and his team are forced to  amputate Alfredo's hand so they have more time to diagnose the illness  before it kills the patient.\n\nHowever, when Alfredo's other hand starts  showing the same symptoms, the doctors look outside the hospital for  answers. A trip to the young man's neighborhood helps them understand  Alfredo's desire for a better life for his family, and provides a clue  as to what might be causing his deadly illness.",
+                    "Rating": 7.5,
+                    "RatingCount": 15,
+                    "AirDate": "2005-09-27",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63765,
+                    "EpisodeNumber": 6,
+                    "Title": "Spin",
+                    "Plot": "When a famous professional cyclist is brought in after collapsing during  a race, House doesn't want to treat him because he thinks he's lying  about doing drugs. But when the patient is forthcoming about taking all  sorts of performance enhancers and blood-doping drugs, House is  definitely intrigued. Cameron is upset the patient is a hero to kids  when he is clearly cheating at his sport. She struggles with the ethical  dilemma of patient confidentiality and considers going to the media.  Meanwhile, House tries to disrupt Stacy and Mark's relationship by  attending a group therapy session with Mark.",
+                    "Rating": 7.1,
+                    "RatingCount": 13,
+                    "AirDate": "2005-11-15",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63780,
+                    "EpisodeNumber": 21,
+                    "Title": "Euphoria (2)",
+                    "Plot": "Foreman continues to experience the same progression of symptoms as the police officer. When he realizes he may be facing imminent death, he calls his father who comes to his son's side. As it comes down to a race against time, House believes the solution to the illness is in the police officer's apartment.",
+                    "Rating": 8.5,
+                    "RatingCount": 15,
+                    "AirDate": "2006-05-03",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63783,
+                    "EpisodeNumber": 24,
+                    "Title": "No Reason",
+                    "Plot": "As House and his team are working on the diagnosis of a man with a giant, swollen tongue, the husband of a former patient walks into House's office and shoots him. House continues to treat his patient from his ICU hospital bed with the shooter, who has been shot by hospital security and hand-cuffed to his bed, as his roommate. When the after-effects of the shooting begin to impact House, he starts to question his own ability to diagnose properly. As his patient's body deteriorates, House struggles through his self-doubt and must trust his team to find a way to solve the case.",
+                    "Rating": 8.8,
+                    "RatingCount": 24,
+                    "AirDate": "2006-05-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63766,
+                    "EpisodeNumber": 7,
+                    "Title": "Hunting",
+                    "Plot": "A gay man with full-blown AIDS collapses in front of House's home and goes into shock. When House discovers the man's father is suffering from symptoms of his own, he must determine if they might be connected and save both their lives. Meanwhile, Cameron faces a potentially life-threatening disease of her own.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2005-11-22",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63781,
+                    "EpisodeNumber": 22,
+                    "Title": "Forever",
+                    "Plot": "A young mother has a seizure while bathing her newborn son and nearly drowns him. House and the team have two cases at one time as they try to save the infant and determine the cause of the mother's seizures.",
+                    "Rating": 7.1,
+                    "RatingCount": 13,
+                    "AirDate": "2006-05-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63770,
+                    "EpisodeNumber": 11,
+                    "Title": "Need to Know",
+                    "Plot": "While House's staff tries to diagnose a woman whose uncontrollable muscle flailing caused her to crash her car, House and Stacy try to resolve their relationship issues once and for all. Cameron refuses to take her HIV test, wary of the results.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2006-02-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63782,
+                    "EpisodeNumber": 23,
+                    "Title": "Who's Your Daddy?",
+                    "Plot": "A 16-year-old Hurricane Katrina victim suffering from hallucinations as a result of the tragedy is brought to House by his former bandmate who recently found out the girl is his daughter. Although House fears his friend is being scammed, he takes the case. As he works his way through the girl's lies so he can diagnose and treat her, he's forced to tell a few lies of his own.",
+                    "Rating": 6.8,
+                    "RatingCount": 14,
+                    "AirDate": "2006-05-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63774,
+                    "EpisodeNumber": 15,
+                    "Title": "Clueless",
+                    "Plot": "House believes a woman is trying to kill her husband and tries to find the proof to confirm his suspicions. When Wilson moves in with House after separating from his wife, he learns Wilson is a great cook.",
+                    "Rating": 7.9,
+                    "RatingCount": 13,
+                    "AirDate": "2006-03-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63769,
+                    "EpisodeNumber": 10,
+                    "Title": "Failure to Communicate",
+                    "Plot": "While attending his editor's retirement party, a journalist collapses and hits his head on a desk. When he regains consciousness, his sentences are garbled and incoherent, so he is rushed to Princeton Plainsboro Teaching Hospital. With House and Stacy stranded at an airport due to bad weather, the team is forced to solve the case with House helping out over the phone.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2006-01-10",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63761,
+                    "EpisodeNumber": 2,
+                    "Title": "Autopsy",
+                    "Plot": "Andie, a 9-year-old terminal cancer patient, is brought in after  suffering from a hallucinogenic episode. Wilson convinces House to take  the case, but he and his team struggle to diagnose what caused the  hallucination. Andie handles the reality of her terminal medical  situation remarkably well - so well that House questions the sincerity  of her bravery and considers the possibility it may be a medical  symptom.\n\nMeanwhile, Andie's request to experience one of life's great  \"firsts\" forces Dr. Chase to make a difficult personal decision. House  has an idea of what's causing Andie's medical emergency, but puts the  decision in her hands as to whether to take on an extremely risky  experimental treatment, one that may end her life even sooner than her  terminal illness.",
+                    "Rating": 8.1,
+                    "RatingCount": 18,
+                    "AirDate": "2005-09-20",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63763,
+                    "EpisodeNumber": 4,
+                    "Title": "TB or Not TB",
+                    "Plot": "When Dr. Sebastian Charles, renowned physician and head of an  international organization to fight the spread of tuberculosis among the  poor in Africa, is rushed to Princeton Plainsboro Teaching Hospital  after collapsing, he immediately determines all the symptoms are from  TB. Dr. House has a different opinion and requests additional tests to  help determine the cause of his illness. The case begins to get media  attention and Dr. Charles sees a chance to further his cause by refusing  to submit to any additional tests and take necessary medication in  order to gain media exposure for the inadequacies of the medical system  for the poor in Africa. As House confronts his patient on live  television, his medical condition deteriorates and the team takes over  to try to save his life. Meanwhile, Foreman fills in for House in the  clinic with disastrous results and Cameron sees eye to eye with Dr.  Charles and his cause.",
+                    "Rating": 6.9,
+                    "RatingCount": 15,
+                    "AirDate": "2005-11-01",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63779,
+                    "EpisodeNumber": 20,
+                    "Title": "Euphoria (1)",
+                    "Plot": "When a police officer with a gunshot wound to the head and uncontrollable laughter is admitted, House and the team are baffled. When Foreman begins showing the same symptoms, they race to determine the cause of the illness before Foreman's condition takes the same path.",
+                    "Rating": 8.4,
+                    "RatingCount": 16,
+                    "AirDate": "2006-05-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63778,
+                    "EpisodeNumber": 19,
+                    "Title": "House vs. God",
+                    "Plot": "House treats a 15 year old faith healer, while Wilson feels left out when he finds out House has a weekly poker game.",
+                    "Rating": 6.9,
+                    "RatingCount": 13,
+                    "AirDate": "2006-04-25",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63772,
+                    "EpisodeNumber": 13,
+                    "Title": "Skin Deep",
+                    "Plot": "House uncovers a startling secret when he treats a teenage supermodel for heroin addiction. Meanwhile, Wilson hopes the increased leg pain in House's leg is an indication his leg nerves are regenerating.",
+                    "Rating": 7.2,
+                    "RatingCount": 13,
+                    "AirDate": "2006-02-20",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63760,
+                    "EpisodeNumber": 1,
+                    "Title": "Acceptance",
+                    "Plot": "When Death Row inmate Clarence mysteriously and  suddenly collapses after hallucinating, House jumps at the chance to  take the case for its difficulty and because it's \"cool.\" Dr. Cameron  refuses to treat the patient in protest and feels they should treat a  cancer patient because she's more deserving, raising the question: is  one life more important than another? Meanwhile, House and Stacy are adjusting to her working at the hospital. As House  goes though his diagnostic process, including having a drink or three  with his prisoner patient, Dr. Cameron must come to terms with the fact  that she just might not be able to help every patient",
+                    "Rating": 6.9,
+                    "RatingCount": 18,
+                    "AirDate": "2005-09-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63775,
+                    "EpisodeNumber": 16,
+                    "Title": "Safe",
+                    "Plot": "Melinda, a troubled teenage girl who is immuno-compromised as a result of the medications she must take after a heart transplant, has a severe allergic reaction and goes into shock when her boyfriend visits her. Meanwhile, House and Wilson continue to work out the problems in their new living arrangement.",
+                    "Rating": 7.5,
+                    "RatingCount": 13,
+                    "AirDate": "2006-04-04",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3679,
+            "SeasonNumber": 3,
+            "Episodes": [
+                {
+                    "Id": 63858,
+                    "EpisodeNumber": 14,
+                    "Title": "Insensitive",
+                    "Plot": "It's Valentine's Day, and Cuddy has a blind date. Meanwhile, House leaves ER duty to take the case of a child patient named Hannah.",
+                    "Rating": 7.3,
+                    "RatingCount": 11,
+                    "AirDate": "2007-02-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3678,
+            "SeasonNumber": 4,
+            "Episodes": [
+                {
+                    "Id": 63837,
+                    "EpisodeNumber": 9,
+                    "Title": "Games",
+                    "Plot": "Under Cuddy’s pressure to choose his team, House gives the candidates a case of a former punk rock star who is a drug user. Whoever diagnoses the patient is going to have a future as a member of House’s team.",
+                    "Rating": 7.6,
+                    "RatingCount": 9,
+                    "AirDate": "2007-11-27",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63835,
+                    "EpisodeNumber": 7,
+                    "Title": "Ugly",
+                    "Plot": "A film crew and the candidates are following around House distracting him while he is trying to diagnose a teenager who suffers from a heart attack prior to a serious plastic surgery.",
+                    "Rating": 7.4,
+                    "RatingCount": 12,
+                    "AirDate": "2007-11-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63832,
+                    "EpisodeNumber": 4,
+                    "Title": "Guardian Angels",
+                    "Plot": "House finds that some of his own fellowship students will do whatever it takes, when they deal with a woman who believes she can talk to the dead.",
+                    "Rating": 7.5,
+                    "RatingCount": 12,
+                    "AirDate": "2007-10-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63840,
+                    "EpisodeNumber": 12,
+                    "Title": "Don't Ever Change",
+                    "Plot": "House and his team must diagnose a Jewish bride who is taken ill at her wedding. However, House is more interested in analyzing Wilson's relationship with his new girlfriend.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2008-02-05",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63841,
+                    "EpisodeNumber": 13,
+                    "Title": "No More Mr. Nice Guy",
+                    "Plot": "House copes with a patient whose symptoms conceal a greater problem, but spends much of his time dodging Cuddy's orders to give performance reviews, and fighting with Amber over who gets to spend more time with Wilson.",
+                    "Rating": 7.4,
+                    "RatingCount": 11,
+                    "AirDate": "2008-04-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63839,
+                    "EpisodeNumber": 11,
+                    "Title": "Frozen",
+                    "Plot": "House and his team have to diagnose a case at a distance when a researcher at a South Pole base is taken ill.",
+                    "Rating": 8.4,
+                    "RatingCount": 12,
+                    "AirDate": "2008-02-03",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63836,
+                    "EpisodeNumber": 8,
+                    "Title": "You Don't Want to Know",
+                    "Plot": "House treats a magician but comes to believe he's faking illness to cover up his own incompetence. Meanwhile, House pits the fellows against each other in his version of an immunity challenge.",
+                    "Rating": 7.8,
+                    "RatingCount": 10,
+                    "AirDate": "2007-11-20",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63838,
+                    "EpisodeNumber": 10,
+                    "Title": "It's a Wonderful Lie",
+                    "Plot": "A mother's sudden paralysis during a indoor rock-climbing incident leaves her daughter injured, and House's new team looking for a cure. Meanwhile, House organizes his new recruits' Secret Santa gift exchange... with a few twists of his own.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2008-01-29",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63834,
+                    "EpisodeNumber": 6,
+                    "Title": "Whatever It Takes",
+                    "Plot": "Based on practically no information and no medical history about a mystery patient sent by the CIA, House is using some unorthodox methods to diagnose and treat him. Meanwhile the remaining candidates are questioning Foreman's judgment.",
+                    "Rating": 7.7,
+                    "RatingCount": 12,
+                    "AirDate": "2007-11-06",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63829,
+                    "EpisodeNumber": 1,
+                    "Title": "Alone",
+                    "Plot": "With his diagnostic team gone, House tries to diagnose a young woman who survived an office building collapse. With the condition getting worse, Cuddy puts pressure on House to hire a new team, but instead attempts a differential diagnosis with help from the janitor.",
+                    "Rating": 7.7,
+                    "RatingCount": 12,
+                    "AirDate": "2007-09-25",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63831,
+                    "EpisodeNumber": 3,
+                    "Title": "97 Seconds",
+                    "Plot": "The candidates are now two teams of five women and five men, competing on diagnosing and treating a wheelchair-bound man. Meanwhile House does experiments on himself to test what happens after death, and Foreman, at another hospital, is treating his team in a House-like manner.",
+                    "Rating": 8.1,
+                    "RatingCount": 12,
+                    "AirDate": "2007-10-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63833,
+                    "EpisodeNumber": 5,
+                    "Title": "Mirror, Mirror",
+                    "Plot": "House deals with a patient who mirrors the personality of anyone he meets. Meanwhile, Foreman is put in charge of overseeing the fellowship candidates.",
+                    "Rating": 8.2,
+                    "RatingCount": 13,
+                    "AirDate": "2007-10-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63844,
+                    "EpisodeNumber": 16,
+                    "Title": "Wilson's Heart (2)",
+                    "Plot": "In the aftermath of the bus accident, House struggles with his head injuries and short-term memory loss, and must deal with a concerned Wilson who believes his friend's health may be in danger.",
+                    "Rating": 9.4,
+                    "RatingCount": 20,
+                    "AirDate": "2008-05-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63843,
+                    "EpisodeNumber": 15,
+                    "Title": "House's Head (1)",
+                    "Plot": "A bus accident leaves House with serious head trauma and partial amnesia. He comes to believe that a patient on the bus had a life-threatening disease and struggles to recall who it was, and what they had.",
+                    "Rating": 9.1,
+                    "RatingCount": 25,
+                    "AirDate": "2008-05-12",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63830,
+                    "EpisodeNumber": 2,
+                    "Title": "The Right Stuff",
+                    "Plot": "House is secretly trying to treat a fighter pilot who is a candidate for NASA's astronaut training program. Her diagnosis will be the test to choose which ones of the 40 applicants are going to take the empty spots in his team.",
+                    "Rating": 7.5,
+                    "RatingCount": 12,
+                    "AirDate": "2007-10-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                },
+                {
+                    "Id": 63842,
+                    "EpisodeNumber": 14,
+                    "Title": "Living the Dream",
+                    "Plot": "House is convinced one of the actors on his favorite soap opera “Prescription Passion” has a serious medical condition after observing his symptoms on television. House decides to intervene and take matters into his own hands, but both the actor and House's own team dismiss House’s assessment and do not believe there is anything wrong with him.",
+                    "Rating": 7.7,
+                    "RatingCount": 11,
+                    "AirDate": "2008-05-05",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Jennifer Morrison"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3676,
+            "SeasonNumber": 5,
+            "Episodes": [
+                {
+                    "Id": 63801,
+                    "EpisodeNumber": 18,
+                    "Title": "Here Kitty",
+                    "Plot": "Morgan works in a nursing home with a pet cat who only sleeps next to people if they are about to die - and does so with alarmingly accuracy. When it seems the cat has predicted her own death, Morgan, convinced she is about to die, fakes a seizure in order to get to House to have him diagnose her before it’s too late.",
+                    "Rating": 7.5,
+                    "RatingCount": 10,
+                    "AirDate": "2009-03-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63800,
+                    "EpisodeNumber": 17,
+                    "Title": "The Social Contract",
+                    "Plot": "House and the team take on the case of Nick, a book editor who loses his inhibitions. The team realizes Nick has frontal lobe disinhibition, which causes him to speak his mind having no control over what he says and making him just like House. Meanwhile, House suspects Wilson and Taub are keeping something from him.",
+                    "Rating": 8.3,
+                    "RatingCount": 10,
+                    "AirDate": "2009-03-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63793,
+                    "EpisodeNumber": 10,
+                    "Title": "Let Them Eat Cake",
+                    "Plot": "The team takes on the case of a fitness guru on an all-natural diet who collapsed while filming a video. Meanwhile, Foreman conducts Huntington's Disease drug trials and Thirteen signs on as a subject, Cuddy is forced to move into House's office, and Kutner uses House's name to run an online medical-advice website.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2008-12-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63788,
+                    "EpisodeNumber": 5,
+                    "Title": "Lucky Thirteen",
+                    "Plot": "Thirteen brings her one-night stand to the hospital after the woman has a seizure. However, the woman admits she slept with Thirteen just so she could get to House and have him diagnose her condition. Meanwhile, House continues to pay Lucas to spy on Wilson.",
+                    "Rating": 7.5,
+                    "RatingCount": 11,
+                    "AirDate": "2008-10-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63802,
+                    "EpisodeNumber": 19,
+                    "Title": "Locked In",
+                    "Plot": "A man awakens in New York after a bicycle accident unable to move or communicate in any way. House, himself injured in a motorcycle mishap, occupies the hospital bed next to Lee and quickly annoys the doctors treating them both by insisting that Lee has “locked-in” syndrome.",
+                    "Rating": 8.5,
+                    "RatingCount": 17,
+                    "AirDate": "2009-03-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63791,
+                    "EpisodeNumber": 8,
+                    "Title": "Emancipation",
+                    "Plot": "While Foreman takes on a pediatric case on his own, the rest of the team deals with a 16-year-old factory manager and emancipated minor who collapses at work. When Foreman's patient takes a turn for the worse, he's forced to question whether he can deal with the situation on his own, or if he needs House's help.",
+                    "Rating": 6.8,
+                    "RatingCount": 10,
+                    "AirDate": "2008-11-18",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63807,
+                    "EpisodeNumber": 20,
+                    "Title": "Simple Explanation",
+                    "Plot": "Charlotte, an older woman who has spent the last six months taking care of her dying husband Eddie, is rushed to Princeton Plainsboro after collapsing from respiratory failure. The couple becomes a double mystery for the team when Eddie begins to improve as Charlotte’s condition worsens. The previously unthinkable becomes real when it seems that Charlotte will die before Eddie, and the team will be forced to make a difficult decision.",
+                    "Rating": 8.2,
+                    "RatingCount": 14,
+                    "AirDate": "2009-04-06",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63804,
+                    "EpisodeNumber": 22,
+                    "Title": "House Divided",
+                    "Plot": "The team takes on the case of a deaf 14-year-old named Seth who collapsed after he started “hearing” explosions while competing in a wrestling match. When the team tries to test him for seizures, Seth loses vision in one eye, complicating House’s bunk theory of “Exploding Head Syndrome.” As his condition worsens, the team has an ethical disagreement about the patient and his mother’s adamant decision to forego cochlear implants to supplement his hearing. When the prospect of giving Seth the ability to hear for the first time in his life arises, House and the team are faced with a resounding decision. Meanwhile, House’s lack of sleep starts to play tricks on his mind, but he finds his insomnia may be a gift instead of a burden",
+                    "Rating": 9,
+                    "RatingCount": 10,
+                    "AirDate": "2009-04-27",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63806,
+                    "EpisodeNumber": 24,
+                    "Title": "Both Sides Now",
+                    "Plot": "House and the team are intrigued by Scott, a man whose left brain and right brain operate independently, leaving him with two distinct personalities and no control over some of his actions. As the two sides of Scott’s brain struggle for dominance, his warring personalities make it increasingly difficult for the team to figure out what is causing the unique problem. The team is forced to use some unusual methods to get him to cooperate with their necessary testing. Meanwhile, when House refuses to make an appearance in the clinic, Cuddy takes an unconventional approach to force House to make up the time with a particular patient.",
+                    "Rating": 8.9,
+                    "RatingCount": 16,
+                    "AirDate": "2009-05-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63805,
+                    "EpisodeNumber": 23,
+                    "Title": "Under My Skin",
+                    "Plot": "House and the team take on the case of a ballerina whose lungs collapse in the middle of a performance. When the treatment causes her skin to fall off, the dancer faces not only the prospect of never dancing again but also of dying an agonizing death. The team must use their imaginations to carefully choreograph ways to test and treat her delicate body without killing her. Meanwhile, House continues to suffer from what he thinks is insomnia, and he is willing to go to desperate measures to cure it.",
+                    "Rating": 8.5,
+                    "RatingCount": 13,
+                    "AirDate": "2009-05-04",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63784,
+                    "EpisodeNumber": 1,
+                    "Title": "Dying Changes Everything",
+                    "Plot": "In the aftermath of personal tragedy, Wilson resigns from the hospital... and from his friendship with House. Meanwhile, Thirteen struggles with her personal medical problems while helping treat an executive assistant with a similar situation to her own.",
+                    "Rating": 7.6,
+                    "RatingCount": 10,
+                    "AirDate": "2008-09-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63786,
+                    "EpisodeNumber": 3,
+                    "Title": "Adverse Events",
+                    "Plot": "A painter's undiagnosed illness affects his work, and House and his team must look at the man's paintings to determine what's wrong with him.",
+                    "Rating": 7.6,
+                    "RatingCount": 11,
+                    "AirDate": "2008-09-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63797,
+                    "EpisodeNumber": 14,
+                    "Title": "The Greater Good",
+                    "Plot": "House and the team take on the case of a woman who collapsed in the middle of a cooking class, and they soon learn she is a highly-renowned cancer researcher who recently gave up her entire career in order to pursue her own personal happiness. Though the team struggles to understand how the woman could give up saving lives for the sake of her own contentment, each grapple with the pursuit of happiness (or lack thereof) in their own lives. As the patient’s condition continues to worsen, so does Thirteen’s as she begins to suffer serious and life-threatening reactions to the experimental Huntington’s Disease clinical trial. Meanwhile, Cuddy attempts to make House’s life miserable for him in retaliation for his part in her own unhappiness.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2009-02-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63798,
+                    "EpisodeNumber": 15,
+                    "Title": "Unfaithful",
+                    "Plot": "When a priest who runs a homeless shelter sees a bleeding Jesus hovering at his doorstep, he is admitted to the ER. House takes on the case as a distraction for the team while he confronts Foreman and Thirteen about their relationship. The team soon learns the priest had been involved in a molestation scandal that caused him to lose his faith. However, just as they are about to dismiss his case, the patient’s condition takes a drastic turn for the worse, and House grapples with his past and his belief",
+                    "Rating": 7.5,
+                    "RatingCount": 10,
+                    "AirDate": "2009-02-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63795,
+                    "EpisodeNumber": 12,
+                    "Title": "Painless",
+                    "Plot": "House and the team try to diagnose a man living with severe, chronic pain; Thirteen and Foreman explore their complicated relationship; Cuddy discovers that caring for her baby leaves her with little time to run the hospital.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2009-01-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63790,
+                    "EpisodeNumber": 7,
+                    "Title": "The Itch",
+                    "Plot": "The team must treat an agoraphobic who refuses to leave his house, and have to work around Cuddy, who is less than thrilled at having hospital equipment relocated. Meanwhile, House is plagued by an itch, and Cameron and Chase have relationship issues.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2008-11-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63787,
+                    "EpisodeNumber": 4,
+                    "Title": "Birthmarks",
+                    "Plot": "While en route to his father's funeral, House must help the team with a differential diagnosis on a young Chinese girl who has collapsed under mysterious circumstances.",
+                    "Rating": 8,
+                    "RatingCount": 13,
+                    "AirDate": "2008-10-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63799,
+                    "EpisodeNumber": 16,
+                    "Title": "The Softer Side",
+                    "Plot": "A patient with both male and female DNA has the team stumped. Meanwhile, House starts acting nicely, raising Cuddy's and Wilson's suspicions that something is terribly wrong.",
+                    "Rating": 7.5,
+                    "RatingCount": 11,
+                    "AirDate": "2009-02-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63796,
+                    "EpisodeNumber": 13,
+                    "Title": "Big Baby",
+                    "Plot": "Cuddy decides to spend more time at home to take care of her newly adopted baby and passes some of her day-to-day responsibilities off to Cameron, including supervising House. Cameron is forced to play House’s games and becomes involved in a power struggle as he and the team take on the case of a Special Education teacher who collapsed after spitting up blood in the middle of class. As House tests Cameron’s tolerance for his extreme measures, the patient continues to fall ill and House insists the teacher’s seemingly inherent goodness is actually a pathology.",
+                    "Rating": 7.2,
+                    "RatingCount": 10,
+                    "AirDate": "2009-01-26",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63785,
+                    "EpisodeNumber": 2,
+                    "Title": "Not Cancer",
+                    "Plot": "The team deals with an organ donor whose organs prove fatal, and the two surviving patients. Meanwhile, House hires a private detective to spy on Wilson, but hears a few things about himself that he'd rather not.",
+                    "Rating": 7.6,
+                    "RatingCount": 12,
+                    "AirDate": "2008-09-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63803,
+                    "EpisodeNumber": 21,
+                    "Title": "Saviors",
+                    "Plot": "Cameron postpones her vacation with Chase in order to ask House to accept the case of an environmental radical who collapsed at a protest with unexplainable symptoms. Although suspicious of her motives, House agrees. Since she pushed him to take the case so emphatically, House forces Cameron to take the lead and run many of the tests on the patient. Meanwhile, House is unsure of Wilson’s new healthy diet.",
+                    "Rating": 7.6,
+                    "RatingCount": 10,
+                    "AirDate": "2009-04-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63792,
+                    "EpisodeNumber": 9,
+                    "Title": "Last Resort",
+                    "Plot": "A man seeking the right diagnosis for his illness is willing to take on the hospital and the SWAT team to get it. He takes thirteen and several patients from the waiting room and puts them in Cuddy's office. To put an end to the crisis they must come up with the right diagnosis, treat the wounded, and hold off a SWAT team.",
+                    "Rating": 8.1,
+                    "RatingCount": 14,
+                    "AirDate": "2008-11-25",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63794,
+                    "EpisodeNumber": 11,
+                    "Title": "Joy to the World",
+                    "Plot": "House and his team deal with a bullied girl who collapses during her school's Christmas program. Meanwhile, Foreman and Thirteen grow closer during the Huntington's disease drug trials, House gives a patient a gift, the staff wonder who gave House a special gift, and Cuddy gets an unexpected gift.",
+                    "Rating": 7.7,
+                    "RatingCount": 14,
+                    "AirDate": "2008-12-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63789,
+                    "EpisodeNumber": 6,
+                    "Title": "Joy",
+                    "Plot": "An ailing man suffers from blackouts and sleepwalks, leading the team to wonder if his sleepwalking is a symptom, or how the man is becoming exposed to something else. When the man's daughter grows ill as well, the team must provide a diagnosis before both die. Meanwhile, Cuddy adopts a newborn but when the birth mother displays a rash, she has to make a decision between putting the mother or daughter at risk.",
+                    "Rating": 7.4,
+                    "RatingCount": 12,
+                    "AirDate": "2008-10-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3677,
+            "SeasonNumber": 6,
+            "Episodes": [
+                {
+                    "Id": 63810,
+                    "EpisodeNumber": 5,
+                    "Title": "Instant Karma",
+                    "Plot": "A wealthy businessman brings his teenage son, who is suffering from inexplicable stomach pains, to Princeton Plainsboro and insists on having Dr. House handle the case. The father of the patient believes the karmic penalty of his financial success is that he is victim to personal tragedy, and that the answer to his son's medical mystery lies in a reverse of fate rather than medical treatment. Meanwhile, Foreman and Chase prepare to present information on the Dibala case.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2009-10-12",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63816,
+                    "EpisodeNumber": 12,
+                    "Title": "Remorse",
+                    "Plot": "The team takes on the case of Valerie, an attractive female executive experiencing random episodes of excruciating pain. House agrees to take the case based on Valerie’s looks, and while treating her, the men on the team are charmed by Valerie’s beauty and personality, with Thirteen looking beyond the superficial to try to discover a link to her illness. Meanwhile, House uncharacteristically attempts to alleviate his conscience by reaching out to a former medical school colleague he wronged.",
+                    "Rating": 7.6,
+                    "RatingCount": 7,
+                    "AirDate": "2010-01-25",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63817,
+                    "EpisodeNumber": 16,
+                    "Title": "Black Hole",
+                    "Plot": "The team takes on the case of a high school senior who inexplicably blacks out during a class field trip. While in the hospital, the patient repeatedly hallucinates. After exhausting myriad ineffective treatments for her mysterious ailments, House attempts one last controversial approach to diagnosing her: monitoring her cognitive patterns and looking for clues. Meanwhile, Taub airs his dirty laundry at work, and Wilson attempts to furnish his condo.",
+                    "Rating": 7.2,
+                    "RatingCount": 14,
+                    "AirDate": "2010-03-15",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63818,
+                    "EpisodeNumber": 19,
+                    "Title": "Open and Shut",
+                    "Plot": "House and the team take on the case of a woman Julia, who is in an open marriage and becomes ill during a date with her on-the-side boyfriend. As perplexing as the case is, Julia's happy and healthy, yet polygamous relationship is equally baffling to the team. Meanwhile, House tests Wilson's relationship with Sam.",
+                    "Rating": 7.2,
+                    "RatingCount": 11,
+                    "AirDate": "2010-04-26",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63822,
+                    "EpisodeNumber": 18,
+                    "Title": "Knight Fall",
+                    "Plot": "House and the team take on the case of Sir William, a \"knight\" in a closed-off community of men and women living according to the ideals of the High Renaissance. As the team searches the medieval village for environmental factors contributing to Sir William's rapidly deteriorating health, Thirteen and Sir William debate the acts that define honor and loyalty, especially in regard to the \"queen\" of the community, one of Sir William's most frequent visitors. Meanwhile, Wilson starts over with an ex.",
+                    "Rating": 6.5,
+                    "RatingCount": 12,
+                    "AirDate": "2010-04-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63819,
+                    "EpisodeNumber": 20,
+                    "Title": "The Choice",
+                    "Plot": "The team takes on the case of an ailing groom-to-be who harbors undisclosed secrets from a previous relationship. As his fiancée tries to get answers to her many questions, a frustrated team winnows down the possibilities. Meanwhile, House spends extra-curricular time with his Princeton Plainsboro colleagues, performing a karaoke rendition of a Gladys Knight & The Pips classic with Foreman and Chase.",
+                    "Rating": 6.7,
+                    "RatingCount": 11,
+                    "AirDate": "2010-05-03",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63809,
+                    "EpisodeNumber": 4,
+                    "Title": "The Tyrant",
+                    "Plot": "When a controversial African politician falls ill, he is brought to Princeton Plainsboro for treatment. The team struggles with whether to help a merciless dictator being subpoenaed for crimes against humanity in his country. Meanwhile, Wilson tries to make peace with a feuding neighbor, but House’s prying exacerbates the problem.",
+                    "Rating": 8.1,
+                    "RatingCount": 15,
+                    "AirDate": "2009-10-05",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63827,
+                    "EpisodeNumber": 14,
+                    "Title": "5 to 9",
+                    "Plot": "During a day in the life of Princeton Plainsboro's Dean of Medicine, Dr. Lisa Cuddy, the inner workings of the hospital are seen through her eyes. This day proves to be especially trying as Cuddy wrestles with myriad hospital issues and staff disputes that test her perseverance and skills as an administrator, all while juggling issues in her personal life.",
+                    "Rating": 8.3,
+                    "RatingCount": 11,
+                    "AirDate": "2010-02-08",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63820,
+                    "EpisodeNumber": 21,
+                    "Title": "Baggage",
+                    "Plot": "During a session with Dr. Nolan, House recounts the case of a woman who arrives at the Princeton Plainsboro emergency room with an unexplained illness and no recollection of who she is. While trying to solve the mystery of the woman's illness, House must also help her piece together her identity.",
+                    "Rating": 8.6,
+                    "RatingCount": 13,
+                    "AirDate": "2010-05-10",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63812,
+                    "EpisodeNumber": 7,
+                    "Title": "Known Unknowns",
+                    "Plot": "After a wild night out, a teenage girl is brought to Princeton Plainsborough with severely swollen appendages. The team must work to diagnose the young girl, who is less than honest about what happened the night she fell ill. As her condition worsens, she becomes unable to distinguish fact from fiction. Meanwhile, Cuddy, Wilson and House spend a weekend away from the hospital to attend a medical conference, but things don’t go as planned when House’s private investigator, Lucas returns.",
+                    "Rating": 7.6,
+                    "RatingCount": 11,
+                    "AirDate": "2009-11-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63811,
+                    "EpisodeNumber": 6,
+                    "Title": "Brave Heart",
+                    "Plot": "A dying patient insists that he has the same disease affecting his heart that killed his father and grandfather at the age of 40. Meanwhile, House discovers that he has a hearing problem while trying to duck student rounds.",
+                    "Rating": 7.8,
+                    "RatingCount": 11,
+                    "AirDate": "2009-10-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63828,
+                    "EpisodeNumber": 1,
+                    "Title": "Broken (1)",
+                    "Plot": "House engages in a battle of wits and wills against the attending physician in charge of his detox program. When he starts to lose, House resorts to blackmail to gain the upper hand.",
+                    "Rating": 9.3,
+                    "RatingCount": 19,
+                    "AirDate": "2009-09-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63825,
+                    "EpisodeNumber": 17,
+                    "Title": "Lockdown",
+                    "Plot": "\"Lockdown\" is the sixteenth episode of the sixth season of the American medical drama House. It aired on April 12, 2010. This episode also marks the directorial debut of Hugh Laurie on the show.\n\nThis episode has five storylines: When the hospital is sent into lock-down mode due to a missing infant, all of the doctors must remain where they are, leaving Foreman and Taub in the file room, Wilson and Thirteen in the cafeteria playing truth or dare, House in a room with a patient, and Chase with his soon-to-be ex-wife, Cameron, as Cuddy tries to help police locate the infant. This episode is one of the show's rare instances when no medical mystery is presented, though House still deals with his \"patient of the week\".",
+                    "Rating": 8.4,
+                    "RatingCount": 14,
+                    "AirDate": "2010-04-12",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63814,
+                    "EpisodeNumber": 9,
+                    "Title": "Ignorance is Bliss",
+                    "Plot": "On the eve of Thanksgiving, House and the team take on the case of James Sidas, an exceptionally brilliant physicist and author who traded his successful career for a job as a courier. For the ailing patient, intelligence is a miserable burden that has prompted depression and addiction, and this, coupled with a myriad of strange symptoms, nearly stumps the team. Meanwhile the doctors at Princeton Plainsboro wrestle with strained personal relationships.",
+                    "Rating": 7.6,
+                    "RatingCount": 10,
+                    "AirDate": "2009-11-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63824,
+                    "EpisodeNumber": 11,
+                    "Title": "The Down Low",
+                    "Plot": "\"The Down Low\" is the eleventh episode of the sixth season of House. It aired on January 11, 2010.",
+                    "Rating": 8,
+                    "RatingCount": 7,
+                    "AirDate": "2010-01-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63815,
+                    "EpisodeNumber": 10,
+                    "Title": "Wilson",
+                    "Plot": "When an old friend and former patient of Wilson’s exhibits paralysis in his right arm, Wilson puts himself on the case. House wagers Wilson that the patient’s symptoms are attributed to new cancer cells. Wilson accepts even though he is reluctant to believe the cancer has returned. With the help of the team, Wilson works to diagnose the patient more optimistic results, but when things take a turn for the worse, Wilson must address his inability to separate patient from friend. Meanwhile, Cuddy seeks advice in her search for real estate.",
+                    "Rating": 7.9,
+                    "RatingCount": 8,
+                    "AirDate": "2009-11-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63823,
+                    "EpisodeNumber": 13,
+                    "Title": "Moving the Chains",
+                    "Plot": "House and the team rush to treat an ailing college football star in time for the patient to compete in NFL tryouts. But when the patient experiences an onslaught of varied and unusual symptoms, the team has trouble reaching a consensus on how to effectively treat him in time. Meanwhile, Foreman’s brother Marcus makes a surprise visit to the hospital.",
+                    "Rating": 7.4,
+                    "RatingCount": 7,
+                    "AirDate": "2010-02-01",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63813,
+                    "EpisodeNumber": 8,
+                    "Title": "Teamwork",
+                    "Plot": "After House’s medical license is reinstated, he reclaims his role as Head of Diagnostics in time to treat Hank Hardwick, an adult film star admitted to Princeton Plainsborough for pulsating eye pain. Meanwhile, Cuddy is reminded that Princeton Plainsborough is not conducive to healthy personal relationships.",
+                    "Rating": 7.5,
+                    "RatingCount": 10,
+                    "AirDate": "2009-11-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63821,
+                    "EpisodeNumber": 22,
+                    "Title": "Help Me",
+                    "Plot": "Cuddy, House and members of the team join forces with a search-and-rescue team to provide much-needed medical attention at the scene of an emergency.",
+                    "Rating": 8.8,
+                    "RatingCount": 17,
+                    "AirDate": "2010-05-17",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63826,
+                    "EpisodeNumber": 15,
+                    "Title": "Private Lives",
+                    "Plot": "House and the team take on the case of an avid blogger admitted with sudden bruising and bleeding. From her hospital bed, the patient blogs about her symptoms, doctors and prospective diagnoses to her dedicated band of followers and solicits their advice on a course of treatment. Such openness leads the team to contemplate the value of privacy, especially after House and Wilson uncover secrets from one another 's past. Meanwhile, Chase is coaxed into testing out the dating scene.",
+                    "Rating": 7,
+                    "RatingCount": 10,
+                    "AirDate": "2010-03-08",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 63808,
+                    "EpisodeNumber": 3,
+                    "Title": "Epic Fail",
+                    "Plot": "House returns home to Princeton where he continues to focus on his recovery, but surprises Cuddy with the news that he's making a big change in his life. Meanwhile, the team is unable to diagnose a loud-mouthed video game creator who posts each new symptom on the internet and opts for treatments suggested by the online community rather than by the doctors, and Foreman angles for House's job, but the pressure to solve the case creates tension in his relationship with Thirteen.",
+                    "Rating": 8,
+                    "RatingCount": 11,
+                    "AirDate": "2009-09-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                },
+                {
+                    "Id": 1150262,
+                    "EpisodeNumber": 2,
+                    "Title": "Broken (2)",
+                    "Plot": "House asks Alvie to help him uncover incriminating information about Dr. Nolan that would allow him to blackmail his way out of the treatment center and convinces Lydia to loan him her car to sneak out a delusional patient in an attempt by House to undermine Dr. Nolan's course of treatment. But when devastating events ensue, House is humbled into reluctantly accepting help.",
+                    "Rating": 8,
+                    "RatingCount": 2,
+                    "AirDate": "2009-09-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Jennifer Morrison",
+                        "Olivia Wilde"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3680,
+            "SeasonNumber": 7,
+            "Episodes": [
+                {
+                    "Id": 63888,
+                    "EpisodeNumber": 22,
+                    "Title": "After Hours",
+                    "Plot": "When House discovers that the experimental drug he's been using causes fatal tumors, he decides to attempt to excise them himself. However, he can't complete the surgery and ends up needing Cuddy's help. Meanwhile, Thirteen's friend from prison (Amy Landecker), a relapsed drug user, arrives at her apartment needing medical care after being stabbed. With her friend unwilling to go to the hospital, Thirteen enlists Chase's assistance when the friend loses sensation and movement in her arm. Also, Taub receives some unexpected news that could change his life.",
+                    "Rating": 8.6,
+                    "RatingCount": 13,
+                    "AirDate": "2011-05-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63886,
+                    "EpisodeNumber": 19,
+                    "Title": "Last Temptation",
+                    "Plot": "Masters faces a career crossroads on her last day as a medical student and struggles with the choice to continue on the path to become a surgeon or to accept the rare opportunity to join House’s team officially. Meanwhile, the team treats a 16-year-old girl who inexplicably collapsed days before embarking on an ambitious sailing tour around the globe. Despite the patient's life-changing diagnosis, the patient's family insists on getting her back on the seas in time for her potentially record-breaking launch. But to the team's surprise, including House, Masters makes a bold decision regarding the patient’s treatment.",
+                    "Rating": 7.9,
+                    "RatingCount": 10,
+                    "AirDate": "2011-04-18",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63880,
+                    "EpisodeNumber": 13,
+                    "Title": "Two Stories",
+                    "Plot": "House participates in a school’s Career Day and breaks a few rules by sharing explicit medical stories. Waiting outside the principal’s office, he meets two fifth-grade students who assess House’s relationship woes and try to help him understand how his selfish antics get in the way of showing Cuddy how he really feels.",
+                    "Rating": 8.6,
+                    "RatingCount": 12,
+                    "AirDate": "2011-02-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63870,
+                    "EpisodeNumber": 2,
+                    "Title": "Selfish",
+                    "Plot": "A seemingly healthy 14-year-old girl collapses during a skateboarding exhibition; House and Cuddy face the challenge of handling their romantic relationship at work.",
+                    "Rating": 8.5,
+                    "RatingCount": 11,
+                    "AirDate": "2010-09-27",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63885,
+                    "EpisodeNumber": 18,
+                    "Title": "The Dig",
+                    "Plot": "Thirteen has been in prison for the past year, but the real mystery for House is what she did to get there. At the hospital, the team treats a science teacher suffering from severe respiratory illness. Taub tries to get back into the dating scene, but winds up retreating to his old habits.",
+                    "Rating": 8.1,
+                    "RatingCount": 10,
+                    "AirDate": "2011-04-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63881,
+                    "EpisodeNumber": 15,
+                    "Title": "Bombshells",
+                    "Plot": "Tension reaches new heights when Cuddy faces sobering news that propels her to reevaluate her priorities. While House is distracted by his concern for Cuddy’s well-being, the team treats a teenage patient whose worsening symptoms and suspicious body scars indicate more than just physical illness.",
+                    "Rating": 7.9,
+                    "RatingCount": 13,
+                    "AirDate": "2011-03-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63890,
+                    "EpisodeNumber": 23,
+                    "Title": "Moving On",
+                    "Plot": "The team treats a performance artist (Shohreh Aghdashloo) who deliberately made herself ill with the aim of turning the diagnostics department into her new masterpiece, as House must decide which of her symptoms are real, and which are self-inflicted. As the case progresses, House vows to make changes in his life, but remains rooted in old habits. After the case is over, House finally deals with his anger over the breakup and lashes out by driving through Cuddy's dining room and escaping to a beach.",
+                    "Rating": 7.8,
+                    "RatingCount": 12,
+                    "AirDate": "2011-05-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63877,
+                    "EpisodeNumber": 12,
+                    "Title": "You Must Remember This",
+                    "Plot": "When a waitress with a perfect memory suffers temporary paralysis, her older sister visits her in the hospital, which triggers high stress levels and even more health complications.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2011-02-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63891,
+                    "EpisodeNumber": 1,
+                    "Title": "Now What?",
+                    "Plot": "House and Cuddy are exploring the ramifications of those feelings and attempting to make a real relationship work. Meanwhile, due to a colleague's illness, Princeton Plainsboro is left without a neurosurgeon on site, threatening the hospital's accreditation as a Level 1 Trauma Center. As the team attempts treatment to get their sick colleague back to work, they discover there is more to the illness than they originally suspected and turn to House for direction. Instead, House remains elusive, leaving the team on its own.",
+                    "Rating": 7.8,
+                    "RatingCount": 13,
+                    "AirDate": "2010-09-20",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63873,
+                    "EpisodeNumber": 7,
+                    "Title": "A Pox on Our House",
+                    "Plot": "After a 200-year-old medicine jar found on an off-shore shipwreck shatters in a teenage girl's palm, she is admitted to Princeton Plainsboro for symptoms closely linked to smallpox.",
+                    "Rating": 7.8,
+                    "RatingCount": 12,
+                    "AirDate": "2010-11-15",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63878,
+                    "EpisodeNumber": 10,
+                    "Title": "Carrot or Stick",
+                    "Plot": "House and the team try to link symptoms of a teenage military recruit and his drill sergeant while. House secretly helps Cuddy's daughter get into a prestigious preschool. Someone posted a disparaging photo of Chase on a social-networking site.",
+                    "Rating": 7.6,
+                    "RatingCount": 10,
+                    "AirDate": "2011-01-24",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63882,
+                    "EpisodeNumber": 17,
+                    "Title": "Fall from Grace",
+                    "Plot": "A homeless man with a history of drug abuse is admitted to Princeton Plainsboro with burns and scars on his chest. Meanwhile, Cuddy reveals her guilt to Wilson about breaking up with House.",
+                    "Rating": 7.4,
+                    "RatingCount": 9,
+                    "AirDate": "2011-03-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63887,
+                    "EpisodeNumber": 21,
+                    "Title": "The Fix",
+                    "Plot": "After losing a bet with Wilson over a boxing match, House is convinced that his fighter has an underlying medical condition that cost him the fight. While he tries to prove it, he leaves his team alone to help a bomb scientist who suffered a seizure. Meanwhile, House may be experimenting with a new drug to help his leg pain.",
+                    "Rating": 7.2,
+                    "RatingCount": 9,
+                    "AirDate": "2011-05-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63884,
+                    "EpisodeNumber": 16,
+                    "Title": "Out of the Chute",
+                    "Plot": "The team treats a professional bull rider who is attacked by a bull. The team must determine the causes behind the patients disappearing symptoms and seizures while taking House's advice from outside the hospital as he attends to issues unrelated to the case. Meanwhile, Masters develops a crush on the patient.",
+                    "Rating": 8.6,
+                    "RatingCount": 13,
+                    "AirDate": "2011-03-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63871,
+                    "EpisodeNumber": 3,
+                    "Title": "Unwritten",
+                    "Plot": "A children's novelist tries to kill herself, but is thwarted when she has a seizure. House, a fan of the books, puts her on psych hold but has to deal with a patient that is eager to die rather than be cured. Meanwhile, House worries that he'll lose Cuddy because they have nothing in common.",
+                    "Rating": 8.4,
+                    "RatingCount": 10,
+                    "AirDate": "2010-10-04",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63875,
+                    "EpisodeNumber": 8,
+                    "Title": "Small Sacrifices",
+                    "Plot": "Science and faith are called into question when a patient is admitted to the hospital following his reenactment of the Crucifixion. Meanwhile, Taub questions his wife about her relationship with an infidelity support group member, and the team attends a co-worker's wedding.",
+                    "Rating": 7.2,
+                    "RatingCount": 11,
+                    "AirDate": "2010-11-22",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63889,
+                    "EpisodeNumber": 20,
+                    "Title": "Changes",
+                    "Plot": "The team takes on the case of a lottery winner (Donal Logue) suffering from paralysis and multiple types of cancer, and they must figure out if it his new millionaire lifestyle that is making him sick. Meanwhile, Cuddy's mother threatens to sue the hospital over her treatment, and Foreman and Chase make a bet over who is repressing the uglier side of their personality more.",
+                    "Rating": 7.6,
+                    "RatingCount": 9,
+                    "AirDate": "2011-05-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63869,
+                    "EpisodeNumber": 5,
+                    "Title": "Unplanned Parenthood",
+                    "Plot": "When an infant suffers breathing trouble and liver failure, House and the team must look at the medical history of the mother in order to find an answer, and ultimately land on a discovery that forces the mother to jeopardize not only her child's health but her own. Meanwhile Taub and Foreman must find a new female doctor to fill the spot vacated by Thirteen and House and Wilson learn a thing or two about parenting while caring for Cuddy's daughter.",
+                    "Rating": 7.7,
+                    "RatingCount": 10,
+                    "AirDate": "2010-10-18",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63876,
+                    "EpisodeNumber": 9,
+                    "Title": "Larger Than Life",
+                    "Plot": "After saving a stranger who fell onto subway tracks, a man suddenly collapses despite appearing to be unscathed; House tries to avoid a dinner with Cuddy and her opinionated mother.",
+                    "Rating": 7.4,
+                    "RatingCount": 9,
+                    "AirDate": "2011-01-17",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63879,
+                    "EpisodeNumber": 11,
+                    "Title": "Family Practice",
+                    "Plot": "Cuddy’s mother, Arlene, is admitted to Princeton Plansboro after complaining about unusual symptoms, but stubborn Arlene insists that House be removed from the case, forcing House to come up with non-conventional means to treat his patient.",
+                    "Rating": 7.7,
+                    "RatingCount": 9,
+                    "AirDate": "2011-02-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63874,
+                    "EpisodeNumber": 6,
+                    "Title": "Office Politics",
+                    "Plot": "It’s election season, and in the midst of a tight campaign, an incumbent New Jersey senator’s campaign manager falls ill with liver failure and temporary paralysis. Cuddy pushes House to add a female doctor to his team by hiring brilliant third-year medical student Martha Masters in Thirteen’s absence.",
+                    "Rating": 7.5,
+                    "RatingCount": 10,
+                    "AirDate": "2010-11-08",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63872,
+                    "EpisodeNumber": 4,
+                    "Title": "Massage Therapy",
+                    "Plot": "House and his team make unexpected discoveries about a female patient admitted to the hospital after severe and uncontrollable vomiting; House and Cuddy are forced to face the reservations in their relationship after a visit from a massage therapist.",
+                    "Rating": 7.3,
+                    "RatingCount": 11,
+                    "AirDate": "2010-10-11",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                },
+                {
+                    "Id": 63883,
+                    "EpisodeNumber": 14,
+                    "Title": "Recession Proof",
+                    "Plot": "A patient is admitted after breaking out in a severe rash triggered by caustic chemical exposure at his blue-collar job. Meanwhile, Cuddy is honored with an award and needs House to be at the charity event for support, but his attendance is threatened when his patient’s battle to survive forces him to question his practice and his own happiness.",
+                    "Rating": 7.1,
+                    "RatingCount": 9,
+                    "AirDate": "2011-02-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Lisa Edelstein",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Olivia Wilde",
+                        "Bobbin Bergstrom"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 3681,
+            "SeasonNumber": 8,
+            "Episodes": [
+                {
+                    "Id": 63893,
+                    "EpisodeNumber": 2,
+                    "Title": "Transplant",
+                    "Plot": "A surprising visitor makes House an offer he can't refuse by giving him the opportunity to help the Princeton Plainsboro team treat a unique patient in order to save the life of an organ recipient being treated by Wilson. Although House finds himself back on familiar ground, he quickly realizes that much has changed since he left, and he is forced to work on the case with smart yet timid resident Dr. Chi Park. After several inconclusive treatments and with time running out, House and Dr. Park are left with one last option to examine the patient's medical history that could compromise House's conditional agreement with the hospital. Meanwhile, House makes an effort to reconnect with Wilson despite a cold reception.",
+                    "Rating": 7.6,
+                    "RatingCount": 11,
+                    "AirDate": "2011-10-10",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63892,
+                    "EpisodeNumber": 1,
+                    "Title": "Twenty Vicodin",
+                    "Plot": "House is serving out a lengthy prison sentence for his various misdeeds, including his trip outside the country in an attempt to escape responsibility. Entirely cut off from his old life, House determines his current problems are the result of his inability to deal with people. Feeling he will never be able to practice medicine again, he plans instead to go back to university to earn a doctorate in physics - a field that will all but assure his isolation from other human beings.",
+                    "Rating": 8.3,
+                    "RatingCount": 13,
+                    "AirDate": "2011-10-03",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63895,
+                    "EpisodeNumber": 4,
+                    "Title": "Risky Business",
+                    "Plot": "A CEO falls mysteriously ill just days before he signs a contract that would relocate his company's entire labor force to China. House attempts to make an underhanded business transaction with his wealthy patient, but when the patient's condition worsens, the team must work around the clock to save his life. Meanwhile, Park prepares for her hearing with the Princeton Plainsboro Disciplinary Committee chaired by Foreman, and Adams' outlook on her patient's business venture reveals her deeper feelings about loyalty.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2011-10-31",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63897,
+                    "EpisodeNumber": 6,
+                    "Title": "Parents",
+                    "Plot": "A teenage boy attempting to follow in his late father’s footsteps as an entertainer is admitted to Princeton Plainsboro with partial paralysis. As the team searches for a bone marrow match, they uncover a disturbing family secret. Meanwhile, House looks for creative ways to remove his ankle monitor so that he can attend a boxing match in Atlantic City, and he treats a patient who is convinced he is suffering from diabetes. Also, Taub faces a tough decision when his ex-wife Rachel tells him that she wants to move across the country with their infant daughter.",
+                    "Rating": 6.9,
+                    "RatingCount": 10,
+                    "AirDate": "2011-11-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63896,
+                    "EpisodeNumber": 5,
+                    "Title": "The Confession",
+                    "Plot": "A man well-respected in his community suddenly collapses, and in the process of diagnosing his symptoms, the team discovers that the patient has been hiding dark and dishonest secrets about his personal and professional life. But when the patient openly confesses his wrongdoings to his family and community, he compromises his chances of receiving the proper medical treatment. Meanwhile, House will stop at nothing to manipulate Taub into taking a DNA test to prove he is the father of his two six-month-old daughters.",
+                    "Rating": 7.7,
+                    "RatingCount": 12,
+                    "AirDate": "2011-11-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63904,
+                    "EpisodeNumber": 15,
+                    "Title": "Blowing the Whistle",
+                    "Plot": "The team treats an Army veteran charged with treason after he leaked classified information. But the patient's life is put at risk when he refuses treatment unless he and his brother are given information about their late father, a war veteran, which raises questions about loyalty to one's family and country. Meanwhile, Adams suspects House may be sick, so she recruits Wilson and the other team members to plan an intervention and investigate his illness.",
+                    "Rating": 6.7,
+                    "RatingCount": 11,
+                    "AirDate": "2012-04-02",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63899,
+                    "EpisodeNumber": 8,
+                    "Title": "Perils of Paranoia",
+                    "Plot": "A prosecutor suffers from what he believes to be cardiac arrest during an interrogation at the witness stand. The team's preliminary diagnosis is hyper-anxiety, but when Adams and Park investigate the patient's home and find a hidden arsenal of firearms, they uncover a more alarming and deep-seated psychological disorder.",
+                    "Rating": 7.1,
+                    "RatingCount": 11,
+                    "AirDate": "2011-11-28",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63894,
+                    "EpisodeNumber": 3,
+                    "Title": "Charity Case",
+                    "Plot": "House and Park treat a patient, Benjamin, who collapsed after making a surprisingly large charity donation, and come to suspect that the altruistic behavior is a symptom of a deeper disorder. When the patient offers to donate an organ for another patient, the doctors must convince Dr. Adams to help them confirm whether Benjamin is in his right mind or not.",
+                    "Rating": 7.5,
+                    "RatingCount": 11,
+                    "AirDate": "2011-10-17",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63900,
+                    "EpisodeNumber": 9,
+                    "Title": "Better Half",
+                    "Plot": "House and his team treat an Alzheimer's patient who vomits blood and flies into violent rages. Meanwhile, when Wilson tells House about a patient who has never had sex with her husband of 10 years, claiming A-sexuality, House makes a wager with him that there has to be an underlying cause.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2012-01-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63905,
+                    "EpisodeNumber": 13,
+                    "Title": "Man of the House",
+                    "Plot": "House's green-card wife, Dominika, will return in order to prove to the proper authorities that she and House are actually married. This in turn will lead to a crash course in which both will learn a little something about love and marriage.",
+                    "Rating": 7.2,
+                    "RatingCount": 11,
+                    "AirDate": "2012-02-20",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63914,
+                    "EpisodeNumber": 14,
+                    "Title": "Love Is Blind",
+                    "Plot": "\"Love Is Blind\" is the fourteenth episode of the season eight of House and the 169th overall. The episode debuted in Canada on Global on February 27, 2012, and aired three weeks later in the United States on Fox on March 19, 2012. The unusual three-week delay was a byproduct of the 2012 Daytona 500 rain delay of 30 hours.",
+                    "Rating": 7.3,
+                    "RatingCount": 11,
+                    "AirDate": "2012-03-19",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63906,
+                    "EpisodeNumber": 17,
+                    "Title": "We Need the Eggs",
+                    "Plot": "House and the team take on the case of a man who starts tearing blood. Meanwhile, House is interviewing for a new favorite hooker, since his current favorite, Emily, has decided to get married and leave the business. Desperate for Emily \"companionship,\" House teams up with his \"wife\" Dominika to sabotage Emily's budding relationship.",
+                    "Rating": 7.6,
+                    "RatingCount": 11,
+                    "AirDate": "2012-04-16",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63901,
+                    "EpisodeNumber": 10,
+                    "Title": "Runaways",
+                    "Plot": "When a runaway teen requires hospitalization, Adams butts heads with House when she insists they contact Social Services. Meanwhile, Taub has trouble forming a personal connection with his baby daughters and Foreman's relationship with a married woman comes out.",
+                    "Rating": 7,
+                    "RatingCount": 11,
+                    "AirDate": "2012-01-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63903,
+                    "EpisodeNumber": 11,
+                    "Title": "Nobody's Fault",
+                    "Plot": "House and his team are placed under review after a staff member gets hurt.",
+                    "Rating": 8.5,
+                    "RatingCount": 13,
+                    "AirDate": "2012-02-06",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63898,
+                    "EpisodeNumber": 7,
+                    "Title": "Dead & Buried",
+                    "Plot": "The team learns that their 14-year-old patient is suffering from more than teen angst when her physical symptoms worsen. Despite Foreman’s firm opposition, House becomes obsessed with solving a peculiar case of a deceased four-year-old patient, which gets him into serious trouble. Meanwhile, Park tries to get Chase (Jesse Spencer) to admit the reason behind his recent obsession with grooming.",
+                    "Rating": 7.3,
+                    "RatingCount": 10,
+                    "AirDate": "2011-11-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63902,
+                    "EpisodeNumber": 12,
+                    "Title": "Chase",
+                    "Plot": "Chase's religious faith bubbles to the surface when he treats a young nun. In addition, he and House reach a fundamental disagreement about the patient that may finally end Chase's reputation as House's \"yes man\" but also bring's House's methods, reputation and objectivity are given more serious scrutiny.",
+                    "Rating": 8.5,
+                    "RatingCount": 14,
+                    "AirDate": "2012-02-13",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63908,
+                    "EpisodeNumber": 18,
+                    "Title": "Body and Soul",
+                    "Plot": "House and the team take on the case of a young boy who has violent dreams of being choked, and then wakes up but still can't take in air. Meanwhile, Park is having intimate dreams involving co-workers, which causes the team to question whether or not there's significance to what each of them dreams. Dominika discovers House has been keeping a secret from her and Wilson drops a bombshell on him.",
+                    "Rating": 7.1,
+                    "RatingCount": 10,
+                    "AirDate": "2012-04-23",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 971522,
+                    "EpisodeNumber": 21,
+                    "Title": "Holding On",
+                    "Plot": "The team takes on the case of Derrick, a 19-year-old college student who had a mysterious nose bleed during cheerleading practice, and discovers that his health issues are likely both physiological and psychological. Possibly suffering from schizophrenia, Derrick claims to hear his deceased brother’s voice in his head. Meanwhile, Foreman tries a different approach with House.",
+                    "Rating": 8,
+                    "RatingCount": 12,
+                    "AirDate": "2012-05-14",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Charlyne Yi",
+                        "Odette Annable"
+                    ]
+                },
+                {
+                    "Id": 63912,
+                    "EpisodeNumber": 22,
+                    "Title": "Everybody Dies",
+                    "Plot": "Facing a 6-month jail term, and the realization that he won't be there for Wilson at the end, House finds himself examining his entire life while contemplating a dismal future without his best friend.",
+                    "Rating": 8.3,
+                    "RatingCount": 15,
+                    "AirDate": "2012-05-21",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63910,
+                    "EpisodeNumber": 20,
+                    "Title": "Post Mortem",
+                    "Plot": "Over the years, during the course of performing autopsies at Princeton-Plainsboro, Dr. Peter Treiber has often identified mistakes made by physicians that caused the patient's death. These observations have left him questioning the skills of nearly all the doctors on staff... all, that is, except House. When he falls ill, he demands that only House make medical decisions concerning his care. Unfortunately, House and Wilson have taken off on an impromptu road trip without telling anyone, leaving the team to fend alone and lie to their patient to make him believe that House is the guy calling all the shots.",
+                    "Rating": 8.3,
+                    "RatingCount": 9,
+                    "AirDate": "2012-05-07",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63909,
+                    "EpisodeNumber": 19,
+                    "Title": "The C-Word",
+                    "Plot": "When House and Wilson disappear off the grid for several days, without explanation, the team is left to deal with a complicated case of a 6-year old with numerous problems and complications, including an overbearing mother who also happens to be her physician.",
+                    "Rating": 7.9,
+                    "RatingCount": 14,
+                    "AirDate": "2012-04-30",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                },
+                {
+                    "Id": 63907,
+                    "EpisodeNumber": 16,
+                    "Title": "Gut Check",
+                    "Plot": "House and the team take on the case of a 22-year-old minor league hockey player who collapsed while coughing up blood after a fight on the ice. Meanwhile, House drops a bomb on Wilson, and Chase offers to help Park change her living arrangement.",
+                    "Rating": 7.3,
+                    "RatingCount": 11,
+                    "AirDate": "2012-04-09",
+                    "Cast": [
+                        "Hugh Laurie",
+                        "Omar Epps",
+                        "Robert Sean Leonard",
+                        "Jesse Spencer",
+                        "Peter Jacobson",
+                        "Odette Annable",
+                        "Charlyne Yi"
+                    ]
+                }
+            ]
+        }
+    ]
+}
