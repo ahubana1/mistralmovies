@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Movies_Mistral.Services.Implementations
 {
-    public class SearchService
+    public class SearchService : ISearchService
     {
     }
 }

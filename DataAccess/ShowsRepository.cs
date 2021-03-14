@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Movies_Mistral.Services
+namespace Movies_Mistral.DataAccess
 {
-    public interface ISearchService
+    public class ShowsRepository : IShowsRepository
     {
     }
 }

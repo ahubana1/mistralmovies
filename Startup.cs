@@ -9,6 +9,10 @@ using Movies_Mistral.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Mvc;
+using Movies_Mistral.DataAccess;
+using Movies_Mistral.Services;
+using Movies_Mistral.Services.Implementations;
 
 namespace Movies_Mistral
 {
@@ -30,7 +34,7 @@ namespace Movies_Mistral
                     "Server=(localdb)\\mssqllocaldb;Database=Movies;Trusted_Connection=True;");
                 });
 
-            SeedData();
+            //SeedData();
 
             services.AddControllersWithViews();
             // In production, the Angular files will be served from this directory
@@ -38,6 +42,14 @@ namespace Movies_Mistral
             {
                 configuration.RootPath = "ClientApp/dist";
             });
+
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+
+            //DI
+            services.AddScoped<IMovieRepository, MovieRepository>();
+            services.AddScoped<IShowsRepository, ShowsRepository>();
+            services.AddScoped<ISearchService, SearchService>();
+            services.AddScoped<IRatingService, RatingService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -67,7 +79,10 @@ namespace Movies_Mistral
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller}/{action=Index}/{id?}");
+                    //pattern: "{controller}/{action=Index}/{id?}"
+                    pattern: "api/{controller}/{action}"
+                    //pattern: ""
+                    );
             });
 
             app.UseSpa(spa =>
