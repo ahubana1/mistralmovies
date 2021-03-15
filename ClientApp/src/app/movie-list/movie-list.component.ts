@@ -1,7 +1,7 @@
 import { Component, OnInit, OnDestroy, ViewChild, ElementRef } from '@angular/core';
 import { DataAccessService } from '../services/data-access.service';
 import { SearchFilter } from '../models/search-filter';
-import { Movie } from '../models/movie-model';
+import { VideographyProduction } from '../models/movie-model';
 import { Subscription, fromEvent } from 'rxjs';
 import { map, debounceTime, distinctUntilChanged, filter } from 'rxjs/operators';
 
@@ -14,7 +14,7 @@ export class MovieListComponent implements OnInit, OnDestroy {
   @ViewChild('userSearchInput', { static: true }) userSearchInput: ElementRef;
   isLoading: boolean = false;
   totalItems: number = 0;
-  movies: Movie[] = [];
+  productions: VideographyProduction[] = [];
   filter: SearchFilter = {
     searchTerm: "",
     page: 1,
@@ -22,38 +22,25 @@ export class MovieListComponent implements OnInit, OnDestroy {
   };
   keyUpListener: Subscription;
 
-  constructor(private dataAccess: DataAccessService) { }
+  constructor(public dataAccess: DataAccessService) { }
 
   ngOnInit() {
-    this.populateMovies();
+    this.populate();
 
-    this.keyUpListener = fromEvent(this.userSearchInput.nativeElement, "keyup")
-      .pipe(
-        map((event: any) => {
-          return event.target.value;
-        }),
-        filter(res => res.length != 1), //at least 2 or when cleared - hence != 0
-        debounceTime(500),
-        distinctUntilChanged()
-      )
-      .subscribe((text: string) => {
-        this.resetFilter(text);
-        this.populateMovies();
-      });
+    this.keyupHandler();
   }
 
   ngOnDestroy() {
     this.keyUpListener.unsubscribe();
   }
 
-  populateMovies(): void {
+  populate(): void {
     this.isLoading = true;
 
     this.dataAccess.getMovies(this.filter).subscribe({
       next: (res) => {
         this.totalItems = res.totalItems;
-        // this.movies = res.movies;
-        this.movies.push(...res.movies);
+        this.productions.push(...res.movies);
       },
       complete: () => this.isLoading = false,
     });
@@ -61,22 +48,38 @@ export class MovieListComponent implements OnInit, OnDestroy {
 
   clear():void {
     this.resetFilter();
-    this.populateMovies();
+    this.populate();
   }
 
   loadMore():void {
     if(this.filter.page * this.filter.count < this.totalItems) {
       this.filter.page++;
-      this.populateMovies();
+      this.populate();
     }
   }
 
   resetFilter(text?:string):void {
-    this.movies = [];
+    this.productions = [];
     this.filter = {
       searchTerm: text ? text : "",
       page: 1,
       count: 10
     }
+  }
+
+  keyupHandler() {
+    this.keyUpListener = fromEvent(this.userSearchInput.nativeElement, "keyup")
+    .pipe(
+      map((event: any) => {
+        return event.target.value;
+      }),
+      filter(res => res.length != 1), //at least 2 or when cleared - hence != 0
+      debounceTime(500),
+      distinctUntilChanged()
+    )
+    .subscribe((text: string) => {
+      this.resetFilter(text);
+      this.populate();
+    });
   }
 }

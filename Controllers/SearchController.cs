@@ -8,15 +8,14 @@ namespace Movies_Mistral.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [ApiKey]
     public class SearchController : ControllerBase
     {
         private readonly ISearchService searchService;
-        private readonly IRatingService votingService;
 
-        public SearchController(ISearchService searchService, IRatingService votingService)
+        public SearchController(ISearchService searchService)
         {
             this.searchService = searchService;
-            this.votingService = votingService;
         }
 
         [HttpGet]
@@ -55,7 +54,7 @@ namespace Movies_Mistral.Controllers
         {
             SearchFilter filter = new SearchFilter(q, page, count);
             ShowQueryResult shows;
-
+            
             try
             {
                 shows = searchService.GetShows(filter);

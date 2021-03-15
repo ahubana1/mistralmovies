@@ -1,4 +1,4 @@
-export class Movie {
+export class VideographyProduction {
     id:string;
     title:string;
     plot:string;

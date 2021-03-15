@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class ApiListService {
   public localBaseApiUrl: string = "https://localhost:44393/api";
-  public cloudBaseApiUrl: string = "";
+  public cloudBaseApiUrl: string = "https://mistralmovies.azurewebsites.net/api";
 
   public getMovies: string = "/search/movies";
   public getShows: string = "/search/shows";
@@ -15,6 +15,6 @@ export class ApiListService {
   constructor() { }
 
   getApiUrl(url: string) { 
-    return this.localBaseApiUrl + url;
+    return this.cloudBaseApiUrl + url;
   }
 }

@@ -1,14 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Movies_Mistral.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Movies_Mistral.DataAccess;
 using Movies_Mistral.Services;
@@ -30,9 +27,9 @@ namespace Movies_Mistral
         {
             services.AddDbContextPool<MoviesContext>
                 (options => {
-                    options.UseSqlServer(
-                    "Server=(localdb)\\mssqllocaldb;Database=Movies;Trusted_Connection=True;");
-                });
+                    options.UseSqlServer(""
+                   );
+        });
 
             //SeedData();
 

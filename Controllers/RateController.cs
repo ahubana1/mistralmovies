@@ -1,20 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Movies_Mistral.Helpers;
 using Movies_Mistral.Models.DTOs;
 using Movies_Mistral.Models.ViewModels;
 using Movies_Mistral.Services;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Movies_Mistral.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiKey]
     public class RateController : ControllerBase
     {
         private readonly IRatingService votingService;
-
         public RateController(IRatingService votingService)
         {
             this.votingService = votingService;

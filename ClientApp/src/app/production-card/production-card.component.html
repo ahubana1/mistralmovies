@@ -1,0 +1,12 @@
+<div class="card">
+    <img [src]="'/images/' + production.id + '.jpg'" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">{{production.title}} ({{ production.releaseDate | date:'yyyy' }}) </h5>
+        <h6 class="card-subtitle mb-2 text-muted">&#9733;{{production.rating | number:'1.1-2'}}</h6>
+        <p class="card-text">{{production.plot | limitCharacters:150}}</p>
+        <small class="card-subtitle mb-2 text-muted">{{production.actors}}</small>
+
+        <star-rating value="0" totalstars="5" checkedcolor="gold" uncheckedcolor="black" size="24px" readonly="false"
+            (rate)="rate($event, production.id)"></star-rating>
+    </div>
+</div>
