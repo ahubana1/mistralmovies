@@ -36,12 +36,21 @@ namespace Movies_Mistral
 
             //SeedData();
 
-            services.AddControllersWithViews();
+            services.AddControllersWithViews()
+                .AddNewtonsoftJson(options =>
+                        options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "ClientApp/dist";
             });
+
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));
 
             services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
@@ -66,6 +75,7 @@ namespace Movies_Mistral
                 app.UseHsts();
             }
 
+            app.UseCors("MyPolicy");
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             if (!env.IsDevelopment())
@@ -79,11 +89,11 @@ namespace Movies_Mistral
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    //pattern: "{controller}/{action=Index}/{id?}"
                     pattern: "api/{controller}/{action}"
-                    //pattern: ""
                     );
             });
+
+            
 
             app.UseSpa(spa =>
             {
@@ -99,61 +109,61 @@ namespace Movies_Mistral
             });
         }
 
-        public void SeedData() 
-        {
-            using (var context = new MoviesContext())
-            {
-                context.Database.EnsureCreated();
+        //public void SeedData() 
+        //{
+        //    using (var context = new MoviesContext())
+        //    {
+        //        context.Database.EnsureCreated();
 
-                //IEnumerable<Actor> actors = Seeder.SeederClass.SeedActors();
-                //IEnumerable<Movie> movies = Seeder.SeederClass.SeedMovies(context);
+        //        //IEnumerable<Actor> actors = Seeder.SeederClass.SeedActors();
+        //        //IEnumerable<Movie> movies = Seeder.SeederClass.SeedMovies(context);
 
-                //foreach (var actor in actors)
-                //{
-                //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
-                //    if (testActor == null)
-                //    {
-                //        context.Actors.Add(actor);
-                //    }
-                //}
+        //        //foreach (var actor in actors)
+        //        //{
+        //        //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
+        //        //    if (testActor == null)
+        //        //    {
+        //        //        context.Actors.Add(actor);
+        //        //    }
+        //        //}
 
-                //foreach (var movie in movies)
-                //{
-                //    context.Movies.Add(movie);
-                //}
+        //        //foreach (var movie in movies)
+        //        //{
+        //        //    context.Movies.Add(movie);
+        //        //}
 
-                var tvShows = new int[] { 1668, 1408, 1418, 2691, 1100, 48891, 1421, 1395, 1400, 1911, 1399 };
-                foreach (var showNum in tvShows)
-                {
-                    //IEnumerable<Actor> actorsFromShow = Seeder.SeederClass.SeedActorsFromShow(showNum);
-                    //IEnumerable<Episode> episodes = Seeder.SeederClass.SeedEpisodesFromShow(showNum, context);
-                    //IEnumerable<Season> seasons = Seeder.SeederClass.SeedSeasonsFromShow(showNum, context);
-                    Show show = Seeder.SeederClass.SeedShow(showNum, context);
+        //        var tvShows = new int[] { 1668, 1408, 1418, 2691, 1100, 48891, 1421, 1395, 1400, 1911, 1399 };
+        //        foreach (var showNum in tvShows)
+        //        {
+        //            //IEnumerable<Actor> actorsFromShow = Seeder.SeederClass.SeedActorsFromShow(showNum);
+        //            //IEnumerable<Episode> episodes = Seeder.SeederClass.SeedEpisodesFromShow(showNum, context);
+        //            //IEnumerable<Season> seasons = Seeder.SeederClass.SeedSeasonsFromShow(showNum, context);
+        //            Show show = Seeder.SeederClass.SeedShow(showNum, context);
 
-                    //foreach (var actor in actorsFromShow)
-                    //{
-                    //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
-                    //    if (testActor == null)
-                    //    {
-                    //        context.Actors.Add(actor);
-                    //    }
-                    //}
+        //            //foreach (var actor in actorsFromShow)
+        //            //{
+        //            //    var testActor = context.Actors.FirstOrDefault(b => b.Id == actor.Id);
+        //            //    if (testActor == null)
+        //            //    {
+        //            //        context.Actors.Add(actor);
+        //            //    }
+        //            //}
 
-                    //foreach (var episode in episodes)
-                    //{
-                    //    context.Episodes.Add(episode);
-                    //}
+        //            //foreach (var episode in episodes)
+        //            //{
+        //            //    context.Episodes.Add(episode);
+        //            //}
 
-                    //foreach (var season in seasons)
-                    //{
-                    //    context.Seasons.Add(season);
-                    //}
+        //            //foreach (var season in seasons)
+        //            //{
+        //            //    context.Seasons.Add(season);
+        //            //}
 
-                    context.Shows.Add(show);
-                }
+        //            context.Shows.Add(show);
+        //        }
 
-                context.SaveChanges();
-            }
-        }
+        //        context.SaveChanges();
+        //    }
+        //}
     }
 }

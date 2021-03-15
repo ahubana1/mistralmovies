@@ -5,6 +5,7 @@
     "module": "esnext",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
+    "skipLibCheck": true,
     "declaration": false,
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,

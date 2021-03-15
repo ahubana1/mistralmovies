@@ -8,6 +8,7 @@ namespace Movies_Mistral.Services
 {
     public interface IRatingService
     {
-        bool Rate(RateViewModel rateViewModel);
+        void RateMovie(RateViewModel rateViewModel);
+        void RateShow(RateViewModel rateViewModel);
     }
 }

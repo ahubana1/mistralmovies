@@ -13,6 +13,253 @@ namespace Movies_Mistral.Migrations
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
+#pragma warning disable 612, 618
+            modelBuilder
+                .HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128)
+                .HasAnnotation("ProductVersion", "5.0.4")
+                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+            modelBuilder.Entity("ActorEpisode", b =>
+                {
+                    b.Property<string>("ActorsId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("EpisodesId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ActorsId", "EpisodesId");
+
+                    b.HasIndex("EpisodesId");
+
+                    b.ToTable("ActorEpisode");
+                });
+
+            modelBuilder.Entity("ActorMovie", b =>
+                {
+                    b.Property<string>("ActorsId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("MoviesId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ActorsId", "MoviesId");
+
+                    b.HasIndex("MoviesId");
+
+                    b.ToTable("ActorMovie");
+                });
+
+            modelBuilder.Entity("ActorShow", b =>
+                {
+                    b.Property<string>("ActorsId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ShowsId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ActorsId", "ShowsId");
+
+                    b.HasIndex("ShowsId");
+
+                    b.ToTable("ActorShow");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Actor", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Actors");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Episode", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("CoverImagePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("EpisodeNumber")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NumberOfRatings")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Plot")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Rating")
+                        .HasColumnType("float");
+
+                    b.Property<DateTimeOffset>("ReleaseDate")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("SeasonId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("SeasonId");
+
+                    b.ToTable("Episodes");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Movie", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("CoverImagePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NumberOfRatings")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Plot")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Rating")
+                        .HasColumnType("float");
+
+                    b.Property<DateTimeOffset>("ReleaseDate")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Movies");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Season", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("SeasonNumber")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ShowId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ShowId");
+
+                    b.ToTable("Seasons");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Show", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("CoverImagePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NumberOfRatings")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Plot")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Rating")
+                        .HasColumnType("float");
+
+                    b.Property<DateTimeOffset>("ReleaseDate")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Shows");
+                });
+
+            modelBuilder.Entity("ActorEpisode", b =>
+                {
+                    b.HasOne("Movies_Mistral.Models.Actor", null)
+                        .WithMany()
+                        .HasForeignKey("ActorsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Movies_Mistral.Models.Episode", null)
+                        .WithMany()
+                        .HasForeignKey("EpisodesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("ActorMovie", b =>
+                {
+                    b.HasOne("Movies_Mistral.Models.Actor", null)
+                        .WithMany()
+                        .HasForeignKey("ActorsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Movies_Mistral.Models.Movie", null)
+                        .WithMany()
+                        .HasForeignKey("MoviesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("ActorShow", b =>
+                {
+                    b.HasOne("Movies_Mistral.Models.Actor", null)
+                        .WithMany()
+                        .HasForeignKey("ActorsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Movies_Mistral.Models.Show", null)
+                        .WithMany()
+                        .HasForeignKey("ShowsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Episode", b =>
+                {
+                    b.HasOne("Movies_Mistral.Models.Season", null)
+                        .WithMany("Episodes")
+                        .HasForeignKey("SeasonId");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Season", b =>
+                {
+                    b.HasOne("Movies_Mistral.Models.Show", null)
+                        .WithMany("Seasons")
+                        .HasForeignKey("ShowId");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Season", b =>
+                {
+                    b.Navigation("Episodes");
+                });
+
+            modelBuilder.Entity("Movies_Mistral.Models.Show", b =>
+                {
+                    b.Navigation("Seasons");
+                });
+#pragma warning restore 612, 618
         }
     }
 }

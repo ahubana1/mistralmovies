@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Movies_Mistral.Helpers;
+using Movies_Mistral.Models.DTOs;
 using Movies_Mistral.Services;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Movies_Mistral.Controllers
 {
@@ -23,19 +21,63 @@ namespace Movies_Mistral.Controllers
 
         [HttpGet]
         [Route("movies")]
-        public IActionResult Movies(string q, int page = 1, int count = 10)
+        public IActionResult Movies(string q="", int page = 1, int count = 10)
         {
             SearchFilter filter = new SearchFilter(q, page, count);
+            MovieQueryResult movies;
 
-            return Ok(filter);
+            try
+            {
+                movies = searchService.GetMovies(filter);
+            }
+            catch (ArgumentOutOfRangeException)
+            {
+                return BadRequest(new ErrorDTO { 
+                    Error = true,
+                    ErrorMessage = "Page or count cannot be negative."
+                });
+            }
+            catch (Exception)
+            {
+                return BadRequest(new ErrorDTO
+                {
+                    Error = true,
+                    ErrorMessage = "Unknown error."
+                });
+            }
+
+            return Ok(movies);
         }
 
         [HttpGet]
         [Route("shows")]
-        public IActionResult Shows(string q, int page = 1, int count = 10)
+        public IActionResult Shows(string q = "", int page = 1, int count = 10)
         {
             SearchFilter filter = new SearchFilter(q, page, count);
-            return Ok(filter);
+            ShowQueryResult shows;
+
+            try
+            {
+                shows = searchService.GetShows(filter);
+            }
+            catch (ArgumentOutOfRangeException)
+            {
+                return BadRequest(new ErrorDTO
+                {
+                    Error = true,
+                    ErrorMessage = "Page or count cannot be negative."
+                });
+            }
+            catch (Exception)
+            {
+                return BadRequest(new ErrorDTO
+                {
+                    Error = true,
+                    ErrorMessage = "Unknown error."
+                });
+            }
+
+            return Ok(shows);
         }
     }
 }

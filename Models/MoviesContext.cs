@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
 
 #nullable disable
 
@@ -13,9 +11,9 @@ namespace Movies_Mistral.Models
         public DbSet<Episode> Episodes { get; set; }
         public DbSet<Season> Seasons { get; set; }
         public DbSet<Show> Shows { get; set; }
-        public MoviesContext()
-        {
-        }
+        //public MoviesContext()
+        //{
+        //}
 
         public MoviesContext(DbContextOptions<MoviesContext> options)
             : base(options)

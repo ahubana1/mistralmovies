@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Movies_Mistral.Models.DTOs;
 using Movies_Mistral.Models.ViewModels;
 using Movies_Mistral.Services;
 using System;
@@ -12,12 +13,10 @@ namespace Movies_Mistral.Controllers
     [ApiController]
     public class RateController : ControllerBase
     {
-        private readonly ISearchService searchService;
         private readonly IRatingService votingService;
 
-        public RateController(ISearchService searchService, IRatingService votingService)
+        public RateController(IRatingService votingService)
         {
-            this.searchService = searchService;
             this.votingService = votingService;
         }
 
@@ -25,14 +24,39 @@ namespace Movies_Mistral.Controllers
         [Route("movie")]
         public IActionResult RateMovie([FromBody]RateViewModel rateViewModel)
         {
-            return Ok("movieID: " + rateViewModel.Id + ", stars: " + rateViewModel.Rate);
+            try
+            {
+                votingService.RateMovie(rateViewModel);
+            }
+            catch (Exception)
+            {
+                return BadRequest(new ErrorDTO { 
+                    Error = true,
+                    ErrorMessage = "Unknown error."
+                });
+            }
+
+            return Ok();
         }
 
         [HttpPost]
         [Route("show")]
         public IActionResult RateShow([FromBody]RateViewModel rateViewModel)
         {
-            return Ok("showID: " + rateViewModel.Id + ", stars: " + rateViewModel.Rate);
+            try
+            {
+                votingService.RateShow(rateViewModel);
+            }
+            catch (Exception)
+            {
+                return BadRequest(new ErrorDTO
+                {
+                    Error = true,
+                    ErrorMessage = "Unknown error."
+                });
+            }
+
+            return Ok();
         }
     }
 }

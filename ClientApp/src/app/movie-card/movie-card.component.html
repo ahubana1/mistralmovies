@@ -1,0 +1,12 @@
+<div class="card">
+    <img [src]="'/images/' + movie.id + '.jpg'" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">{{movie.title}} ({{ movie.releaseDate | date:'yyyy' }}) </h5>
+        <h6 class="card-subtitle mb-2 text-muted">&#9733;{{movie.rating}}</h6>
+        <p class="card-text">{{movie.plot | limitCharacters:150}}</p>
+        <small class="card-subtitle mb-2 text-muted">{{movie.actors}}</small>
+
+        <star-rating value="0" totalstars="5" checkedcolor="gold" uncheckedcolor="black" size="24px" readonly="false"
+            (rate)="rate($event, movie.id)"></star-rating>
+    </div>
+</div>

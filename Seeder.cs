@@ -161,7 +161,6 @@ namespace Movies_Mistral.Seeder
                     ReleaseDate = mh.ReleaseDate,
                     Rating = mh.Rating/2,
                     NumberOfRatings = mh.Votes,
-                    CoverImagePath = "wwwroot/images/" + mh.imdbID.Substring(0, 5) + "/" + mh.imdbID + ".jpg",
                     Actors = actors
                 });
             }
@@ -251,7 +250,6 @@ namespace Movies_Mistral.Seeder
                         ReleaseDate = (DateTimeOffset)dtoffset,
                         Rating = episodeHelper.Rating,
                         NumberOfRatings = episodeHelper.RatingCount,
-                        CoverImagePath = "wwwroot/images/" + showHelper.StringId + ".jpg",
                         Actors = actors,
                         EpisodeNumber = episodeHelper.EpisodeNumber,
                     });
@@ -314,7 +312,6 @@ namespace Movies_Mistral.Seeder
                 ReleaseDate = showHelper.FirstAired,
                 Rating = showHelper.Rating,
                 NumberOfRatings = showHelper.RatingCount,
-                CoverImagePath = "wwwroot/images/" + showHelper.StringId + ".jpg",
                 Actors = actors,
                 Seasons = seasons
             };
